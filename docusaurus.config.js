@@ -22,16 +22,39 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          path: 'docs/about',
+          sidebarPath: require.resolve('./sidebarsAbout.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/otterclam/otter-docs/tree/main/',
+          editUrl: 'https://github.com/otterclam/otter-docs/tree/main',
           routeBasePath: '/',
         },
-        blog: false,
+        // blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
+    ],
+  ],
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'treasury',
+        path: 'docs/treasury',
+        routeBasePath: 'treasury',
+        sidebarPath: require.resolve('./sidebarsTreasury.js'),
+        editUrl: 'https://github.com/otterclam/otter-docs/tree/main',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'ottopia',
+        path: 'docs/ottopia',
+        routeBasePath: 'ottopia',
+        sidebarPath: require.resolve('./sidebarsOttopia.js'),
+        editUrl: 'https://github.com/otterclam/otter-docs/tree/main',
+      },
     ],
   ],
 
@@ -47,9 +70,23 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'README',
             position: 'left',
-            label: 'Tutorial',
+            label: 'About',
+          },
+          {
+            type: 'doc',
+            docsPluginId: 'treasury',
+            docId: 'staking',
+            position: 'left',
+            label: 'Treasury',
+          },
+          {
+            type: 'doc',
+            docsPluginId: 'ottopia',
+            docId: 'README',
+            position: 'left',
+            label: 'Ottopia',
           },
           {
             href: 'https://github.com/otterclam/otter-docs',
@@ -65,8 +102,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'About',
+                to: '/',
+              },
+              {
+                label: 'Treasury',
+                to: '/treasury/staking',
+              },
+              {
+                label: 'Ottopia',
+                to: '/ottopia',
               },
             ],
           },
