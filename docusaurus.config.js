@@ -22,16 +22,39 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          path: 'docs/about',
+          sidebarPath: require.resolve('./sidebarsAbout.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/otterclam/otter-docs/tree/main/',
+          editUrl: 'https://github.com/otterclam/otter-docs/tree/main',
           routeBasePath: '/',
         },
-        blog: false,
+        // blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
+    ],
+  ],
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'treasury',
+        path: 'docs/treasury',
+        routeBasePath: 'treasury',
+        sidebarPath: require.resolve('./sidebarsTreasury.js'),
+        editUrl: 'https://github.com/otterclam/otter-docs/tree/main',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'ottopia',
+        path: 'docs/ottopia',
+        routeBasePath: 'ottopia',
+        sidebarPath: require.resolve('./sidebarsOttopia.js'),
+        editUrl: 'https://github.com/otterclam/otter-docs/tree/main',
+      },
     ],
   ],
 
@@ -47,13 +70,27 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'README',
             position: 'left',
-            label: 'Tutorial',
+            label: 'About',
+          },
+          {
+            type: 'doc',
+            docsPluginId: 'treasury',
+            docId: 'staking',
+            position: 'left',
+            label: 'Treasury',
+          },
+          {
+            type: 'doc',
+            docsPluginId: 'ottopia',
+            docId: 'README',
+            position: 'left',
+            label: 'Ottopia',
           },
           {
             href: 'https://github.com/otterclam/otter-docs',
-            label: 'GitHub',
+            label: 'Github',
             position: 'right',
           },
         ],
@@ -62,16 +99,24 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'DOCS',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'About',
+                to: '/',
+              },
+              {
+                label: 'Treasury',
+                to: '/treasury',
+              },
+              {
+                label: 'Ottopia',
+                to: '/ottopia',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'COMMUNITY',
             items: [
               {
                 label: 'Discord',
@@ -84,7 +129,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'MORE',
             items: [
               {
                 label: 'Blog',
@@ -94,10 +139,14 @@ const config = {
                 label: 'Github',
                 href: 'https://github.com/otterclam',
               },
+              {
+                label: 'Youtube',
+                href: 'https://www.youtube.com/channel/UCDDMx916FeqHmCilGr5WuQw/videos',
+              },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} OtterClam`,
+        copyright: `Copyright © ${new Date().getFullYear()} OtterClam All Rights Reserved`,
       },
       prism: {
         theme: lightCodeTheme,
