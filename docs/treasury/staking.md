@@ -1,3 +1,7 @@
+---
+slug: /
+---
+
 # Staking
 
 ## What is Staking

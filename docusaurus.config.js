@@ -107,7 +107,7 @@ const config = {
               },
               {
                 label: 'Treasury',
-                to: '/treasury/staking',
+                to: '/treasury',
               },
               {
                 label: 'Ottopia',
