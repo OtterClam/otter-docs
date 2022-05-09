@@ -1,4 +1,4 @@
-# Ottopia
+# Store
 
 Otto is the first official citizen of the Otter Kingdom. Each Otto is an ERC721 NFT with unique traits and attributes. These NFTs are not only irresistibly cute, but they also happen to be the main characters of OtterClam’s first adventure game – Ottopia.
 
