@@ -10,6 +10,8 @@ OtterClam is a decentralized ecosystem that incorporates elements of finance, go
 
 OtterClam is a DAO-governed community of NFT, DeFi, and Metaverse enthusiasts who value transparency, innovation, education, and fun.&#x20;
 
+![Otter Kingdom](img/otter_kingdom.jpg)
+
 ## Why do we need OtterClam?
 
 As we acknowledged in our introduction, the DeFi space can be overwhelming and intimidating. The OtterClam project is creating a user-friendly application that provides an array of investment opportunities and educational resources across the NFT, DeFi, and Metaverse spaces.&#x20;

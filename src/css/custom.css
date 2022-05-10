@@ -6,25 +6,46 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --otterBlack: #1D2654;
+  --clamPink: #FF6854;
+  --clamPinkHover: #F5523C;
+  --otterBlue: #3B4BD8;
+  --otterBlueHover: #303FC7;
+  --seeweedGreen: #38D075;
+  --white: #FFFFFF;
+  --lightGray100: #F7F9FB;
+  --lightGray200: #E9F0F3;
+  --lightGray300: #DBE6EC;
+  --lightGray400: #CCD4E0;
+  --darkGray100: #8193B5;
+  --darkGray200: #434E77;
+  --darkGray400: #101631;
+  --ifm-color-primary: var(--otterBlue);
+  --ifm-color-primary-dark: var(--otterBlueHover);
+  --ifm-color-primary-darker: var(--otterBlack);
+  --ifm-color-primary-darkest: var(--darkGray400);
+  --ifm-color-primary-light: var(--clamPinkHover);
+  --ifm-color-primary-lighter: var(--clamPink);
+  --ifm-color-primary-lightest: var(--clamPink);
   --ifm-code-font-size: 95%;
+}
+
+.footer--dark {
+  --ifm-footer-background-color: var(--lightGray200);
+  --ifm-footer-color: var(--darkGray200);
+  --ifm-footer-link-color: var(--darkGray300);
+  --ifm-footer-title-color: var(--darkGray200);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #5585FF;
+  --ifm-color-primary-dark: #496CEA;
+  --ifm-color-primary-darker: #1D2654;
+  --ifm-color-primary-darkest: #101631;
+  --ifm-color-primary-light: #F5523C;
+  --ifm-color-primary-lighter: #FF6854;
+  --ifm-color-primary-lightest: #FF6854;
 }
 
 .docusaurus-highlight-code-line {

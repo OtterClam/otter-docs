@@ -90,7 +90,7 @@ const config = {
           },
           {
             href: 'https://github.com/otterclam/otter-docs',
-            label: 'GitHub',
+            label: 'Github',
             position: 'right',
           },
         ],
@@ -99,7 +99,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'DOCS',
             items: [
               {
                 label: 'About',
@@ -116,7 +116,7 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'COMMUNITY',
             items: [
               {
                 label: 'Discord',
@@ -129,7 +129,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'MORE',
             items: [
               {
                 label: 'Blog',
@@ -139,10 +139,14 @@ const config = {
                 label: 'Github',
                 href: 'https://github.com/otterclam',
               },
+              {
+                label: 'Youtube',
+                href: 'https://www.youtube.com/channel/UCDDMx916FeqHmCilGr5WuQw/videos',
+              },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} OtterClam`,
+        copyright: `Copyright © ${new Date().getFullYear()} OtterClam All Rights Reserved`,
       },
       prism: {
         theme: lightCodeTheme,
