@@ -70,3 +70,11 @@ To learn more about the rarity counting works, please visit: [Rarity Scores page
 
 The rarer your male and female Ottos’ traits, the higher the likelihood they’ll breed a super rare otter pup!
 The breeding system is planned in OtterClam's roadmap, and it will be developed soon in this year.
+
+## What can you do with the Otto NFT?
+
+#### Full Commercial Rights on all OtterClam assets
+You own all commercial rights to the images of all your Ottos as well as the 3D model of your Otter VX.
+
+#### Kingdom-wide Benefits
+Owners can use Ottos anywhere in the kingdom to reap benefits.
