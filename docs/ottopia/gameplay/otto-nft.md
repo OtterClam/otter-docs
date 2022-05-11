@@ -65,3 +65,8 @@ The rarity score is calculated according to the traits each Otto possesses. Each
 To learn more about the rarity counting works, please visit: [Rarity Scores page](./rarity-farming.md).
 
 ## Breeding
+
+#### Pass down your Ottos’ good genes to strengthen the Otter Kingdom
+
+The rarer your male and female Ottos’ traits, the higher the likelihood they’ll breed a super rare otter pup!
+The breeding system is planned in OtterClam's roadmap, and it will be developed soon in this year.
