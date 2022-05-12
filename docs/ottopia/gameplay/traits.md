@@ -6,7 +6,7 @@ Each Otto, Cleo, or Lottie will have the following traits:
 
 ![Rarity Sheets](img/otto-traits.jpg)
 
-Your otter’s traits, including looks, personality, and voice, will determine its attributes. There are 2 types of traits:
+Your otter’s traits, including looks, personality, and voice, will determine its [attributes](./attributes) and [basic rarity scores](./rarity-farming). There are 2 types of traits:
 
 - Native Traits
 - Wearable Equipment
@@ -39,7 +39,7 @@ Each Otto NFT has the following Wearable Equipment traits:
 
 ### Equip a wearable item on your Otto NFT 
 
-Despite of the initial traits that comes along with the Otto NFT, you can also equip other wearable items to increase its attribute values and rarity score.
+Despite of the initial traits that comes along with the Otto NFT, you can also equip other wearable items to increase its attribute values and rarity score. If you are going to strengthen your Otto NFT, here are some special cases that you must be aware of before you go further: 
 
 #### Unreturnable items
 
