@@ -11,7 +11,7 @@ Your otter’s traits, including looks, personality, and voice, will determine i
 - Native Traits
 - Wearable Equipment
 
-### Native Traits <a href="#native-traits" id="native-traits"></a>
+## Native Traits <a href="#native-traits" id="native-traits"></a>
 
 Native traits are ones your Otto is given at birth. They are extremely difficult to change, but there would be magic potions in the Otterverse that can alter native traits in the future. 
 
@@ -26,7 +26,7 @@ Each Otto NFT has the following Native traits:
 - Coat of Arms
 - Birthday
 
-### Wearable Equipment <a href="#wearable-equipment" id="wearable-equipment"></a>
+## Wearable Equipment <a href="#wearable-equipment" id="wearable-equipment"></a>
 
 Wearable equipment is technically a trait, and can be attached to our uniquely designed ERC1155 items using ERC998 specs. 
 
@@ -37,8 +37,24 @@ Each Otto NFT has the following Wearable Equipment traits:
 - Special Accessories
 - Clothes
 
+### Equip a wearable item on your Otto NFT 
+
+Despite of the initial traits that comes along with the Otto NFT, you can also equip other wearable items to increase its attribute values and rarity score.
+
+#### Unreturnable items
+
+Please note that the initial wearable traits came along with the Otto the moment it was minted, so it cannot be detached and returned to your item inventory. You can still wear another wearable item to replace and hide it. If the other wearable item is taken off, this item will be visible again on the Otto NFT.
+
+#### Equipping fee
+
+To let your Otto NFT wear an item, the Otto Kingdom will charge for an amount of equipping fee in order to ensure the attributes and rarity scores are migrated to your Otto NFT correctly.
+
+The equipping fee varies based on 3 groups of different rarity levels:
+
+![Equipping fee](./img/equipping_fee.jpg)
+
+Taking off the equipment from your Otto NFT won't charge any fee, but changing/replacing/wearing the items charges the fee as stated above.
+
 #### A Note on Equipment:
 
 Although your Otto will be minted with a specific set of equipment (some will have very basic equipment, others will have special, rare equipment), you can acquire additional equipment by purchasing shell chests in the [Ottopia Store](./store). You also have the chance to win rare equipment if your team completes a mission.
-
-As stated above, each piece of equipment is also an ERC1155 token that can be combined with an Otto NFT thanks to ERC998. You can equip or unequip the items anytime you want or trade the equipment in the secondary market. Remember, the attributes of each Otto NFT will be affected by the equipment.

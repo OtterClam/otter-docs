@@ -1,10 +1,11 @@
 # Otto NFT
 
 ## Meet Otto!
+> The First Citizens of the Otter Kingdom
 
-The First Citizens of the Otter Kingdom
+Otto NFT has unique features and will be valued accordingly. This feature of ERC-721 tokens is what differentiates them from ERC-20 tokens, which are equal in terms of value, and therefore identical and interchangeable.
 
-Breedable. Stakeable. Loveable! Ottos from the Genesis Collection are not only the cutest otters in the kingdom, they also have exclusive privileges. Wanna know more? Check out more details in this page.
+Otto NFT is breedabl, stakeable and loveable! Ottos from the Genesis Collection are not only the cutest otters in the kingdom, they also have exclusive privileges. Wanna know more? Check out more details in this page.
 
 ![Otto Collection](img/otto_collection.jpg)
 
@@ -62,7 +63,7 @@ To learn more about the attributes, please visit: [Attributes page](./attributes
 
 The rarity score is calculated according to the traits each Otto possesses. Each trait has its own base rarity score and relative rarity score. 
 
-To learn more about the rarity counting works, please visit: [Rarity Scores page](./rarity-farming.md).
+To learn more about the rarity counting works, please visit: [Rarity Scores page](./rarity-farming).
 
 ## Breeding
 
