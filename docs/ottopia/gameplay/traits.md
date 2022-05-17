@@ -45,16 +45,6 @@ Despite of the initial traits that comes along with the Otto NFT, you can also e
 
 Please note that the initial wearable traits came along with the Otto the moment it was minted, so it cannot be detached and returned to your item inventory. You can still wear another wearable item to replace and hide it. If the other wearable item is taken off, this item will be visible again on the Otto NFT.
 
-#### Equipping fee
-
-To let your Otto NFT wear an item, the Otto Kingdom will charge for an amount of equipping fee in order to ensure the attributes and rarity scores are migrated to your Otto NFT correctly.
-
-The equipping fee varies based on 3 groups of different rarity levels:
-
-![Equipping fee](./img/equipping_fee.jpg)
-
-Taking off the equipment from your Otto NFT won't charge any fee, but changing/replacing/wearing the items charges the fee as stated above.
-
 #### A Note on Equipment:
 
 Although your Otto will be minted with a specific set of equipment (some will have very basic equipment, others will have special, rare equipment), you can acquire additional equipment by purchasing shell chests in the [Ottopia Store](./store). You also have the chance to win rare equipment if your team completes a mission.

@@ -35,7 +35,7 @@ Total population: 100
 There are total 5,000 Otto citizens in the 1st generation migrated through the portal, but not all of them are the same. Those citizens can be classified as 2 types:
 
 - Classic Otto NFT
-- Legemdary Otto NFT
+- Legendary Otto NFT
 
 ![Types of Otto NFT](img/types_of_otto.png)
 

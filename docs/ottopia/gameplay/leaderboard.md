@@ -29,9 +29,33 @@ There are several ways you can engage in the rarity farming exercise. These incl
 
 That said, the rarity level of a single Otto NFT is dynamic and will change over time, as the distribution of traits and wearables in the Otterverse changes. In other words, it isn't enough to simply max out a particular trait in your Otto NFT. You also have to consider the actions of other players. For instance, if too many players try to grind it out for a Epic (E3) rifle with high Base Rarity Score (BRS), this trait becomes less rare, and its Relative Rarity Rcore (RRS) decreases, and then your Otto's rarity level will inevitably go down.
 
-### Calculating Rarity
+### Calculating rarity
 
 There are 2 types of rarity scores in play here - Base Rarity Score (for traits and wearables) & Absolute Rarity Score. In the [Rarity Score page](./rarity-farming.md), there is more detailed information that you should learn if you'd like to dig deeper in rarity farming.
+
+### Extra rarity score bonus
+
+Despite the factors listed above, your Otto's birthday may also affect your rarity score!
+
+#### Constellation bonus
+
+If the reward settlement date falls on your Otto's constellation, your Otto NFT will receive a **50 BRS** bonus in this epoch! The constellation bonus will reset after each epoch ends.
+
+For example: If the next reward settlement date is May 21, the date falls to Taurus. Every Otto, Lottie and Cleo whose star sign is Taurus will +50 BRS until the next epoch.
+
+#### The Chosen Otto bonus
+
+If the reward settlement date falls exactly on your Ottt's birthday, it means your Otto is the chosen one! Your Otto NFT will receive a **150 BRS** bonus in this epoch! The constellation bonus will reset after each epoch ends.
+
+For example: If the next reward settlement date is May 21, every Otto, Lottie and Cleo whose birthday is May 21 will +150 BRS until the next epoch. 
+
+> *Note: The birthday bonus cannot combine with the constellation bonus.*
+
+The chart below shows the defined constellation's start/end date, and the bonus rules.
+
+![Constellation Bonus](./img/constellation_bonus.jpg)
+
+
 
 ### Reward system
 
