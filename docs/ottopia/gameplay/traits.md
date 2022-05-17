@@ -11,7 +11,7 @@ Your otter’s traits, including looks, personality, and voice, will determine i
 - Native Traits
 - Wearable Equipment
 
-## Native Traits <a href="#native-traits" id="native-traits"></a>
+### Native Traits <a href="#native-traits" id="native-traits"></a>
 
 Native traits are ones your Otto is given at birth. They are extremely difficult to change, but there would be magic potions in the Otterverse that can alter native traits in the future. 
 
