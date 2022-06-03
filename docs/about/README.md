@@ -6,21 +6,21 @@ slug: /
 
 ## What is OtterClam?
 
-OtterClam is a decentralized ecosystem that incorporates elements of finance, governance, and NFTs, in the metaverse. These three components correspond to OtterClam’s Treasury, DAO, and Otter Kingdom, respectively.
+OtterClam is a decentralized ecosystem that incorporates elements of finance, governance, and NFTs, in the Metaverse. These three components correspond to OtterClam’s Treasury, DAO, and Otter Kingdom, respectively.
 
-OtterClam is a DAO-governed community of NFT, DeFi, and Metaverse enthusiasts who value transparency, innovation, education, and fun.&#x20;
+We are a DAO-governed community of NFT, DeFi, and Metaverse enthusiasts who value transparency, innovation, education, and fun.&#x20;
 
 ![Otter Kingdom](img/otter_kingdom.jpg)
 
 ## Why do we need OtterClam?
 
-As we acknowledged in our introduction, the DeFi space can be overwhelming and intimidating. The OtterClam project is creating a user-friendly application that provides an array of investment opportunities and educational resources across the NFT, DeFi, and Metaverse spaces.&#x20;
+The DeFi space can be overwhelming and intimidating. The OtterClam project is creating a fun, interactive, and user-friendly application that provides an array of investment opportunities and educational resources across the NFT, DeFi, and Metaverse spaces.&#x20;
 
-We have created a thoughtfully designed ecosystem that utilizes a robust incentive structure built around a token that provides utility within each space. The “meta-utility” of the token allows CLAM to be utilized _across_ the entire ecosystem. &#x20;
+We have created a thoughtfully designed ecosystem that utilizes a robust incentive structure built around the CLAM token that provides utility within each space. The “meta-utility” of the token allows CLAM to be utilized _across_ the entire ecosystem. &#x20;
 
-A tight-knit community who values education is vital to the success of the protocol. Why? Because without a strong sense of community, projects die. To harness the power of diversity of thought and competency, we utilize the DAO model of governance.&#x20;
+A tight-knit community who values education is vital to the success of the protocol. Why? Because without a strong sense of community, a project dies. To harness the power of diversity of thought and competency, we utilize the DAO model of governance.&#x20;
 
-While anyone who has participated actively in a DAO knows it is not without problems, the OtterClam team believes it provides a depth of human capital and level of transparency needed to reach our protocol's full potential. More importantly, however, it creates intrinsic value through the process of community building. Every new idea is contested and debated. Organizing people is notoriously messy and difficult, but our project has proven that community-building efforts are worth the time and energy they require.&#x20;
+While anyone who has participated actively in a DAO knows it is not without its problems, the OtterClam team believes it provides a depth of human capital and level of transparency needed to reach our protocol's full potential. More importantly, however, it creates intrinsic value through the process of community building. Every new idea is contested and debated. Although organizing people is notoriously messy and difficult, our project has proven that community-building efforts are worth the time and energy they require.&#x20;
 
 It is our view that few, if any, protocols offer products and services that integrate these spaces effectively. This is not, as some would argue, a solution in search of a problem. Anyone familiar with the NFT demographic has likely noticed a stark contrast between those interested in NFTs and those interested in DeFi mechanics. The same is true for Metaverse enthusiasts.&#x20;
 
@@ -34,7 +34,7 @@ Our goal is to create an ecosystem built on the CLAM token that incorporates NFT
 
 &#x20;The treasury backing CLAM is DAO-governed and optimized to support the interests of the community. Currently, under the directives of the DAO, the treasury funds are being utilized to optimize growth by diversifying assets. The "Treasury" in the Otter Kingdom is not simply a multi-sig wallet that maintains the protocol's funds.&#x20;
 
-We've broadened the Treasury's working definition to include the all the mechanisms at work behind the protocol's reward system. These include NFT market revenue management, the PEARL chests/notes rewards system, and of course, the various staking and bonding features that serve as the backbone of the protocol.
+We've broadened the Treasury's working definition to include all the mechanisms at work behind the protocol's reward system. These include NFT market revenue management, the PEARL chests/notes rewards system, and of course, the various staking and bonding features that serve as the backbone of the protocol.
 
 Users might also be introduced to our project through PAW Market, a proprietary, Polygon-based NFT market where users can buy, sell, and trade NFTs without the high fees associated with the Ethereum network.&#x20;
 
