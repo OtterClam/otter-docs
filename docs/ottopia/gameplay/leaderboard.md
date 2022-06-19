@@ -35,7 +35,11 @@ There are 2 types of rarity scores in play here - Base Rarity Score (for traits 
 
 ### Extra rarity score bonus
 
-Despite the factors listed above, your Otto's birthday may also affect your rarity score!
+Despite the factors listed above, your Otto's birthday and identity may also affect your rarity score!
+
+#### Legendary bonus
+
+Every legendary Otto will be blessed with **100 BRS** bonus permanently, but if any Otto's genetic trait has been replaced by any other trait, the bonus will be removed until the traits are set back to the defult.
 
 #### Constellation bonus
 
@@ -55,6 +59,27 @@ The chart below shows the defined constellation's start/end date, and the bonus 
 
 ![Constellation Bonus](./img/constellation_bonus.jpg)
 
+### Other rarity score boost method
+
+Despite of the genetic factors, here the Otter Kingdom also provides a powerful but a bit risky method for the player to boost your Otto's rarity tempararily to improve ranking in the leaderboard:
+
+#### Dice of Destiny <a href="#dod" id="dod"></a>
+
+![Dice of Destiny](./img/dice_of_destiny.jpg)
+
+The Dice of Destiny gives players a chance to temporarily boost your BRS for the current epoch in the Raking for Rarity Competition, but there’s a possibility that your Otto will lose some BRS as well.
+
+* Each roll produces a single, randomized result out of dozens of possible results.
+* Some of the results have a positive effect on your Otto’s BRS, While some have a negative effect on your Otto’s BRS.
+* Some results require an additional selection. Your choice will determine the fate of your Otto.
+* The BRS effect from rolling the Dice of Destiny only lasts for the current epoch, and will be removed as soon as it ends.
+* Do you know your Otto’s LUK value can actually affect the result? The more LUK your Otto has, the more likely the more likely the dice will roll good results.
+
+Here is the formula of Otto’s LUK effect on Dice event appearing in %
+
+![Dice of Destiny](./img/luk_dice.jpg)
+
+* The Dice results only affect the Otto you choose to roll a dice for.
 
 
 ### Reward system
