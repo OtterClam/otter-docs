@@ -35,3 +35,8 @@ The chart below demonstrates how the BRS and RRS are combined to determine a tot
 
 ![Example Sheets](img/traits_rarity_example.jpg)
 
+---
+
+The rarity score can let your Otto compete with other Otto's in Leaderboard of Rarity. The higher ranking your Otto is, the more rewards you will earn when the epoch ends. So gear up and join the rarity competition!
+
+Here is the intro of what leaderboard is and how to win in the rarity competition : [Leaderboard](./leaderboard.md)
