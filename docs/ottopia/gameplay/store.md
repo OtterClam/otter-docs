@@ -10,7 +10,7 @@ Shell Chests can be purchased by visiting the Ottopia Store. There are 3 types o
 
 ### Why should I buy Shell Chests?
 
-By puchasing the Sheel Chest, you will get the wearable equipment that you can equip on your Otto NFT to increase the attribute values or boost up its rarity score.
+By puchasing the Shell Chest, you will get the wearable equipment that you can equip on your Otto NFT to increase the attribute values or boost up its rarity score.
 
 
 ### What does a Shell Chest contain?
@@ -20,6 +20,21 @@ Every Shell Chest contains **1 wearable trait**. Please visit [Traits page](./tr
 Here is the formula used to show the probability of finding different rarity equipment in each chest.
 
 ![Chest](img/Chest.jpg)
+
+## Special Chest <a href="#shell-chest" id="special-chest"></a>
+Ottopia occasionally has flash sales with gorgeous exclusive items.
+
+### Lucky Star Chest
+
+Now Lucky Star Chest is for sale!
+
+As part of our latest Rarity Ranking Competition, and for a limited time only, we're introducing Lucky Star Chests. These Chests contain hundreds of wearable items, and each item's LUK value is guaranteed to equal more than 6 points! There are also 3 exclusive wearable items that can only be found in the Lucky Star Chests!
+
+Flash sale duration: June 25th, 0:00:00 ~ July 4th, 0:00:00 (UTC+0)
+
+Here is the formula used to show the probability of finding different rarity equipment in a Lucky Star chest.
+
+![Lucky Star Chest](img/lucky_star.jpg)
 
 ## Ottopia Market (WIP) <a href="#ottopia-market" id="ottopia-market"></a>
 
