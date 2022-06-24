@@ -30,7 +30,7 @@ Now Lucky Star Chest is for sale!
 
 As part of our latest Rarity Ranking Competition, and for a limited time only, we're introducing Lucky Star Chests. These Chests contain hundreds of wearable items, and each item's LUK value is guaranteed to equal more than 6 points! There are also 3 exclusive wearable items that can only be found in the Lucky Star Chests!
 
-Flash sale duration: June 25th, 0:00:00 ~ July 4th, 0:00:00 (UTC+0)
+Flash sale duration: June 25th, 0:00:00 ~ June 28th, 0:00:00 (UTC+0)
 
 Here is the formula used to show the probability of finding different rarity equipment in a Lucky Star chest.
 
