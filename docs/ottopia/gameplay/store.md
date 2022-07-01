@@ -24,17 +24,17 @@ Here is the formula used to show the probability of finding different rarity equ
 ## Special Chest <a href="#shell-chest" id="special-chest"></a>
 Ottopia occasionally has flash sales with gorgeous exclusive items.
 
-### Lucky Star Chest
+### Maverick Chest
 
-Now Lucky Star Chest is for sale!
+Now Maverick Chest is for sale!
 
-As part of our latest Rarity Ranking Competition, and for a limited time only, we're introducing Lucky Star Chests. These Chests contain hundreds of wearable items, and each item's LUK value is guaranteed to equal more than 6 points! There are also 3 exclusive wearable items that can only be found in the Lucky Star Chests!
+In honor of Independence Day, this Maverick Chest contains hundreds of wearable items, each of which has a DEX value of 8 points or more! There are also 3 exclusive wearable items that can only be found in the Maverick Chests!
 
-Flash sale duration: June 25th, 0:00:00 ~ June 28th, 0:00:00 (UTC+0)
+Flash sale duration: July 4th, 0:00:00 ~ July 11th, 0:00:00 (UTC+0)
 
-Here is the formula used to show the probability of finding different rarity equipment in a Lucky Star chest.
+Here is the formula used to show the probability of finding different rarity equipment in a Maverick chest.
 
-![Lucky Star Chest](img/lucky_star.jpg)
+![Maverick](img/maverick_chest.jpeg)
 
 ## Ottopia Market (WIP) <a href="#ottopia-market" id="ottopia-market"></a>
 
