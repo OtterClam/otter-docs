@@ -36,6 +36,10 @@ Here is the formula used to show the probability of finding different rarity equ
 
 ![Maverick](img/maverick_chest.jpeg)
 
+Do you know your Otto’s DEX value can actually affect the result? The more DEX your Otto has, the more likely the dice will roll good results. The following chart shows the probability of rolling a good, bad and optional event with different DEX value of your Otto.
+
+![Dex Effect](img/dex-effect-on-dice-event.jpg)
+
 ## Ottopia Market (WIP) <a href="#ottopia-market" id="ottopia-market"></a>
 
 In the short future, the OtterClam DAO is also planning to develop a marketplace for the user to buy and sell various items, even without playing Ottopia. Perhaps you were lucky enough to score a super rare trait on your first mint. You could sell your trait at a premium in the market, or you could greatly improve your odds of winning a mission by using the trait. We expect this market to develop a life of its own as the ecosystem begins to flourish.
