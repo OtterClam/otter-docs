@@ -73,11 +73,11 @@ The Dice of Destiny gives players a chance to temporarily boost your BRS for the
 * Some of the results have a positive effect on your Otto’s BRS, While some have a negative effect on your Otto’s BRS.
 * Some results require an additional selection. Your choice will determine the fate of your Otto.
 * The BRS effect from rolling the Dice of Destiny only lasts for the current epoch, and will be removed as soon as it ends.
-* Do you know your Otto’s LUK value can actually affect the result? The more LUK your Otto has, the more likely the dice will roll good results.
+* Do you know your Otto’s DEX value can actually affect the result? The more LUK your Otto has, the more likely the dice will roll good results.
 
-Here is the formula of Otto’s LUK effect on Dice event appearing in %
+Here is the formula of Otto’s DEX effect on Dice event appearing in %
 
-![Dice of Destiny](./img/luk_dice.jpg)
+![Dice of Destiny](./img/dex-effect-on-dice-event.jpg)
 
 * The Dice results only affect the Otto you choose to roll a dice for.
 
