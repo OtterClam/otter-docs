@@ -15,7 +15,7 @@
 ## Strategies
 
 - Qi Strategy: [0x69f6c4Fa150F9F0b3037612CF8FadDAeDbd46Bb8](https://polygonscan.com/address/0x69f6c4Fa150F9F0b3037612CF8FadDAeDbd46Bb8)
-- Penrose Strategy: [0x6c108d25299BC275cbB18855289327Ed9F290112](https:polygonscan.com/address/0x6c108d25299BC275cbB18855289327Ed9F290112)
+- Penrose Strategy: [0x6c108d25299BC275cbB18855289327Ed9F290112](https://polygonscan.com/address/0x6c108d25299BC275cbB18855289327Ed9F290112)
 
 ## Bonds <a href="#bonds" id="bonds"></a>
 
