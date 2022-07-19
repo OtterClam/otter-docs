@@ -1,6 +1,6 @@
 # Contracts
 
-## Mainnet Contracts & Addresses
+## Main Contracts & Addresses
 
 - CLAM: [0xC250e9987A032ACAC293d838726C511E6E1C029d](https://polygonscan.com/address/0xC250e9987A032ACAC293d838726C511E6E1C029d)​
 - Treasury: [0x8ce47D56EAa1299d3e06FF3E04637449fFb01C9C](https://polygonscan.com/address/0x8ce47D56EAa1299d3e06FF3E04637449fFb01C9C)​
@@ -17,19 +17,12 @@
 - Qi Strategy: [0x69f6c4Fa150F9F0b3037612CF8FadDAeDbd46Bb8](https://polygonscan.com/address/0x69f6c4Fa150F9F0b3037612CF8FadDAeDbd46Bb8)
 - Penrose Strategy: [0x6c108d25299BC275cbB18855289327Ed9F290112](https://polygonscan.com/address/0x6c108d25299BC275cbB18855289327Ed9F290112)
 
-## Bonds <a href="#bonds" id="bonds"></a>
+## LP
 
-- MAI (4,4): [0x779CB532e289CbaA3d0692Ae989C63C2B4fBd4d0](https://polygonscan.com/address/0x779CB532e289CbaA3d0692Ae989C63C2B4fBd4d0)
-- MAI-CLAM (4,4): [0xda0d7c3d751d00a1ec1c495eF7Cf3db1a202B0B9](https://polygonscan.com/address/0xda0d7c3d751d00a1ec1c495eF7Cf3db1a202B0B9)
-- MATIC (4,4): [0xf57Fb38f57D2a4Fca0ee074A3F3b4e5C570959E4](https://polygonscan.com/address/0xf57Fb38f57D2a4Fca0ee074A3F3b4e5C570959E4)
-- Bond Calculator: [0x651125e097d7e691f3df5f9e5224f0181e3a4a0e](https://polygonscan.com/address/0x651125e097d7e691f3df5f9e5224f0181e3a4a0e)​
-
-## LP <a href="#quickswap-lp" id="quickswap-lp"></a>
-
-- Dystopia - USD+/CLAM
+- Dystopia - USD+/CLAM [0x291e289c39cbaf5ee158028d086d76ffa141cfda](https://polygonscan.com/address/0x291e289c39cbaf5ee158028d086d76ffa141cfda)
 - QuickSwap - MAI/CLAM: [0x1581802317f32A2665005109444233ca6E3e2D68](https://polygonscan.com/address/0x1581802317f32a2665005109444233ca6e3e2d68)
 
-## Investment <a href="#migrator" id="migrator"></a>
+## Investment
 
 - LP Converter: [0x5F54c368e10196779cA40a4dFB55aD9B5532c099](https://polygonscan.com/address/0x5F54c368e10196779cA40a4dFB55aD9B5532c099)
 - QiDAO MAI/USDC Investment: [0x07DB6BFbD71E9DE0AfF3ab3eAe4CBC7B13EEF952](https://polygonscan.com/address/0x07DB6BFbD71E9DE0AfF3ab3eAe4CBC7B13EEF952)
@@ -39,7 +32,11 @@
 - Qi Locker: [0x69f6c4Fa150F9F0b3037612CF8FadDAeDbd46Bb8](https://polygonscan.com/address/0x69f6c4Fa150F9F0b3037612CF8FadDAeDbd46Bb8)
 - QiDAO MAI+3Pool Staking: [0xC94efd5D41ac32ccBe793f764930A5E6955CA31E](https://polygonscan.com/address/0xC94efd5D41ac32ccBe793f764930A5E6955CA31E)
 
-## Legacy Staking
+---
+
+## Deprecated Contracts
+
+### Staking v1
 
 - sCLAM: [0xAAc144Dc08cE39Ed92182dd85ded60E5000C9e67](https://polygonscan.com/address/0xAAc144Dc08cE39Ed92182dd85ded60E5000C9e67)
 - PEARL: [0x52A7F40BB6e9BD9183071cdBdd3A977D713F2e34​](https://polygonscan.com/address/0x52A7F40BB6e9BD9183071cdBdd3A977D713F2e34)
@@ -51,7 +48,7 @@
 - Otter Lake Distributor: [0xbB268A4b6be1bD2E676bfd46aaEA03A100324d35](https://polygonscan.com/address/0xbB268A4b6be1bD2E676bfd46aaEA03A100324d35)
 - Otter Lake Claim Helper: [0xD62560E0d4084Fd243B5369CFFcb1391d748FcE8](https://polygonscan.com/address/0xD62560E0d4084Fd243B5369CFFcb1391d748FcE8#readProxyContract)
 
-## Pearl Note <a href="#quickswap-lp" id="quickswap-lp"></a>
+### Pearl Note
 
 - Safe-Hand 14-Day Note: [0xC713af03353710EA37DF849237E32a936a63cBbd](https://polygonscan.com/address/0xC713af03353710EA37DF849237E32a936a63cBbd#code)
 - Safe-Hand 28-Day Note: [0x03883Df947Af7C0BE2aCe9163489fa85A9947008 ](https://polygonscan.com/address/0x03883Df947Af7C0BE2aCe9163489fa85A9947008)
@@ -61,18 +58,13 @@
 - Stone-Hand 90-Day Note: [0xBe982E164402970da7C72083FB8D5FcdeF751DfA ](https://polygonscan.com/address/0xBe982E164402970da7C72083FB8D5FcdeF751DfA)
 - Diamond-Hand 180-Day Note: [0x831725bD8c8d2B9e75b872649f146F88e8A92b36](https://polygonscan.com/address/0x831725bD8c8d2B9e75b872649f146F88e8A92b36)
 
-## Migrator <a href="#migrator" id="migrator"></a>
+### Bonds
+
+- MAI (4,4): [0x779CB532e289CbaA3d0692Ae989C63C2B4fBd4d0](https://polygonscan.com/address/0x779CB532e289CbaA3d0692Ae989C63C2B4fBd4d0)
+- MAI-CLAM (4,4): [0xda0d7c3d751d00a1ec1c495eF7Cf3db1a202B0B9](https://polygonscan.com/address/0xda0d7c3d751d00a1ec1c495eF7Cf3db1a202B0B9)
+- MATIC (4,4): [0xf57Fb38f57D2a4Fca0ee074A3F3b4e5C570959E4](https://polygonscan.com/address/0xf57Fb38f57D2a4Fca0ee074A3F3b4e5C570959E4)
+- Bond Calculator: [0x651125e097d7e691f3df5f9e5224f0181e3a4a0e](https://polygonscan.com/address/0x651125e097d7e691f3df5f9e5224f0181e3a4a0e)​
+
+### Migrator
 
 - Migrator: [0xDaa1f5036eC158fca9E5ce791ab3e213cD1c41df](https://polygonscan.com/address/0xDaa1f5036eC158fca9E5ce791ab3e213cD1c41df)
-
-## Deprecated Contracts
-
-- FRAX (4,4) v2: [0x9e1430EB3b56e8953a342BFBBdD2DDC3b6E84d9D](https://polygonscan.com/address/0x9e1430EB3b56e8953a342BFBBdD2DDC3b6E84d9D)
-- FRAX-CLAM (4,4): [0xd99c8aF24c5E7fd6E292b1682Ec0f0cB3535e002](https://polygonscan.com/address/0xd99c8aF24c5E7fd6E292b1682Ec0f0cB3535e002)
-- MATIC-CLAM (4,4): [0x1dAc605bDD4e8F3ab23da9B360e672f4e973A196](https://polygonscan.com/address/0x1dAc605bDD4e8F3ab23da9B360e672f4e973A196)
-- MAI bond: [0x603A74Fd527b85E0A1e205517c1f24aC71f5C263](https://polygonscan.com/address/0x603A74Fd527b85E0A1e205517c1f24aC71f5C263)
-- MAI/CLAM LP bond: [0x706587BD39322A6a78ddD5491cDbb783F8FD983E](https://polygonscan.com/address/0x706587BD39322A6a78ddD5491cDbb783F8FD983E)​
-- FRAX (4,4) bond​ v1: [0x5Fa0FBDb07Fe9647B43426dcc79da984f0327E4a](https://polygonscan.com/address/0x5Fa0FBDb07Fe9647B43426dcc79da984f0327E4a)
-- QiDAO QI/WMATIC Investment: [0xC3356D852330e947144400d237563288c59F3539](https://polygonscan.com/address/0xC3356D852330e947144400d237563288c59F3539#code)
-
-  > Move to Qi Locker
