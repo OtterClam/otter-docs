@@ -33,12 +33,11 @@ You can find more CEXs on here [https://awesomepolygon.com/cex/](https://awesome
    ![](https://i.imgur.com/6lRShrv.png)
 5. Withdraw MATIC from the exchange you use for your wallet. The wallet address should be the same as the one you have for Ethereum.
 6. Swap some $MATIC to **$CLAM\*\*. Attention: Don’t swap all! You should save some $MATIC for future gas fees, 0.1\~1 $MATIC is enough for plenty of transactions.
-7. Go to OtterClam webapp [https://app.otterclam.finance/#/stake](https://app.otterclam.finance/#/stake)
+7. Go to Ottopia webapp [https://ottopia.app/treasury/pond](https://ottopia.app/treasury/pond)
 8. Approve & Stake all your **$CLAM**s.
-9. Sit and chill.\
-   \\
+9. Sit and chill.
 
-![](https://i.imgur.com/C6VrXJY.png)
+![](./img/clam-pond.jpg)
 
 ### Trading for CLAM from other chains <a href="#trading-for-clam-from-other-chains" id="trading-for-clam-from-other-chains"></a>
 
