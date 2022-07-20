@@ -24,6 +24,7 @@ Here is the formula used to show the probability of finding different rarity equ
 ## Special Chest <a href="#shell-chest" id="special-chest"></a>
 Ottopia occasionally has flash sales with gorgeous exclusive items.
 
+<!--
 ### Maverick Chest
 
 Now Maverick Chest is for sale!
@@ -39,6 +40,7 @@ Here is the formula used to show the probability of finding different rarity equ
 Do you know your Otto’s DEX value can actually affect the result? The more DEX your Otto has, the more likely the dice will roll good results. The following chart shows the probability of rolling a good, bad and optional event with different DEX value of your Otto.
 
 ![Dex Effect](img/dex-effect-on-dice-event.jpg)
+-->
 
 ## Ottopia Market (WIP) <a href="#ottopia-market" id="ottopia-market"></a>
 
