@@ -4,12 +4,31 @@ slug: /
 
 # Staking
 
-## What is Staking
+Ottopia has a treasury working behind that invest in trust/safe DeFi protocols to earn reward for Otters.
 
-**Staking is the primary value accrual strategy of OtterClam.** Stakers stake their **CLAM** tokens on [the OtterClam website](https://app.otterclam.finance/#/stake) to earn harvest rewards. The harvest rewards come from the proceeds from [bond sales](https://docs.otterclam.finance/basics/bonding) and can vary based on the number of **CLAM** tokens staked in the protocol and the reward rate set by monetary policy.
+We provide two reward staking pools. Both pools boast similar APY/APRs, yet distribute rewards in different ways.
 
-**Staking is a passive, long-term strategy.** The increase in your stake in **CLAM** translates into a falling cost basis converging on zero. This means even if the market price of CLAM drops below your initial buy price, the increase in your staked CLAM balance should outpace the fall in price given enough time.
+## Clam Pond
 
-**When you stake, you lock CLAM and receive an index-adjusted equal amount of PEARL.** Your PEARL value will increase automatically at the end of every epoch. PEARL is transferable and therefore composable with other DeFi protocols.
+![](./assets/clam_pond.jpg)
 
-**When you unstake, you burn sCLAM and receive an equal amount of CLAM.** Unstaking means the user will give up the upcoming harvest reward. Note that the forfeited reward is only applicable to the unstaked amount. The remaining staked CLAM (if any) will continue to receive harvest rewards.
+- Stakers in Clam Pond receive auto-compounding CLAM. The rewarded CLAM comes from the open market, purchased with treasury revenue. Rewards are received at the end of each reward timer (every 24 hours).
+- Because Clam Pond rewards are received in “bought back” CLAM, Clam Pond is continuously reducing the circulating supply of CLAM on the open market. Not only will this enable Clam Pond stakers to stockpile more CLAM, it should also prove beneficial to the overall valuation of CLAM.
+- There’s a 1% early withdrawal fee within 30 days of staking. The timer will reset if you add more CLAM into the pool.
+
+Visit the Clam Pond here: https://ottopia.app/treasury/pond
+
+## Pearl Bank
+
+![](./assets/pearl_bank.jpg)
+
+Aside from the reward mechanics and auto compounding in Clam Pond, there are few differences between Clam Pond and Pearl Bank.
+
+- Like Clam Pond, token locking is not required in Pearl Bank either. Pearl Bank is not an auto-compounding pool, the rewards from this pool are claimable as USD+ (USD+ is an interest-bearing stablecoin fully collateralized by $USDC, $DAI, as well as $USDT).
+
+_Find out more about USD+ by visiting their [website](https://overnight.fi/)._
+
+- Pearl Bank offers a very similar APY to that of Clam Pond if you were to reinvest all of your USD+ rewards into Pearl Bank over the course of a year.
+- Both pools have an early withdrawal fee of 1% within 30 days of staking. This timer will reset if you add more CLAM into the pool.
+
+Visit the Pearl Bank here: https://ottopia.app/treasury/bank
