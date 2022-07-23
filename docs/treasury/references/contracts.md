@@ -4,6 +4,7 @@
 
 - CLAM: [0xC250e9987A032ACAC293d838726C511E6E1C029d](https://polygonscan.com/address/0xC250e9987A032ACAC293d838726C511E6E1C029d)​
 - Treasury: [0x8ce47D56EAa1299d3e06FF3E04637449fFb01C9C](https://polygonscan.com/address/0x8ce47D56EAa1299d3e06FF3E04637449fFb01C9C)​
+- Circulating Supply: [0x99ee91871cf39A44E3Fc842541274d7eA05AE4b3](https://polygonscan.com/address/0x99ee91871cf39A44E3Fc842541274d7eA05AE4b3)​
 - Pearl Bank: [0x845EB7730a8D37e8D190Fb8bb9c582038331B48a](https://polygonscan.com/address/0x845EB7730a8D37e8D190Fb8bb9c582038331B48a)​
 - Clam Pond: [0xF2A8705D327534E334d09BC28e5C97b5c356Aa01](https://polygonscan.com/address/0xF2A8705D327534E334d09BC28e5C97b5c356Aa01)​
 - ocUSD+: [0x1bD3F2a045615c435f1E11aec650E80e3A24F71B](https://polygonscan.com/address/0x1bD3F2a045615c435f1E11aec650E80e3A24F71B)
@@ -12,9 +13,9 @@
 
 ## Strategies
 
-- Qi Strategy: [0x69f6c4Fa150F9F0b3037612CF8FadDAeDbd46Bb8](https://polygonscan.com/address/0x69f6c4Fa150F9F0b3037612CF8FadDAeDbd46Bb8)
+- USDC/MAI QiDAO Strategy: [0x31e79E57fE7287dCa5285354338caB63A3C2b830](https://polygonscan.com/address/0x31e79E57fE7287dCa5285354338caB63A3C2b830)
+- Qi/MATIC QiDAO Strategy: [0x69f6c4Fa150F9F0b3037612CF8FadDAeDbd46Bb8](https://polygonscan.com/address/0x69f6c4Fa150F9F0b3037612CF8FadDAeDbd46Bb8)
 - Penrose Strategy: [0x6c108d25299BC275cbB18855289327Ed9F290112](https://polygonscan.com/address/0x6c108d25299BC275cbB18855289327Ed9F290112)
-- USDC/MAI Strategy: [0x31e79E57fE7287dCa5285354338caB63A3C2b830](https://polygonscan.com/address/0x31e79E57fE7287dCa5285354338caB63A3C2b830)
 
 ## LP
 
@@ -23,10 +24,7 @@
 
 ## Investment
 
-- LP Converter: [0x5F54c368e10196779cA40a4dFB55aD9B5532c099](https://polygonscan.com/address/0x5F54c368e10196779cA40a4dFB55aD9B5532c099)
 - QiDAO MAI/USDC Investment: [0x07DB6BFbD71E9DE0AfF3ab3eAe4CBC7B13EEF952](https://polygonscan.com/address/0x07DB6BFbD71E9DE0AfF3ab3eAe4CBC7B13EEF952)
-- QuickSwap Investment: [0x4933a7e336d91d0fc48773b99ba89bef4106f7d3](https://polygonscan.com/address/0x4933a7e336d91d0fc48773b99ba89bef4106f7d3)
-- Buyback: [0x017aDb26B2Ea4dbd9f1372710748e1388fa3082a](https://polygonscan.com/address/0x017aDb26B2Ea4dbd9f1372710748e1388fa3082a#code)
 - OtterClam Qi: [0x0906ee253B2cD6737A3CD3838490Cb0b90fD68be](http://polygonscan.com/address/0x0906ee253B2cD6737A3CD3838490Cb0b90fD68be)
 - Qi Locker: [0x69f6c4Fa150F9F0b3037612CF8FadDAeDbd46Bb8](https://polygonscan.com/address/0x69f6c4Fa150F9F0b3037612CF8FadDAeDbd46Bb8)
 
@@ -47,7 +45,6 @@
 - Staking: [0xC8B0243F350AA5F8B979b228fAe522DAFC61221a](https://polygonscan.com/address/0xC8B0243F350AA5F8B979b228fAe522DAFC61221a)​
 - Staking Helper: [0xe4b1e2e66880b3d129199f2a3ff2629f9b432f58](https://polygonscan.com/address/0xe4b1e2e66880b3d129199f2a3ff2629f9b432f58)​​
 - Staking Distributor: [0x0Dd015889df6F50d39e9D7A52711D0B86E43FC62](https://polygonscan.com/address/0x0Dd015889df6F50d39e9D7A52711D0B86E43FC62)​
-- Circulating Supply: [0x99ee91871cf39A44E3Fc842541274d7eA05AE4b3](https://polygonscan.com/address/0x99ee91871cf39A44E3Fc842541274d7eA05AE4b3)​
 - Otter Lake: [0xc67aBdA25D0421FE9Dc1afd64183b179A426a256](https://polygonscan.com/address/0xc67aBdA25D0421FE9Dc1afd64183b179A426a256)
 - Otter Lake Distributor: [0xbB268A4b6be1bD2E676bfd46aaEA03A100324d35](https://polygonscan.com/address/0xbB268A4b6be1bD2E676bfd46aaEA03A100324d35)
 - Otter Lake Claim Helper: [0xD62560E0d4084Fd243B5369CFFcb1391d748FcE8](https://polygonscan.com/address/0xD62560E0d4084Fd243B5369CFFcb1391d748FcE8#readProxyContract)
@@ -72,3 +69,9 @@
 ### Migrator
 
 - Migrator: [0xDaa1f5036eC158fca9E5ce791ab3e213cD1c41df](https://polygonscan.com/address/0xDaa1f5036eC158fca9E5ce791ab3e213cD1c41df)
+
+### Investments
+
+- LP Converter: [0x5F54c368e10196779cA40a4dFB55aD9B5532c099](https://polygonscan.com/address/0x5F54c368e10196779cA40a4dFB55aD9B5532c099)
+- QuickSwap Investment: [0x4933a7e336d91d0fc48773b99ba89bef4106f7d3](https://polygonscan.com/address/0x4933a7e336d91d0fc48773b99ba89bef4106f7d3)
+- Buyback: [0x017aDb26B2Ea4dbd9f1372710748e1388fa3082a](https://polygonscan.com/address/0x017aDb26B2Ea4dbd9f1372710748e1388fa3082a#code)
