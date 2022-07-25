@@ -24,23 +24,23 @@ Here is the formula used to show the probability of finding different rarity equ
 ## Special Chest <a href="#shell-chest" id="special-chest"></a>
 Ottopia occasionally has flash sales with gorgeous exclusive items.
 
-<!--
-### Maverick Chest
 
-Now Maverick Chest is for sale!
+### Kawaii Chest
 
-In honor of Independence Day, this Maverick Chest contains hundreds of wearable items, each of which has a DEX value of 8 points or more! There are also 3 exclusive wearable items that can only be found in the Maverick Chests!
+Now Kawaii Chest is for sale!
 
-Flash sale duration: July 4th, 0:00:00 ~ July 11th, 0:00:00 (UTC+0)
+As part of our latest Rarity Ranking Competition, and for a limited time only, we're introducing Kawaii Chests. These Chests contain hundreds of wearable items, and each item's CUTE value is guaranteed to equal more than 7 points! There are also several exclusive wearable items that can only be found in the Kawaii Chests!
 
-Here is the formula used to show the probability of finding different rarity equipment in a Maverick chest.
+Flash sale duration: July 27th, 0:00:00 ~ August 3th, 0:00:00 (UTC+0)
 
-![Maverick](img/maverick_chest.jpeg)
+Here is the formula used to show the probability of finding different rarity equipment in a Kawaii chest.
 
-Do you know your Otto’s DEX value can actually affect the result? The more DEX your Otto has, the more likely the dice will roll good results. The following chart shows the probability of rolling a good, bad and optional event with different DEX value of your Otto.
+![Kawaii](img/kawaii_chest.jpeg)
 
-![Dex Effect](img/dex-effect-on-dice-event.jpg)
--->
+Do you know your Otto’s CUTE value can actually affect the result? The more CUTE your Otto has, the more likely the dice will roll good results. The following chart shows the probability of rolling a good, bad and optional event with different CUTE value of your Otto.
+
+![CUTE Effect](img/cute-effect-on-dice-event.jpg)
+
 
 ## Ottopia Market (WIP) <a href="#ottopia-market" id="ottopia-market"></a>
 
