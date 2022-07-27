@@ -31,7 +31,7 @@ Now Kawaii Chest is for sale!
 
 As part of our latest Rarity Ranking Competition, and for a limited time only, we're introducing Kawaii Chests. These Chests contain hundreds of wearable items, and each item's CUTE value is guaranteed to equal more than 7 points! There are also several exclusive wearable items that can only be found in the Kawaii Chests!
 
-Flash sale duration: July 27th, 0:00:00 ~ August 3th, 0:00:00 (UTC+0)
+Flash sale duration: July 28th, 0:00:00 ~ August 3rd, 0:00:00 (UTC+0)
 
 Here is the formula used to show the probability of finding different rarity equipment in a Kawaii chest.
 
