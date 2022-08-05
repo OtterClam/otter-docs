@@ -22,24 +22,24 @@ Here is the formula used to show the probability of finding different rarity equ
 ![Chest](img/Chest.jpg)
 
 ## Special Chest <a href="#shell-chest" id="special-chest"></a>
-Ottopia occasionally has flash sales with gorgeous exclusive items.
+Ottopia occasionally has themed chest sales with gorgeous exclusive items.
 
 
-### Kawaii Chest
+### Galaxy Chest
 
-Now Kawaii Chest is for sale!
+Galaxy Chest is upcoming soon!
 
-As part of our latest Rarity Ranking Competition, and for a limited time only, we're introducing Kawaii Chests. These Chests contain hundreds of wearable items, and each item's CUTE value is guaranteed to equal more than 7 points! There are also several exclusive wearable items that can only be found in the Kawaii Chests!
+As part of our latest Rarity Ranking Competition, and for a limited time only, we're introducing Galaxy Chests. These Chests contain hundreds of wearable items, and each item's DEF value is guaranteed to equal more than 10 points! There are also several exclusive wearable items that can only be found in the Galaxy Chests!
 
-Flash sale duration: July 28th, 0:00:00 ~ August 3rd, 0:00:00 (UTC+0)
+Themed sale duration: August 10th, 0:00:00 ~ August 17th, 0:00:00 (UTC+0)
 
-Here is the formula used to show the probability of finding different rarity equipment in a Kawaii chest.
+<!--Here is the formula used to show the probability of finding different rarity equipment in a Kawaii chest.
 
-![Kawaii](img/kawaii_chest.jpeg)
+![Kawaii](img/kawaii_chest.jpeg)-->
 
-Do you know your Otto’s CUTE value can actually affect the result? The more CUTE your Otto has, the more likely the dice will roll good results. The following chart shows the probability of rolling a good, bad and optional event with different CUTE value of your Otto.
+Do you know your Otto’s DEF value can actually affect the result? The more DEF your Otto has, the more likely the dice will roll good results. The following chart shows the probability of rolling a good, bad and optional event with different DEF value of your Otto.
 
-![CUTE Effect](img/cute-effect-on-dice-event.jpg)
+![DEF Effect](img/def-effect-on-dice-event.jpg)
 
 
 ## Ottopia Market (WIP) <a href="#ottopia-market" id="ottopia-market"></a>
