@@ -33,9 +33,9 @@ As part of our latest Rarity Ranking Competition, and for a limited time only, w
 
 Themed sale duration: August 10th, 0:00:00 ~ August 17th, 0:00:00 (UTC+0)
 
-<!--Here is the formula used to show the probability of finding different rarity equipment in a Kawaii chest.
+Here is the formula used to show the probability of finding different rarity equipment in a Galaxy chest.
 
-![Kawaii](img/kawaii_chest.jpeg)-->
+![Galaxy](img/galaxy_chest.jpg)
 
 Do you know your Otto’s DEF value can actually affect the result? The more DEF your Otto has, the more likely the dice will roll good results. The following chart shows the probability of rolling a good, bad and optional event with different DEF value of your Otto.
 
