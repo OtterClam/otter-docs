@@ -26,9 +26,7 @@
 
 ## Investment
 
-- QiDAO MAI/USDC Investment: [0x07DB6BFbD71E9DE0AfF3ab3eAe4CBC7B13EEF952](https://polygonscan.com/address/0x07DB6BFbD71E9DE0AfF3ab3eAe4CBC7B13EEF952)
 - OtterClam Qi: [0x0906ee253B2cD6737A3CD3838490Cb0b90fD68be](http://polygonscan.com/address/0x0906ee253B2cD6737A3CD3838490Cb0b90fD68be)
-- Qi Locker: [0x69f6c4Fa150F9F0b3037612CF8FadDAeDbd46Bb8](https://polygonscan.com/address/0x69f6c4Fa150F9F0b3037612CF8FadDAeDbd46Bb8)
 
 ## DAO
 
@@ -77,3 +75,4 @@
 - LP Converter: [0x5F54c368e10196779cA40a4dFB55aD9B5532c099](https://polygonscan.com/address/0x5F54c368e10196779cA40a4dFB55aD9B5532c099)
 - QuickSwap Investment: [0x4933a7e336d91d0fc48773b99ba89bef4106f7d3](https://polygonscan.com/address/0x4933a7e336d91d0fc48773b99ba89bef4106f7d3)
 - Buyback: [0x017aDb26B2Ea4dbd9f1372710748e1388fa3082a](https://polygonscan.com/address/0x017aDb26B2Ea4dbd9f1372710748e1388fa3082a#code)
+- QiDAO MAI/USDC Investment: [0x07DB6BFbD71E9DE0AfF3ab3eAe4CBC7B13EEF952](https://polygonscan.com/address/0x07DB6BFbD71E9DE0AfF3ab3eAe4CBC7B13EEF952)
