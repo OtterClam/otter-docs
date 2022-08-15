@@ -55,7 +55,7 @@ Unlike native traits, wearable traits can be categorized by collection. In the O
 
 One of the biggest features of Trait Collection is that after a period of time, the previous collection will be sealed. This means that after the sealing, you will not be able to obtain the items of this collection through Portals, treasure chests, or Adventures. To ensure that the traits are controlled to their market supply limits and make them rarer, the Otter Kingdom DAO will determine the change time of each collection of traits.
 
-![Collection](collection-demo.jpg)
+![Collection](img/collection-demo.jpg)
 
 ### The Genetic Collection
 
