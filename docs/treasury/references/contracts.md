@@ -20,6 +20,7 @@
 - Penrose USD+/USDC: [0xc15da903c1FB821138451A4511C0816dc08B83c8](https://polygonscan.com/address/0xc15da903c1FB821138451A4511C0816dc08B83c8)
 - Penrose USD+/stMATIC: [0xeC8FCF71eA7769234F9E2ED4A6E364c65626Df0A](https://polygonscan.com/address/0xeC8FCF71eA7769234F9E2ED4A6E364c65626Df0A)
 - USD+ Holding Strategy: [0x32470D6b534e7343ECB05069d1D3336A8424beA0](https://polygonscan.com/address/0x32470D6b534e7343ECB05069d1D3336A8424beA0)
+- Gains DAI Vault Strategy: [0x397b681bd7d9e8e10a577574586e2ceeb475793c](https://polygonscan.com/address/0x397b681bd7d9e8e10a577574586e2ceeb475793c)
 
 ## LP
 
