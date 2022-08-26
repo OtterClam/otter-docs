@@ -1,75 +1,66 @@
-# Traits
+# Traits & Wearable Items
 
-## What traits does an Otto NFT possess?
-
-Each Otto, Cleo, or Lottie will have the following traits:
-
-![Rarity Sheets](img/otto-traits.jpg)
+## What are traits and wearable items?
 
 Your otter’s traits, including looks, personality, and voice, will determine its [attributes](./attributes) and [basic rarity scores](./rarity-farming). There are 2 types of traits:
 
 - Native Traits
 - Wearable Equipment
 
+Each Otto, Cleo, or Lottie will have the following traits:
+
+![Traits and Wearable items](img/otto_trait_wearable_item.jpg)
+
+
+
 ### Native Traits <a href="#native-traits" id="native-traits"></a>
 
-Native traits are ones your Otto is given at birth. They are extremely difficult to change, but there would be magic potions in the Otterverse that can alter native traits in the future. 
+Native traits are ones your Otto is given at birth. They are extremely difficult to change, but there are rumors of magic potions in the Otterverse that can alter native traits.
 
-Each Otto NFT has the following Native traits:
-- Eyes
-- Mouth
-- Skin Type
-- Skin Color
-- Personality
-- Voice
-- Gender
-- Coat of Arms
-- Birthday
+## Wearable Item <a href="#wearable-item" id="wearable-item"></a>
 
-## Wearable Equipment <a href="#wearable-equipment" id="wearable-equipment"></a>
+Wearable Items can be worn or taken off of an Otto. (There is an exception if the wearable item is born with the Otto. Please check [nonreturnable items](#nonreturnable) for more details.​) The wearable items can be attached to our uniquely designed ERC1155 items using ERC998 specs.
 
-Wearable equipment is technically a trait, and can be attached to our uniquely designed ERC1155 items using ERC998 specs. 
-
-Each Otto NFT has the following Wearable Equipment traits:
-- Background
+Each Otto NFT can customize the following wearable item types:
+- Holding
 - Headwear
-- Object Holding
-- Special Accessories
+- Facial Accessories
 - Clothes
+- Backgrouns
 
-### Equip a wearable item on your Otto NFT 
+### Equip a wearable item on your Otto NFT​ 
 
-Despite of the initial traits that comes along with the Otto NFT, you can also equip other wearable items to increase its attribute values and rarity score. If you are going to strengthen your Otto NFT, here are some special cases that you must be aware of before you go further: 
+In addition to the initial traits/items that come along with the Otto NFT, you can also equip other wearable items to increase its attribute values and rarity score. If you are going to strengthen your Otto NFT, here are some special cases that you must be aware of before you go further:
 
-#### Unreturnable items
+#### Nonreturnable items <a href="#nonreturnable" id="nonreturnable"></a>
 
-Please note that the initial wearable traits came along with the Otto the moment it was minted, so it cannot be detached and returned to your item inventory. You can still wear another wearable item to replace and hide it. If the other wearable item is taken off, this item will be visible again on the Otto NFT.
+Please note that the initial wearable traits come along with the Otto the moment it is minted, so it cannot be detached and returned to your item inventory. You can still wear another wearable item to replace and hide it. If the other wearable item is taken off, this item will be visible and the Otto will receive the stat/rarity bonuses of that nonreturnable item again.
 
 #### A Note on Equipment:
 
 Although your Otto will be minted with a specific set of equipment (some will have very basic equipment, others will have special, rare equipment), you can acquire additional equipment by purchasing shell chests in the [Ottopia Store](./store). You also have the chance to win rare equipment if your team completes a mission.
 
-## Trait Collection  <a href="#trait-collection" id="trait-collection"></a>
+## Item Collections  <a href="#item-collection" id="item-collection"></a>
 
-Unlike native traits, wearable traits can be categorized by collection. In the Otter Kingdom, two collections of wearable traits have been released so far: **the Genetic Collection** and **the Second Collection**.
+Unlike native traits, wearable items can be categorized by collection. In the Otter Kingdom, two collections of wearable items have been released so far: **Gen1** and **Gen2**.
 
-One of the biggest features of Trait Collection is that after a period of time, the previous collection will be sealed. This means that after the sealing, you will not be able to obtain the items of this collection through Portals, treasure chests, or Adventures. To ensure that the traits are controlled to their market supply limits and make them rarer, the Otter Kingdom DAO will determine the change time of each collection of traits.
+One of the most notable features of Item Collections is that after a period of time, the collection will be sealed. This means that after the sealing, you will not be able to acquire the items of this collection through Portals, Treasure Chests, or Adventures. The Otter DAO will determine the release and seal time for each item collection.
 
-![Collection](img/collection-demo.jpg)
+![Collection](img/collection.jpg)
 
-### The Genetic Collection
+### Gen1
 
-The Genesis Collection was released on 23rd April 2021 along with the first generation of Otto Portals, which are effectively limited editions. After this date, additional traits are included in the Second Collection as well as later collections.
+Gen1 was released on 23rd April 2021 along with the first generation Otto Portals. There are currently 596 items in Gen1 with the following breakdown:
+- Background: 76
+- Headwear: 222
+- Object Holding: 110
+- Special Accessories: 62
+- Clothes: 126
 
-There are currently 596 known items in the Genetic Collection. Including:
-- 76 Background
-- 222 Headwear
-- 110 Object Holding
-- 62 Special Accessories
-- 126 Clothes
+### Gen2
 
-The Otter Kingdom will decide and predict when to seal the Genetic Collection in the near future. Follow us on Discord to stay updated.
+Since 23rd April 2021, we have added many items which will be part of Gen2, and will continue to add additional items over time. Once the number of items in this collection reaches about 600, we will stop adding items to Gen2 and start Gen3. Gen2 will be sealed once Gen3 is underway. 
 
-### The Second Collection
+Sealed collections may be given rarity and/or attribute boosts after a certain period of time.
 
-After 23rd April 2021, all wearable traits added will be included in the Second Collection, and once the number of wearable traits in this collection reaches about 600, the Third Collection will begin to be released.
+![Collection Timeline](img/collection_timeline.jpg)
