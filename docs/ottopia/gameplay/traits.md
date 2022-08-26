@@ -13,7 +13,7 @@ Each Otto, Cleo, or Lottie will have the following traits:
 
 
 
-### Native Traits <a href="#native-traits" id="native-traits"></a>
+## Native Traits <a href="#native-traits" id="native-traits"></a>
 
 Native traits are ones your Otto is given at birth. They are extremely difficult to change, but there are rumors of magic potions in the Otterverse that can alter native traits.
 
