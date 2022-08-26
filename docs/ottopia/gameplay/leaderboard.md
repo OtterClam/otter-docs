@@ -8,7 +8,7 @@ The first category of farming will be: **Rarity score leaderboard**.
 
 The experience and attributes leaderboard will be introduced in future phase.
 
-==The 1st season of Rarity Competition has ended on Aug 19, 2022 (0:00 UTC). For the next competition season, please follow our Discord to keep posted.==
+> The 1st season of Rarity Competition has ended on Aug 19, 2022 (0:00 UTC). For the next competition season, please follow our Discord to keep posted.
 
 ## Rarity Leaderboard
 
