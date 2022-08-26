@@ -8,6 +8,8 @@ The first category of farming will be: **Rarity score leaderboard**.
 
 The experience and attributes leaderboard will be introduced in future phase.
 
+==The 1st season of Rarity Competition has ended on Aug 19, 2022 (0:00 UTC). For the next competition season, please follow our Discord to keep posted.==
+
 ## Rarity Leaderboard
 
 ![Rarity Leaderboard](img/leaderboard.jpg)
@@ -73,15 +75,4 @@ The Dice of Destiny gives players a chance to temporarily boost your BRS for the
 * Some of the results have a positive effect on your Otto’s BRS, While some have a negative effect on your Otto’s BRS.
 * Some results require an additional selection. Your choice will determine the fate of your Otto.
 * The BRS effect from rolling the Dice of Destiny only lasts for the current epoch, and will be removed as soon as it ends.
-* Do you know your Otto’s DEF value can actually affect the result? The more DEF your Otto has, the more likely the dice will roll good results.
-
-Here is the formula of Otto’s DEF effect on Dice event appearing in %
-
-![Dice of Destiny](./img/def-effect-on-dice-event.jpg)
-
 * The Dice results only affect the Otto you choose to roll a dice for.
-
-
-### Reward system
-
-The OtterClam DAO is still figuring out the reward system for Rarity Leaderboard. Please hold on and get updated on [Discord](https://discord.gg/otterclam).

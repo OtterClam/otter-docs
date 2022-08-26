@@ -15,7 +15,7 @@ By puchasing the Shell Chest, you will get the wearable equipment that you can e
 
 ### What does a Shell Chest contain?
 
-Every Shell Chest contains **1 wearable trait**. Please visit [Traits page](./traits#wearable-equipment) to learn more about wearable traits.
+Every Shell Chest contains **1 wearable item**. Please visit [Traits page](./traits#wearable-item) to learn more about wearable traits.
 
 Here is the formula used to show the probability of finding different rarity equipment in each chest.
 
@@ -27,8 +27,6 @@ Ottopia occasionally has themed chest sales with gorgeous exclusive items.
 
 ### Galaxy Chest
 
-Galaxy Chest is upcoming soon!
-
 As part of our latest Rarity Ranking Competition, and for a limited time only, we're introducing Galaxy Chests. These Chests contain hundreds of wearable items, and each item's DEF value is guaranteed to equal more than 10 points! There are also several exclusive wearable items that can only be found in the Galaxy Chests!
 
 Themed sale duration: August 10th, 0:00:00 ~ August 17th, 0:00:00 (UTC+0)
@@ -36,10 +34,6 @@ Themed sale duration: August 10th, 0:00:00 ~ August 17th, 0:00:00 (UTC+0)
 Here is the formula used to show the probability of finding different rarity equipment in a Galaxy chest.
 
 ![Galaxy](img/galaxy_chest.jpg)
-
-Do you know your Otto’s DEF value can actually affect the result? The more DEF your Otto has, the more likely the dice will roll good results. The following chart shows the probability of rolling a good, bad and optional event with different DEF value of your Otto.
-
-![DEF Effect](img/def-effect-on-dice-event.jpg)
 
 
 ## Ottopia Market (WIP) <a href="#ottopia-market" id="ottopia-market"></a>
