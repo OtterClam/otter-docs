@@ -8,13 +8,14 @@ The first category of farming will be: **Rarity score leaderboard**.
 
 The experience and attributes leaderboard will be introduced in future phase.
 
-> The 1st season of Rarity Competition has ended on Aug 19, 2022 (0:00 UTC). For the next competition season, please follow our Discord to keep posted.
 
 ## Rarity Leaderboard
 
 ![Rarity Leaderboard](img/leaderboard.jpg)
 
 ### Introduction
+
+> The 1st season of Rarity Competition has ended on Aug 19, 2022 (0:00 UTC). For the next competition season, please follow our Discord to keep posted.
 
 Inspired by Aavegotchi, Otter King also develop a unique rarity farming system. It strives to reward the users who are the most thoughtfully and enthusiastically engaged with the ecosystem. As its name suggests, this is a process where you attempt to raise the rarest Otto, Lottie or Cleo, and get rewarded for doing so.
 
