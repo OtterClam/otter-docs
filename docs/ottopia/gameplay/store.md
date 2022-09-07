@@ -35,7 +35,7 @@ Here is the formula used to show the probability of finding different rarity equ
 
 ![Full-Moon](img/fullmoon_chest.jpg)
 
-To learn more about probability of finding exclusive items in a Full-Moon chest, please refer to the item list below:
+To learn more about the probability of finding exclusive items in a Full-Moon chest, please refer to the item list below:
 
 ![Full-Moon items](img/fullmoon_chest_items.jpg)
 
