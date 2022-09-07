@@ -25,16 +25,19 @@ Here is the formula used to show the probability of finding different rarity equ
 Ottopia occasionally has themed chest sales with gorgeous exclusive items.
 
 
-### Galaxy Chest
+### Full-Moon Chest
 
-As part of our latest Rarity Ranking Competition, and for a limited time only, we're introducing Galaxy Chests. These Chests contain hundreds of wearable items, and each item's DEF value is guaranteed to equal more than 10 points! There are also several exclusive wearable items that can only be found in the Galaxy Chests!
+As part of Mid-Autumn Festival celebrations, we are offering our Full-Moon Chest, which contains hundreds of wearable items, with an additional possibility of finding exclusive items! In addition to that, Sailottie's themed items are available to be found in this chest!
 
-Themed sale duration: August 10th, 0:00:00 ~ August 17th, 0:00:00 (UTC+0)
+Themed sale duration: September 9th, 0:00:00 ~ September 12th, 0:00:00 (UTC+0)
 
-Here is the formula used to show the probability of finding different rarity equipment in a Galaxy chest.
+Here is the formula used to show the probability of finding different rarity equipment in a Full-Moon chest.
 
-![Galaxy](img/galaxy_chest.jpg)
+![Full-Moon](img/fullmoon_chest.jpg)
 
+To learn more about exclusive items, please refer to the item list below:
+
+![Full-Moon items](img/fullmoon_chest_items.jpg)
 
 ## Ottopia Market (WIP) <a href="#ottopia-market" id="ottopia-market"></a>
 
