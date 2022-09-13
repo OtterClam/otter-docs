@@ -43,9 +43,9 @@ There are total 5,000 Otto citizens in the 1st generation migrated through the p
 A general Otto that shares the peace all over the Otter Kingdom.
 
 ### Legendary Otto NFT
-Legendary Ottos means all of the traits of the Otto NFT are pre-selected by the artist of Otterclam - Appppo, which represents that the legendary Otto NFTs are comparatively beautiful and unique, and possibly rarer than the others!. There are only around 250 legendary Otto NFTs, but the exact number is not verified yet. If you have one legendary Otto, then you are blessed by the otterland!
+Legendary Ottos means all of the traits and wearable items of the Otto NFT are pre-selected by the artist of Otterclam - Appppo, which represents that the legendary Otto NFTs are comparatively beautiful and unique, and possibly rarer than the others!. There are only around 250 legendary Otto NFTs, but the exact number is not verified yet. If you have one legendary Otto, then you are blessed by the otterland!
 
-## Otto Traits and Equiped Items
+## Otto Traits and Wearable Items
 
 In the Otterverse, you will have a new name, a new body, and even a new lifestyle. Of course, you will also have different strengths and weaknesses in the form of attributes and traits.
 
