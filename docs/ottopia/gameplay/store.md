@@ -35,7 +35,7 @@ Here is the formula used to show the probability of finding different rarity equ
 
 ![Groovy](img/groovy_chest.jpg)
 
-To learn more about the probability of finding exclusive items in a Groovy chest, please refer to the item list below:
+To learn more about the probability of finding themed items in a Groovy chest, please refer to the item list below:
 
 ![Groovy items](img/groovy_chest_items1.jpg)
 ![Groovy items](img/groovy_chest_items2.jpg)
