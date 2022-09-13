@@ -6,16 +6,16 @@ The Otter Kingdom has its own Ottopia Store. Here, you can find shell chests to 
 ![Store](img/Store.jpg)
 
 ## Shell Chest <a href="#shell-chest" id="shell-chest"></a>
-Shell Chests can be purchased by visiting the Ottopia Store. There are 3 types of Shell Chests available, each containing wearable equipment. Your chances of finding higher rarity equipment or more powerful wearable items increases with higher level Shell Chests!
+Shell Chests can be purchased by visiting the Ottopia Store. There are 3 types of Shell Chests available, each containing wearable item. Your chances of finding higher rarity item or more powerful wearable items increases with higher level Shell Chests!
 
 ### Why should I buy Shell Chests?
 
-By puchasing the Shell Chest, you will get the wearable equipment that you can equip on your Otto NFT to increase the attribute values or boost up its rarity score.
+By puchasing the Shell Chest, you will get the wearable item that you can equip on your Otto NFT to increase the attribute values or boost up its rarity score.
 
 
 ### What does a Shell Chest contain?
 
-Every Shell Chest contains **1 wearable item**. Please visit [Traits page](./traits#wearable-item) to learn more about wearable traits.
+Every Shell Chest contains **1 wearable item**. Please visit [Items page](./traits#wearable-item) to learn more about wearable items.
 
 Here is the formula used to show the probability of finding different rarity equipment in each chest.
 
@@ -25,20 +25,21 @@ Here is the formula used to show the probability of finding different rarity equ
 Ottopia occasionally has themed chest sales with gorgeous exclusive items.
 
 
-### Full-Moon Chest
+### Groovy Chest
 
-As part of Mid-Autumn Festival celebrations, we are offering our Full-Moon Chest, which contains hundreds of wearable items, with an additional possibility of finding exclusive items! In addition to that, Sailottie's themed items are available to be found in this chest!
+As part of World Peace Day celebrations, we are offering Ottopia-styled Groovy Chest, which contains hundreds of wearable items, with an additional possibility of finding hippie themed exclusive items. Love and peace to all!
 
-Themed sale duration: September 9th, 0:00:00 ~ September 12th, 0:00:00 (UTC+0)
+Themed sale duration: September 14th, 0:00:00 ~ September 21th, 0:00:00 (UTC+0)
 
-Here is the formula used to show the probability of finding different rarity equipment in a Full-Moon chest.
+Here is the formula used to show the probability of finding different rarity equipment in a Groovy chest.
 
-![Full-Moon](img/fullmoon_chest.jpg)
+![Groovy](img/groovy_chest.jpg)
 
-To learn more about the probability of finding exclusive items in a Full-Moon chest, please refer to the item list below:
+To learn more about the probability of finding exclusive items in a Groovy chest, please refer to the item list below:
 
-![Full-Moon items](img/fullmoon_chest_items.jpg)
+![Groovy items](img/groovy_chest_items1.jpg)
+![Groovy items](img/groovy_chest_items2.jpg)
 
 ## Ottopia Market (WIP) <a href="#ottopia-market" id="ottopia-market"></a>
 
-In the short future, the OtterClam DAO is also planning to develop a marketplace for the user to buy and sell various items, even without playing Ottopia. Perhaps you were lucky enough to score a super rare trait on your first mint. You could sell your trait at a premium in the market, or you could greatly improve your odds of winning a mission by using the trait. We expect this market to develop a life of its own as the ecosystem begins to flourish.
+In the short future, the OtterClam DAO is also planning to develop a marketplace for the user to buy and sell various items, even without playing Ottopia. Perhaps you were lucky enough to score a super rare trait on your first mint. You could sell your item at a premium in the market, or you could greatly improve your odds of winning a mission by equipping powerful items. We expect this market to develop a life of its own as the ecosystem begins to flourish.

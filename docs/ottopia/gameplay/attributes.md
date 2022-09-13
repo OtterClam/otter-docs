@@ -13,7 +13,7 @@ Ottos, Cleos, and Lotties all have the following attributes:
 
 The DAO may decide to develop more attributes.
 
-The maximum value of an attribute varies across different types of traits.
+The maximum value of an attribute varies across different types of traits or wearable items.
 The chart below shows how it works:
 
 ![Rarity Sheets](img/AttributesSheet.jpg)

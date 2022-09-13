@@ -29,7 +29,7 @@ The opened portal NFT looks slightly different from the normal opened portal NFT
 
 ![Portal to Otto](img/portal_to_legendary.png)
 
-The legendary Otto means its traits are all pre-selected by the Otterclam artist - Appppo, which represents that the legendary Otto NFTs are comparatively beautiful and unique, and possibly rarer than the others! The legemdary Otto has a golden frame decoreated around in the image. For more details about the legendary Ottos, please view [Legendary Otto](./otto-nft#types-of-otto).
+The legendary Otto means its traits and wearable items are all pre-selected by the Otterclam artist - Appppo, which represents that the legendary Otto NFTs are comparatively beautiful and unique, and possibly rarer than the others! The legemdary Otto has a golden frame decoreated around in the image. For more details about the legendary Ottos, please view [Legendary Otto](./otto-nft#types-of-otto).
 
 ## Summon Otto NFT
 
