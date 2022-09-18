@@ -88,6 +88,14 @@ The Dice of Destiny gives players a chance to temporarily boost your BRS for the
 * The BRS effect from rolling the Dice of Destiny only lasts for the current epoch, and will be removed as soon as it ends.
 * The Dice results only affect the Otto you choose to roll a dice for.
 
+The following list shows the percentage of the result types you will get in every single event:
+
+- Good result:	**42.5%**
+- Bad result:	**34.5%**
+- Options*:	**23.0%**
+
+*Depending on how you answer the question, you might get good or bad results. 
+
 If you haven’t already minted an Otto NFT from our Genesis Collection, you can do so at the [Ottopia App](http://ottopia.app). For more information about the competition and the OtterClam protocol in general, please swim down to our [Discord](https://discord.gg/jdCk93R2) and say hello!
 
 Until then, OGMI
