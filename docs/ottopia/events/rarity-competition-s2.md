@@ -18,17 +18,17 @@ Each 2-week epoch will have a different theme, and each theme will have two to t
 
 Here is how the theme rarity boosts are calculated:
 
-- If the item has one theme-specific label, **+60**
-- If the item has two theme-specific labels,**+120**
-- If the item has three theme-specific labels, **+180**
+- If the item has one theme-specific label, **+60 boost**
+- If the item has two theme-specific labels,**+120 boost**
+- If the item has three theme-specific labels, **+180 boost**
 
 After adding the scores above, there will be a "set bonus" multiplier added if the Otto is wearing multiple items with a theme-specific label:
 
-- One item with theme-specific labels = **x1 rarity boost (no boost)**
-- Two items with theme-specific labels = **x1.5 rarity boost**
-- Three items with theme-specific labels = **x1.7 rarity boost**
-- Four items with theme-specific labels = **x2 rarity boost**
-- Five items with theme-specific labels = **x2.5 rarity boost**
+- One item with theme-specific labels = **x1 multiplier boost**
+- Two items with theme-specific labels = **x1.5 multiplier boost**
+- Three items with theme-specific labels = **x1.7 multiplier boost**
+- Four items with theme-specific labels = **x2 multiplier boost**
+- Five items with theme-specific labels = **x2.5 multiplier boost**
 
 ![Theme-Bonus1](img/label-bonus-1.jpg)
 
