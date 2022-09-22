@@ -17,7 +17,6 @@
 - Penrose Strategy: [0x6c108d25299BC275cbB18855289327Ed9F290112](https://polygonscan.com/address/0x6c108d25299BC275cbB18855289327Ed9F290112)
 - USD+ Holding Strategy: [0x32470D6b534e7343ECB05069d1D3336A8424beA0](https://polygonscan.com/address/0x32470D6b534e7343ECB05069d1D3336A8424beA0)
 - Gains DAI Vault Strategy: [0x397b681bd7d9e8e10a577574586e2ceeb475793c](https://polygonscan.com/address/0x397b681bd7d9e8e10a577574586e2ceeb475793c)
-- Penrose USDC/WMATIC ETS Strategy: [0xc8a2cbd3dda4ea728546cef1e7cadfe9755714e9](https://polygonscan.com/address/0xc8a2cbd3dda4ea728546cef1e7cadfe9755714e9)
 - KyberSwap WMATIC/stMATIC ETS: [0xb00029d883E5EEA2f71dFBCE8941B15F4ec36120](https://polygonscan.com/address/0xb00029d883E5EEA2f71dFBCE8941B15F4ec36120)
 - UniswapV3 USDC/MAI Strategy: [0x12De7aF6442A0A419B9bDe95f3780765E969F2B7](https://polygonscan.com/address/0x12De7aF6442A0A419B9bDe95f3780765E969F2B7)
 
@@ -46,6 +45,7 @@
 - Penrose USD+/USDC: [0xc15da903c1FB821138451A4511C0816dc08B83c8](https://polygonscan.com/address/0xc15da903c1FB821138451A4511C0816dc08B83c8)
 - MAI/stMATIC QiDAO Strategy: [0x7E253B145543fA38BF90a110338c2249824eA2b5](https://polygonscan.com/address/0x7E253B145543fA38BF90a110338c2249824eA2b5)
 - Penrose USD+/stMATIC: [0xeC8FCF71eA7769234F9E2ED4A6E364c65626Df0A](https://polygonscan.com/address/0xeC8FCF71eA7769234F9E2ED4A6E364c65626Df0A)
+- Penrose USDC/WMATIC ETS Strategy: [0xc8a2cbd3dda4ea728546cef1e7cadfe9755714e9](https://polygonscan.com/address/0xc8a2cbd3dda4ea728546cef1e7cadfe9755714e9)
 
 ### Staking v1
 
