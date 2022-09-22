@@ -19,6 +19,7 @@
 - Gains DAI Vault Strategy: [0x397b681bd7d9e8e10a577574586e2ceeb475793c](https://polygonscan.com/address/0x397b681bd7d9e8e10a577574586e2ceeb475793c)
 - Penrose USDC/WMATIC ETS Strategy: [0xc8a2cbd3dda4ea728546cef1e7cadfe9755714e9](https://polygonscan.com/address/0xc8a2cbd3dda4ea728546cef1e7cadfe9755714e9)
 - KyberSwap WMATIC/stMATIC ETS: [0xb00029d883E5EEA2f71dFBCE8941B15F4ec36120](https://polygonscan.com/address/0xb00029d883E5EEA2f71dFBCE8941B15F4ec36120)
+- UniswapV3 USDC/MAI Strategy: [0x12De7aF6442A0A419B9bDe95f3780765E969F2B7](https://polygonscan.com/address/0x12De7aF6442A0A419B9bDe95f3780765E969F2B7)
 
 ## LP
 
