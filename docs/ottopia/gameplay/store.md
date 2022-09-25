@@ -36,8 +36,8 @@ Here is the formula used to show the probability of finding different rarity equ
 
 To learn more about the probability of finding themed items in a Party Animal Chest, please refer to the item list below:
 
-![Party Animal items](img/party_animal_items1.jpg)
-![Party Animal items](img/party_animal_items2.jpg)
+![Party Animal items](img/party_animal_chest_items1.jpg)
+![Party Animal items](img/party_animal_chest_items2.jpg)
 ![Party Animal items](img/party_animal_chest_items3.jpg)
 
 
