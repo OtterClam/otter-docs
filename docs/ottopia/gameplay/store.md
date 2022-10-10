@@ -24,7 +24,28 @@ Here is the formula used to show the probability of finding different rarity equ
 ## Special Chest <a href="#shell-chest" id="special-chest"></a>
 Ottopia occasionally has themed chest sales with gorgeous exclusive items.
 
-### Party Animal Themed Chest
+### Green Thumb Themed Chest
+
+![Green Thumb Chest Sale](img/green_thumb.jpg)
+
+As part of our latest theme of Rarity Ranking Competition, and for a limited time only, we're introducing Green Thumb Themed Chests. These chests contain more than 100 brand-new wearable items. More than that, there is approximately a 30% chance of finding a "Green", "Plant", and "Green thumb" item that boosts Otto's BRS!
+
+Themed sale duration: October 10th, 0:00:00 ~ October 17th, 0:00:00 (UTC+0)
+
+Here is the formula used to show the probability of finding different rarity equipment in a Green Thumb Chest.
+
+![Green Thumb](img/green_thumb_chest.jpg)
+
+To learn more about the probability of finding themed items in a Green Thumb Chest, please refer to the item list below:
+
+![Green Thumb items](img/green-thumb_chest_items1.jpg)
+![Green Thumb items](img/green-thumb_chest_items2.jpg)
+![Green Thumb items](img/green-thumb_chest_items3.jpg)
+
+
+### Party Animal Themed Chest (Ended)
+
+![Party Animal Chest Sale](img/party_chest.jpg)
 
 As part of our latest theme of Rarity Ranking Competition, and for a limited time only, we're introducing Party Animal Themed Chests. These chests contain more than 100 brand-new wearable items. More than that, there is approximately a 20% chance of finding a "Red" or "Creature" item that boosts Otto's BRS!
 

@@ -12,7 +12,41 @@ Top spots changed hands at the 11th hour. CLAM prizes were distributed to hundre
 
 If you missed out, don’t worry. Season 2 of the Rarity Competition is here, and will add another layer of depth to the contest - theme systems and a new bonus mechanism.
 
-## How to Play
+
+Each Rarity Competition Epoch:
+
+* [1st Epoch - Party Animal](#1st-epoch)
+* [2nd Epoch - Green Thumb](#2nd-epoch)
+* 3rd Epoch (Coming Soon)
+* 4th Epoch (Coming Soon)
+* [How to play](#howtoplay)
+
+
+## 1st Epoch - Party Animal <a href="#1st-epoch" id="1st-epoch"></a>
+
+![S2 1st Epoch](img/s2_epoch1.jpg)
+
+Event Duration: Sep 19, 2022 0:00 ~ Oct 3, 2022 0:00 (UTC)
+
+Earn extra rarity score values as well as rarity multipliers by styling your Otto NFTs following the theme requirements set "Red" & "Animal" for this epoch!
+
+This epoch has ended. Here are the top 3 winners of this epoch:
+
+![S2 1st Epoch Winner](img/s2_winner1.jpg)
+
+Click [here](https://ottopia.app/leaderboard?epoch=6) to view all of the Otto rarity ranking for this epoch.
+
+
+## 2nd Epoch - Green Thumb <a href="#2nd-epoch" id="2nd-epoch"></a>
+
+![S2 1st Epoch](img/s2_epoch1.jpg)
+
+Event Duration: Oct 3, 2022 0:00 ~ Oct 17, 2022 0:00 (UTC)
+
+Earn extra rarity score values as well as rarity multipliers by styling your Otto NFTs following the theme requirements set "Green", "Plant" & "Green thumb" for this epoch!
+
+
+## How to Play <a href="#howtoplay" id="howtoplay"></a>
 
 Each 2-week epoch will have a different theme, and each theme will have two to three specific item labels that will entitle an item with one or more themed labels to a rarity boost. Item labels can be found when viewing the item in the “My Items” section of the Ottopia app. As long as the player wears an item with a theme-specific label, the player will receive a rarity boost to their Otto NFT.
 
