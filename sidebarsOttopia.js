@@ -37,6 +37,7 @@ const sidebars = {
         'gameplay/rarity-farming',
         'gameplay/store',
         'gameplay/foundry',
+        'gameplay/adventure',
         'gameplay/leaderboard',
       ],
     },
