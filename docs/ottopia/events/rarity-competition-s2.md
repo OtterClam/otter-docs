@@ -16,12 +16,19 @@ If you missed out, don’t worry. Season 2 of the Rarity Competition is here, an
 Shortcuts to each Rarity Competition epoch:
 
 * 4th Epoch (Coming Soon)
-* 3rd Epoch (Coming Soon)
+* [3rd Epoch - Trick or Treat](#3rd-epoch)
 * [2nd Epoch - Green Thumb](#2nd-epoch)
 * [1st Epoch - Party Animal](#1st-epoch)
 
 [How to play >](#howtoplay)
 
+## 3rd Epoch - Trick or Treat <a href="#3rd-epoch" id="3rd-epoch"></a>
+
+![S2 3rd Epoch](img/s3_epoch3.jpg)
+
+* Event Duration: Oct 17, 2022 0:00 ~ Oct 31, 2022 0:00 (UTC)
+
+Earn extra rarity score values as well as rarity multipliers by styling your Otto NFTs following the theme requirements set **Orange**, **Spooky** & **Halloween** for this epoch!
 
 ## 2nd Epoch - Green Thumb <a href="#2nd-epoch" id="2nd-epoch"></a>
 
