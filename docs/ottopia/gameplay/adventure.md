@@ -47,7 +47,7 @@ The following chart shows the difficulty and estimated rewards from every area a
 | Dreamy Riverside  | 💀💀  | 80  | 30%  | 65%  | 27%  | 8%  |
 | Ancient Ruins  | 💀💀💀  | 150  | 20%  | 60%  | 32%  | 8%  |
 
-The success rate and the probability of finding an item in an area can be can be applied to multiple boosts.
+The success rate and the probability of finding an item in an area can be applied to multiple boosts.
 Choose an area to dig deeper!
 
 ### 2. Choose Your Otto NFT
@@ -79,7 +79,7 @@ You can change multiple items at once and preview the total attributes in this v
 
 ### 3. Preview the Adventure Results
 
-When your Otto successfully completes an adventure, you can get the items that your Otto found and the corresponding Experience Points (EXP), Treasure Chest Points (TCP) and Adventure Points (AP).
+When your Otto successfully completes an adventure, you can get the items that your Otto found and the corresponding [Experience Points (EXP)](#attribute-points--leveling-up), [Treasure Chest Points (TCP)](#treasure-chest-mechanism) and [Adventure Points (AP)](#adventure-points).
 
 ![Estimated rewards](img/adventure/estimated_rewards.jpg)
 
@@ -87,13 +87,23 @@ The range of the rarity of the items you found in your adventure has the followi
 
 **Probability of item-drop**
 
-* 70% Mission Items
-* 20% Collectibles
-* 10% Wearable Items
+* [70% Mission Items](#mission-items)
+* [20% Collectibles](#collectibles)
+* [10% Wearable Items](../gameplay/traits.md)
 
 The table below shows the rarity rate of dropped items. This probability is applied to mission items, collectibles, and wearable items.
 
-///////////////////
+| Area  | Difficulty  | Gained EXP  |
+|---|---|---|
+| Very Common  | C3  | 30%  |
+| Common  | C2  | 25%  |
+| Uncommon  | C1  | 15%  |
+| Rare  | R3  | 10%  |
+| Super rare  | R2  | 8%  |
+| Ultra rare  | R1  | 6%  |
+| Epic  | E1  | 3%  |
+| Legendary  | E2  | 2%  |
+| Mythical  | E1  | 1%  |
 
 Every single item you find corresponds to the probabilities shown in the chart above.
 
@@ -112,7 +122,40 @@ The following conditions are the most common and recommended ways to increase yo
 The different attribute advantages your Otto possesses will significantly affect the chance of success
 . Make sure to gear up your Otto to match the condition to enjoy the success rate boost.
 
-///////////////////
+**Misty Forest**
+
+| Attribute condition  | Success rate boost  |
+|---|---|
+| INT ≥ 30  | +5%  |
+| INT ≥ 40  | +10%  |
+| INT ≥ 50  | +15%  |
+| DEF ≥ 35  | +5%  |
+| DEF ≥ 45  | +10%  |
+| DEF ≥ 55  | +15%  |
+
+**Dreamy Riverside**
+
+| Attribute condition  | Success rate boost  |
+|---|---|
+| DEX ≥ 50  | +15%  |
+| DEX ≥ 60  | +20%  |
+| DEX ≥ 70  | +25%  |
+| CON ≥ 45  | +15%  |
+| CON ≥ 55  | +20%  |
+| CON ≥ 65  | +25%  |
+
+**Ancient Ruins**
+
+| Attribute condition  | Success rate boost  |
+|---|---|
+| STR ≥ 55  | +10%  |
+| STR ≥ 65  | +15%  |
+| STR ≥ 75  | +20%  |
+| STR ≥ 85  | +25%  |
+| LUK ≥ 55  | +10%  |
+| LUK ≥ 65  | +15%  |
+| LUK ≥ 75  | +20%  |
+| LUK ≥ 85  | +25%  |
 
 ##### Zodiac bonus
 Adventure success rate +10%; get 1 extra item 
@@ -133,7 +176,10 @@ Ottos can use Experience Potion to get double EXP or use Strength Potion to doub
 
 You can check the effect and price of potions in the chart below.
 
-////////////////
+| Image  | Name  | Effect  | Price in the Ottopia Store  |
+|---|---|
+| ![](img/adventure/Experience_Potion.png)  | Experience Potion  | This item can be used to double the amount of experience earned for an adventure. It is a one-time consumable item.  | 1 $CLAM  |
+| ![](img/adventure/Strength_Potion.png)  | Strength Potion  | This item can be used to double the amount of items you collect in an adventure. It is a one-time consumable item.  | 2 $CLAM  |
 
 ## During the Adventure
 
@@ -144,7 +190,7 @@ But, if you'd like to cast a magic spell to speed up the time, wait no longer!
 
 There are two methods to speed up an Otto's adventure time:
 
-1. Use Speedy potions to accelerate.
+1. Use [Speedy Potions](#speedy-potion) to accelerate.
 2. Use $CLAM to finish immediately.
 
 ![Speed up](img/adventure/adventure_exploring.jpg)
@@ -153,9 +199,13 @@ There are two methods to speed up an Otto's adventure time:
 
 There are three kinds of speedy potions. You can get them at the store or at community events.
 
-/////////////////////
+| Image  | Name  | Effect  | Price in the Ottopia Store  |
+|---|---|
+| ![](img/adventure/Speedy_Potion_Blonze.png)  | 1-hour Speedy Potion  | After using the potion, you can accelerate the remaining time of the current adventure by 1 hour. It is a one-time consumable item.  | 1 $CLAM  |
+| ![](img/adventure/Strength_Potion.png)  | 3-hour Speedy Potion  | After using the potion, you can accelerate the remaining time of the current adventure by 3 hours. It is a one-time consumable item.  | 2.5 $CLAM  |
+| ![](img/adventure/Speedy_Potion_Golden.png)  | 6-hour speedy potion  | After using the potion, you can accelerate the remaining time of the current adventure by 6 hours. It is a one-time consumable item.  | 4 $CLAM  |
 
-### CLAM
+### Spending CLAM by Hour
 
 For example, Otto still has three and a half hours remaining in the adventure, so according to the chart below, it will take Otto 4 $CLAM to finish it immediately.
 
@@ -199,7 +249,7 @@ There’s still a specific probability that your Otto fails to complete the adve
 Kodamas are Ottopian tree spirits that reside in special trees in ancient forests. Kodama has white skin with black and gray, glowing eyes. Each Kodama has three black dots on their faces to symbolize their eyes and mouth.
 
 
-You can spend 1 $CLAM to summon a “Kodama'' to help you bring back all found items during afailed adventure. Kodamas have a very strong connection to everything in Ottopia, and those cute and adorable spirits will return your items completely and safely. It is a one-time use summon, so if your Otto fails another adventure, you must summon Kodama to help you again.
+You can spend 1 $CLAM to summon a “Kodama" to help you bring back all found items during a failed adventure. Kodamas have a very strong connection to everything in Ottopia, and those cute and adorable spirits will return your items completely and safely. It is a one-time use summon, so if your Otto fails another adventure, you must summon Kodama to help you again.
 
 ## Rest
 
@@ -263,9 +313,7 @@ Each level can enjoy different boosts. You can not only permanently increase the
 
 Ottos can get a rest bonus once they level up; or get titles and benefits if they reach the specified level. You can see more details of the level-up bonus below.
 
-| Otto level  | Chest rewards  |  Success rate boost per Otto
-(24 hours only)
- | Adventurer title  |
+| Otto level  | Chest rewards  |  Success rate boost per Otto (24 hours only) | Adventurer title  |
 |---|---|---|---|
 | Reach LV5  | Silver Chest x1  | +5%  | -  |
 | Reach LV10  | Silver Chest x2  | +10%  | Amateur Explorer  |
@@ -289,18 +337,18 @@ In addition, players can also use mission items in the cooking system (coming so
 
 # Collectibles
 
-Collectibles found from adventures can be displayed in My Gallery in the future. 
+Collectibles found from adventures can be displayed in [My Gallery](#my-gallery) in the future. 
 
 There are two types of Collectibles:
 
-* Artwork
-* Adventure Momentos
+* [Adventure Momentos](#adventure-momentos)
+* [Artwork](#artwork)
 
 ## Adventure Momentos
 
 ![Adventure Momentos](img/adventure/adventure_momento.jpg)
 
-You can regard an Adventure Momento as a souvenir from the adventure. Your Otto cannot equip it, but it plays an important role in your lifestyle. The more Adventure Momento displayed in My Gallery, the more Civilization Points (CP) you will gain.
+You can regard an Adventure Momento as a souvenir from the adventure. Your Otto cannot equip it, but it plays an important role in your lifestyle. The more Adventure Momento displayed in [My Gallery](#my-gallery), the more Civilization Points (CP) you will gain.
 
 ## Artwork
 
@@ -316,14 +364,14 @@ There are six rarity levels of Artwork Fragments: R3, R2, R1, E3, E2, and E1. On
 
 The following chart shows the number of Artwork Fragment needed to recreate the original Artwork:
 
-|   |   |   |   |
+| Rarity  | Artwork Fragment  | Artwork Fragment needed  | Result  |
 |---|---|---|---|
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| R3  | ![](img/adventure/Artwork_Collection_Fragments_R3.png)  | 10  | R3 Artwork x1  |
+| R2  | ![](img/adventure/Artwork_Collection_Fragments_R2.png)  | 9  | R2 Artwork x1  |
+| R1  | ![](img/adventure/Artwork_Collection_Fragments_R1.png)  | 8  | R1 Artwork x1  |
+| E3  | ![](img/adventure/Artwork_Collection_Fragments_E3.png)  | 7  | E3 Artwork x1  |
+| E2  | ![](img/adventure/Artwork_Collection_Fragments_E2.png)  | 6  | E2 Artwork x1  |
+| E1  | ![](img/adventure/Artwork_Collection_Fragments_E1.png)  | 5  | E1 Artwork x1  |
 
 - - -
 
