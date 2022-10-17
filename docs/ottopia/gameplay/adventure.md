@@ -87,9 +87,9 @@ The range of the rarity of the items you found in your adventure has the followi
 
 **Probability of item-drop**
 
-* [70% Mission Items](#mission-items)
-* [20% Collectibles](#collectibles)
-* [10% Wearable Items](../gameplay/traits.md)
+* 70% [Mission Items](#mission-items)
+* 20% [Collectibles](#collectibles)
+* 10% [Wearable Items](../gameplay/traits.md)
 
 The table below shows the rarity rate of dropped items. This probability is applied to mission items, collectibles, and wearable items.
 
@@ -195,7 +195,7 @@ There are two methods to speed up an Otto's adventure time:
 
 ![Speed up](img/adventure/adventure_exploring.jpg)
 
-### Speedy Potion
+### Speedy Potion <a href="#speedy-potion" id="speedy-potion"></a>
 
 There are three kinds of speedy potions. You can get them at the store or at community events.
 
@@ -285,7 +285,7 @@ After resting, your Otto can go on to another adventure!
 
 - - -
 
-# Attribute points / Leveling up
+# Attribute points / Leveling up <a href="#attribute-points--leveling-up", id="attribute-points--leveling-up"></a>
 
 After finishing an adventure, Ottos will receive EXP in that area. After gaining enough EXP, Ottos level up. Every time they level up, Ottos can receive two attribute points, and the player can freely assign points as they wish.
 
@@ -327,7 +327,7 @@ Once an Otto levels up, there will be a rest bonus. That means you don't have to
 
 - - -
 
-# Mission Items
+# Mission Items <a href="#mission-items" id="mission-items"></a>
 
 The mission items players get from the adventure can be used for missions and for exchanging the specified items by forging them in the Ottopia Foundry.
 
@@ -335,7 +335,7 @@ In addition, players can also use mission items in the cooking system (coming so
 
 - - -
 
-# Collectibles
+# Collectibles <a href="#collectibles" id="collectibles"></a>
 
 Collectibles found from adventures can be displayed in [My Gallery](#my-gallery) in the future. 
 
@@ -344,13 +344,13 @@ There are two types of Collectibles:
 * [Adventure Momentos](#adventure-momentos)
 * [Artwork](#artwork)
 
-## Adventure Momentos
+## Adventure Momentos <a href="#adventure-momentos" id="adventure-momentos"></a>
 
 ![Adventure Momentos](img/adventure/adventure_momento.jpg)
 
 You can regard an Adventure Momento as a souvenir from the adventure. Your Otto cannot equip it, but it plays an important role in your lifestyle. The more Adventure Momento displayed in [My Gallery](#my-gallery), the more Civilization Points (CP) you will gain.
 
-## Artwork
+## Artwork <a href="#artwork" id="artwork"></a>
 
 ![Artwork](img/adventure/artwork_categories.jpg)
 
@@ -375,7 +375,7 @@ The following chart shows the number of Artwork Fragment needed to recreate the 
 
 - - -
 
-# Treasure Chest Mechanism
+# Treasure Chest Mechanism <a href="#treasure-chest-mechanism" id="treasure-chest-mechanism"></a>
 
 ![Treasure Chest progress bar](img/adventure/treasure_chest_progress.jpg)
 
@@ -399,7 +399,7 @@ A Treasure Chest contains a wearable item. There’s a 31% chance of finding exc
 
 - - -
 
-# Missions
+# Missions <a href="#missions" id="missions"></a>
 
 The maximum number of missions each player can have depends on the number of Ottos. One Otto and two Ottos are both capped at 2.
 
@@ -434,7 +434,7 @@ The higher the mission level, the lower the success rate but the better the rewa
 
 - - -
 
-# Adventurer Leaderboard
+# Adventurer Leaderboard <a href="#adventurer-leaderboard" id="adventurer-leaderboard"></a>
 
 There are two types of adventurer leaderboards, "most completed missions'' and "most completed adventures." The award rules are the same as Rarity Leaderboard. Time to play and earn! 
 
@@ -446,7 +446,7 @@ The leaderboard links directly to a user’s wallet. The more missions you compl
 
 The more adventure points your Otto gets, the higher its ranking on the leaderboard. The leaderboard will reset every two weeks.
 
-## Adventure Points
+## Adventure Points <a href="#adventure-points" id="adventure-points"></a>
 
 Each area can get different Adventure Points (AP) as shown below.
 
@@ -464,10 +464,10 @@ The adventure ranking competition will be announced on Discord. Please join us o
 
 - - -
 
-# My Gallery
+# My Gallery <a href="#my-gallery" id="my-gallery"></a>
 
-Collectibles you get from the adventure will be displayed in "My Gallery." The more collectibles you have, the higher your Civilization Points (CP) will be.
+Collectibles you get from the adventure will be displayed in "My Gallery." The more collectibles you have, the higher your [Civilization Points (CP)](#civilization-points) will be.
 
-## Civilization Points
+## Civilization Points <a href="#civilization-points" id="civilization-points"></a>
 
 Civilization Points (CP) can be used in various competitions in the future to give your Otto some advantages. Stay tuned! 
