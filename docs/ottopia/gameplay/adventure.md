@@ -113,10 +113,9 @@ If your Ottos meet the adventure area’s special conditions, they will have a h
 
 The following conditions are the most common and recommended ways to increase your Otto’s success rate in adventures:
 
-### Attributes boosts by area
+### Regional bonus
 
-The different attribute advantages your Otto possesses will significantly affect the chance of success
-. Make sure to gear up your Otto to match the condition to enjoy the success rate boost.
+The different attribute advantages your Otto possesses will significantly affect the chance of success in different regions. Make sure to gear up your Otto to match the condition in that region to enjoy the success rate boost.
 
 **Misty Forest**
 
