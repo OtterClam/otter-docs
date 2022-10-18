@@ -24,7 +24,7 @@ Shortcuts to each Rarity Competition epoch:
 
 ## 3rd Epoch - Trick or Treat <a href="#3rd-epoch" id="3rd-epoch"></a>
 
-![S2 3rd Epoch](img/s3_epoch3.jpg)
+![S2 3rd Epoch](img/s2_epoch3.jpg)
 
 * Event Duration: Oct 17, 2022 0:00 ~ Oct 31, 2022 0:00 (UTC)
 
