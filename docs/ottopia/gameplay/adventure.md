@@ -38,14 +38,6 @@ There are different difficulty levels and failure/success rates in each area. Th
 
 Due to the varied terrain, unpredictable environments, and unknown dangers, each area has a different difficulty and success rate. Your Otto must try hard to improve specific attributes that the area requires in order to survive.
 
-The following chart shows the difficulty and estimated rewards from every area available so far in the adventure map:
-
-| Area             | Difficulty | Gained EXP | Success Rate | % to find 1 item | % to find 2 items | % to find 3 items |
-| ---------------- | ---------- | ---------- | ------------ | ---------------- | ----------------- | ----------------- |
-| Misty Forest     | 💀         | 50         | 50%          | 75%              | 20%               | 5%                |
-| Dreamy Riverside | 💀💀       | 80         | 30%          | 65%              | 27%               | 8%                |
-| Ancient Ruins    | 💀💀💀     | 150        | 20%          | 60%              | 32%               | 8%                |
-
 The success rate and the probability of finding an item in an area can be applied to multiple boosts.
 Choose an area to dig deeper!
 
@@ -107,15 +99,21 @@ Every single item you find corresponds to the probabilities shown in the chart a
 
 E.g. You found 5 items while on an adventure with your Otto's. Every item has a 30% chance of being a C3 rarity item, and a 70% chance of every item being a Mission item.
 
-#### Extra Adventure Boost
+## Success rate & Conditional boost
+
+The following chart shows the difficulty and estimated rewards from every area available so far in the adventure map:
+
+| Area             | Difficulty | Gained EXP | Success Rate | % to find 1 item | % to find 2 items | % to find 3 items |
+| ---------------- | ---------- | ---------- | ------------ | ---------------- | ----------------- | ----------------- |
+| Misty Forest     | 💀         | 50         | 50%          | 75%              | 20%               | 5%                |
+| Dreamy Riverside | 💀💀       | 80         | 30%          | 65%              | 27%               | 8%                |
+| Ancient Ruins    | 💀💀💀     | 150        | 20%          | 60%              | 32%               | 8%                |
 
 If your Ottos meet the adventure area’s special conditions, they will have a higher chance to complete the adventure and have the possibility of finding more items, or even double the EXP from the exploration.
 
 The following conditions are the most common and recommended ways to increase your Otto’s success rate in adventures:
 
-![Conditional boosts](img/adventure/conditional_boost.jpg)
-
-##### Attributes boosts by area
+### Attributes boosts by area
 
 The different attribute advantages your Otto possesses will significantly affect the chance of success
 . Make sure to gear up your Otto to match the condition to enjoy the success rate boost.
@@ -155,19 +153,19 @@ The different attribute advantages your Otto possesses will significantly affect
 | LUK ≥ 75            | +20%               |
 | LUK ≥ 85            | +25%               |
 
-##### Zodiac bonus
+### Zodiac bonus
 
 Adventure success rate +10%; get 1 extra item
 
-##### The chosen otto bonus
+### The chosen otto bonus
 
 Adventure success rate +20%; get 2 extra items
 
-##### Lengendary bonus
+### Lengendary bonus
 
-Adventure success rate +15%; get 3 extra items
+Adventure success rate +30%; get 1 extra item
 
-##### Potions
+### Potions
 
 Play it smart, don’t play it safe. There are some magical potions available in Ottopia that can double your rewards and EXP. You can get them from attending campaigns, staking, or purchasing from the Ottopia store.
 
