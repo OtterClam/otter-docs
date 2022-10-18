@@ -38,7 +38,7 @@ There are different difficulty levels and failure/success rates in each area. Th
 
 Due to the varied terrain, unpredictable environments, and unknown dangers, each area has a different difficulty and success rate. Your Otto must try hard to improve specific attributes that the area requires in order to survive.
 
-The success rate and the probability of finding an item in an area can be applied to multiple boosts.
+The success rate and the probability of finding an item in an area can be applied to [multiple boosts.](#conditional-boosts)
 Choose an area to dig deeper!
 
 ### 2. Choose Your Otto NFT
@@ -73,6 +73,24 @@ When your Otto successfully completes an adventure, you can get the items that y
 
 ![Estimated rewards](img/adventure/estimated_rewards.jpg)
 
+One of the most important part in the preview stage before sending the Otto to an adventure is to check the expected success rate and expected rewards this Otto might get. Please continue reading to learn more about the [success rate and rewards](#success-rate-rewards).
+
+## Success rate & Rewards <a href="#success-rate-rewards" id="success-rate-rewards"></a>
+
+The following chart shows the difficulty and estimated rewards from every area available so far in the adventure map:
+
+| Area             | Difficulty | Gained EXP | Success Rate | % to find 1 item | % to find 2 items | % to find 3 items |
+| ---------------- | ---------- | ---------- | ------------ | ---------------- | ----------------- | ----------------- |
+| Misty Forest     | 💀         | 50         | 50%          | 75%              | 20%               | 5%                |
+| Dreamy Riverside | 💀💀       | 80         | 30%          | 65%              | 27%               | 8%                |
+| Ancient Ruins    | 💀💀💀     | 150        | 20%          | 60%              | 32%               | 8%                |
+
+### Rewards
+
+When your Otto successfully completes an adventure, you can get the items that your Otto found and the corresponding [Experience Points (EXP)](#attribute-points--leveling-up), [Treasure Chest Points (TCP)](#treasure-chest-mechanism) and [Adventure Points (AP)](#adventure-points).
+
+![Estimated rewards](img/adventure/estimated_rewards.jpg)
+
 The range of the rarity of the items you found in your adventure has the following static probabilities:
 
 **Probability of item-drop**
@@ -99,19 +117,9 @@ Every single item you find corresponds to the probabilities shown in the chart a
 
 E.g. You found 5 items while on an adventure with your Otto's. Every item has a 30% chance of being a C3 rarity item, and a 70% chance of every item being a Mission item.
 
-## Success rate & Conditional boost
+If your Ottos meet the adventure area’s special conditions, they will have a higher chance to complete the adventure and have the possibility of finding more items, or even double the EXP from the exploration. Please go ahead to learn more about conditional boosts.
 
-### Basic Success Rate
-
-The following chart shows the difficulty and estimated rewards from every area available so far in the adventure map:
-
-| Area             | Difficulty | Gained EXP | Success Rate | % to find 1 item | % to find 2 items | % to find 3 items |
-| ---------------- | ---------- | ---------- | ------------ | ---------------- | ----------------- | ----------------- |
-| Misty Forest     | 💀         | 50         | 50%          | 75%              | 20%               | 5%                |
-| Dreamy Riverside | 💀💀       | 80         | 30%          | 65%              | 27%               | 8%                |
-| Ancient Ruins    | 💀💀💀     | 150        | 20%          | 60%              | 32%               | 8%                |
-
-If your Ottos meet the adventure area’s special conditions, they will have a higher chance to complete the adventure and have the possibility of finding more items, or even double the EXP from the exploration.
+## Conditional boosts <a href="#conditional-boosts" id="conditional-boosts"></a>
 
 The following conditions are the most common and recommended ways to increase your Otto’s success rate in adventures:
 
@@ -242,7 +250,7 @@ If your Otto successfully completes the adventure, you will be able to collect t
 
 There’s still a specific probability that your Otto fails to complete the adventure (based on the estimated final success rate when you send out Otto’s in the first place). If your Otto fails, you will not gain any Experience Points (EXP), Treasure Chest Points (TCP) nor Adventure Points (AP). You will also lose all of the items you found, but there’s still a way that you can get those precious items back.
 
-#### Summon the Kodama
+### Summon the Kodama
 
 **What are Kodamas?**
 
@@ -284,7 +292,7 @@ After resting, your Otto can go on to another adventure!
 
 ---
 
-# Attribute points / Leveling up <a href="#attribute-points--leveling-up" id="attribute-points--leveling-up"></a>
+# Attribute points & Leveling up <a href="#attribute-points--leveling-up" id="attribute-points--leveling-up"></a>
 
 After finishing an adventure, Ottos will receive EXP in that area. After gaining enough EXP, Ottos level up. Every time they level up, Ottos can receive two attribute points, and the player can freely assign points as they wish.
 
