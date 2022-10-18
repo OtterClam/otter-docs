@@ -294,7 +294,7 @@ After resting, your Otto can go on to another adventure!
 
 ---
 
-# Attribute points & Leveling up <a href="#attribute-points--leveling-up" id="attribute-points--leveling-up"></a>
+## Attribute points & Leveling up <a href="#attribute-points--leveling-up" id="attribute-points--leveling-up"></a>
 
 After finishing an adventure, Ottos will receive EXP in that area. After gaining enough EXP, Ottos level up. Every time they level up, Ottos can receive two attribute points, and the player can freely assign points as they wish.
 
@@ -336,7 +336,7 @@ Once an Otto levels up, there will be a rest bonus. That means you don't have to
 
 ---
 
-# Mission Items <a href="#mission-items" id="mission-items"></a>
+## Mission Items <a href="#mission-items" id="mission-items"></a>
 
 The mission items players get from the adventure can be used for missions and for exchanging the specified items by forging them in the Ottopia Foundry.
 
@@ -344,7 +344,7 @@ In addition, players can also use mission items in the cooking system (coming so
 
 ---
 
-# Collectibles <a href="#collectibles" id="collectibles"></a>
+## Collectibles <a href="#collectibles" id="collectibles"></a>
 
 Collectibles found from adventures can be displayed in [My Gallery](#my-gallery) in the future.
 
@@ -384,7 +384,7 @@ The following chart shows the number of Artwork Fragment needed to recreate the 
 
 ---
 
-# Treasure Chest Mechanism <a href="#treasure-chest-mechanism" id="treasure-chest-mechanism"></a>
+## Treasure Chest Mechanism <a href="#treasure-chest-mechanism" id="treasure-chest-mechanism"></a>
 
 ![Treasure Chest progress bar](img/adventure/treasure_chest_progress.jpg)
 
@@ -408,7 +408,7 @@ A Treasure Chest contains a wearable item. There’s a 31% chance of finding exc
 
 ---
 
-# Missions <a href="#missions" id="missions"></a>
+## Missions <a href="#missions" id="missions"></a>
 
 The maximum number of missions each player can have depends on the number of Ottos. One Otto and two Ottos are both capped at 2.
 
@@ -434,7 +434,7 @@ Let's look at the following example:
 | 12                | 12               |
 | ...               | ...              |
 
-## Mission Level
+### Mission Level
 
 There are five levels of missions, S/A/B/C/D. The probability of receiving different levels of missions is as follows.
 S rate: 3% ｜ A rate: 7% ｜ B rate: 15% ｜ C rate: 30% ｜ D rate: 45%
@@ -443,19 +443,19 @@ The higher the mission level, the lower the success rate but the better the rewa
 
 ---
 
-# Adventurer Leaderboard <a href="#adventurer-leaderboard" id="adventurer-leaderboard"></a>
+## Adventurer Leaderboard <a href="#adventurer-leaderboard" id="adventurer-leaderboard"></a>
 
 There are two types of adventurer leaderboards, "most completed missions'' and "most completed adventures." The award rules are the same as Rarity Leaderboard. Time to play and earn!
 
-## Most Completed Missions
+### Most Completed Missions
 
 The leaderboard links directly to a user’s wallet. The more missions you complete, the higher your ranking will be. The leaderboard will reset every two weeks.
 
-## Most Completed Adventures
+### Most Completed Adventures
 
 The more adventure points your Otto gets, the higher its ranking on the leaderboard. The leaderboard will reset every two weeks.
 
-## Adventure Points <a href="#adventure-points" id="adventure-points"></a>
+### Adventure Points <a href="#adventure-points" id="adventure-points"></a>
 
 Each area can get different Adventure Points (AP) as shown below.
 
@@ -473,10 +473,10 @@ The adventure ranking competition will be announced on Discord. Please join us o
 
 ---
 
-# My Gallery <a href="#my-gallery" id="my-gallery"></a>
+## My Gallery <a href="#my-gallery" id="my-gallery"></a>
 
 Collectibles you get from the adventure will be displayed in "My Gallery." The more collectibles you have, the higher your [Civilization Points (CP)](#civilization-points) will be.
 
-## Civilization Points <a href="#civilization-points" id="civilization-points"></a>
+### Civilization Points <a href="#civilization-points" id="civilization-points"></a>
 
 Civilization Points (CP) can be used in various competitions in the future to give your Otto some advantages. Stay tuned!
