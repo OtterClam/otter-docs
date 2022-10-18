@@ -101,6 +101,8 @@ E.g. You found 5 items while on an adventure with your Otto's. Every item has a 
 
 ## Success rate & Conditional boost
 
+### Basic Success Rate
+
 The following chart shows the difficulty and estimated rewards from every area available so far in the adventure map:
 
 | Area             | Difficulty | Gained EXP | Success Rate | % to find 1 item | % to find 2 items | % to find 3 items |
