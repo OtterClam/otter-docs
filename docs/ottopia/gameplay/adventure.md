@@ -73,9 +73,11 @@ When your Otto successfully completes an adventure, you can get the items that y
 
 ![Estimated rewards](img/adventure/estimated_rewards.jpg)
 
-One of the most important part in the preview stage before sending the Otto to an adventure is to check the expected success rate and expected rewards this Otto might get. Please continue reading to learn more about the [success rate and rewards](#success-rate-rewards).
+During the preview stage, it is important to check Otto's expected success rate and expected rewards. Read on to learn more about the success rate and rewards.
 
 ## Success rate & Rewards <a href="#success-rate-rewards" id="success-rate-rewards"></a>
+
+### Success rate 
 
 The following chart shows the difficulty and estimated rewards from every area available so far in the adventure map:
 
@@ -119,11 +121,11 @@ E.g. You found 5 items while on an adventure with your Otto's. Every item has a 
 
 If your Ottos meet the adventure area’s special conditions, they will have a higher chance to complete the adventure and have the possibility of finding more items, or even double the EXP from the exploration. Please go ahead to learn more about conditional boosts.
 
-## Conditional boosts <a href="#conditional-boosts" id="conditional-boosts"></a>
+### Conditional boosts <a href="#conditional-boosts" id="conditional-boosts"></a>
 
 The following conditions are the most common and recommended ways to increase your Otto’s success rate in adventures:
 
-### Regional bonus
+#### Regional bonus
 
 The different attribute advantages your Otto possesses will significantly affect the chance of success in different regions. Make sure to gear up your Otto to match the condition in that region to enjoy the success rate boost.
 
@@ -162,19 +164,19 @@ The different attribute advantages your Otto possesses will significantly affect
 | LUK ≥ 75            | +20%               |
 | LUK ≥ 85            | +25%               |
 
-### Zodiac bonus
+#### Zodiac bonus
 
 Adventure success rate +10%; get 1 extra item
 
-### The chosen otto bonus
+#### The chosen otto bonus
 
 Adventure success rate +20%; get 2 extra items
 
-### Lengendary bonus
+#### Lengendary bonus
 
 Adventure success rate +30%; get 1 extra item
 
-### Potions
+#### Potions
 
 Play it smart, don’t play it safe. There are some magical potions available in Ottopia that can double your rewards and EXP. You can get them from attending campaigns, staking, or purchasing from the Ottopia store.
 
