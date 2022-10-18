@@ -59,11 +59,11 @@ After selecting an area to explore, you can select your Otto NFT to explore this
 
 There are several wearable item types you can select to change in this step:
 
-- Headwear
 - Holding
-- Background
-- Clothes
+- Headwear
 - Facial Accessories
+- Clothes
+- Background
 
 It is possible to select an item already worn by another Otto. The item will be taken off the other Otto and put onto this Otto in the same transaction.
 
