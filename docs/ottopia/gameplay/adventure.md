@@ -313,10 +313,11 @@ Each level can enjoy different boosts. You can not only permanently increase the
 | Otto level  | Success rate boost | Adventure item found amount boost | Collectible found amount boost  |
 | ----------- | ------------------ | --------------------------------- | ------------------------------- |
 | LV1 ~ LV4   | -                  | -                                 | -                               |
-| LV5 ~ LV9   | +2%                | +2% to find 1 extra item          | +2% to find 1 extra collectible |
-| LV15 ~ LV19 | +3%                | +3% to find 1 extra item          | +3% to find 1 extra collectible |
-| LV20 ~ LV24 | +4%                | +4% to find 1 extra item          | +4% to find 1 extra collectible |
-| LV25        | +5%                | +5% to find 1 extra item          | +5% to find 1 extra collectible |
+| LV5 ~ LV9   | +2%                | +2% to find 1 extra item          | -                               |
+| LV10 ~ LV14 | +3%                | +3% to find 1 extra item          | -                               |
+| LV15 ~ LV19 | +4%                | +4% to find 1 extra item          | -                               |
+| LV20 ~ LV24 | +5%                | +5% to find 1 extra item          | +1% to find 1 extra collectible |
+| LV25        | +6%                | +6% to find 1 extra item          | +2% to find 1 extra collectible |
 
 ### Level-up bonus
 
@@ -402,7 +403,7 @@ You can get different treasure points in different adventure areas as follows.
 | 💀💀💀💀        | 20                          |
 | 💀💀💀💀💀      | 30                          |
 
-A Treasure Chest contains a wearable item. There’s a 31% chance of finding exclusive wearable items that you can not find anywhere else! To learn more about the rarity % in a Treasure Chests, please refer to the chart below:
+A Treasure Chest contains a wearable item. There’s a 16% chance of finding exclusive wearable items that you can not find anywhere else! To learn more about the rarity % in a Treasure Chests, please refer to the chart below:
 
 ![Treasure Chest Chart](img/adventure/treasure_chest_chart.jpg)
 
