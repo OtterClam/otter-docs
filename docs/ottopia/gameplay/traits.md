@@ -26,7 +26,7 @@ Each Otto NFT can customize the following wearable item types:
 - Headwear
 - Facial Accessories
 - Clothes
-- Backgrouns
+- Background
 
 ### Equip a wearable item on your Otto NFT​ 
 
