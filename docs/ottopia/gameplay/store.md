@@ -24,11 +24,23 @@ Here is the formula used to show the probability of finding different rarity equ
 ## Special Chest <a href="#shell-chest" id="special-chest"></a>
 Ottopia occasionally has themed chest sales with gorgeous exclusive items.
 
-### Green Thumb Themed Chest
+### Halloween Chest
+
+![Halloween Chest Sale](img/halloween.jpg)
+
+As part of our latest theme of Rarity Ranking Competition, and for Halloween celebrations, we're offering Halloween Chests. These chests contain more than 100 brand-new wearable items. More than that, there is approximately a 31% chance of finding a "Halloween", "Orange", and "Spooky" item that boosts Otto's BRS!
+
+Themed sale duration: October 24th, 0:00:00 ~ October 31st, 0:00:00 (UTC+0)
+
+Here is the formula used to show the probability of finding different rarity equipment in a Halloween Chest.
+
+![Halloween](img/halloween_chest.jpg)
+
+### Green Thumb Themed Chest (Ended)
 
 ![Green Thumb Chest Sale](img/green_thumb.jpg)
 
-As part of our latest theme of Rarity Ranking Competition, and for a limited time only, we're introducing Green Thumb Themed Chests. These chests contain more than 100 brand-new wearable items. More than that, there is approximately a 30% chance of finding a "Green", "Plant", and "Green thumb" item that boosts Otto's BRS!
+As part of our latest theme of Rarity Ranking Competition, and for a limited time only, we're introducing Green Thumb Themed Chests. These chests contain more than 100 brand-new wearable items. More than that, there is approximately a 31% chance of finding a "Green", "Plant", and "Green thumb" item that boosts Otto's BRS!
 
 Themed sale duration: October 10th, 0:00:00 ~ October 17th, 0:00:00 (UTC+0)
 

@@ -30,13 +30,19 @@ Shortcuts to each Rarity Competition epoch:
 
 Earn extra rarity score values as well as rarity multipliers by styling your Otto NFTs following the theme requirements set **Orange**, **Spooky** & **Halloween** for this epoch!
 
-## 2nd Epoch - Green Thumb <a href="#2nd-epoch" id="2nd-epoch"></a>
+## 2nd Epoch - Green Thumb (Ended) <a href="#2nd-epoch" id="2nd-epoch"></a>
 
 ![S2 2nd Epoch](img/s2_epoch2.jpg)
 
 * Event Duration: Oct 3, 2022 0:00 ~ Oct 17, 2022 0:00 (UTC)
 
 Earn extra rarity score values as well as rarity multipliers by styling your Otto NFTs following the theme requirements set **Green**, **Plant** & **Green thumb** for this epoch!
+
+The epoch has ended and the top 3 winners are as follows:
+
+![S2 2nd Epoch Winner](img/s2_winner2.jpg) 
+
+Click [here](https://ottopia.app/leaderboard?epoch=7) to view the final rarity ranking of all Otto NFTs for this epoch.
 
 
 ## 1st Epoch - Party Animal (Ended) <a href="#1st-epoch" id="1st-epoch"></a>
