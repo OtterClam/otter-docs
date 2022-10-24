@@ -24,7 +24,7 @@ The $FISH token can only be used within the Ottopia website. This token will be 
 
 ![Trick or Treat](img/halloween_forge.jpg)
 
-As part of the Rarity Competition S2 3rd epoch, every Otto NFT will be receiving a halloween recipe material. You will randomly get 1 of 7 items: Magic pots - White / Red / Orange / Green /Blue / Purple, or a Pumpkin. These items will help you get spooky and swaggy Halloween decorations from the Foundry!
+As part of the Rarity Competition S2 3rd epoch, every Otto NFT will be receiving a halloween recipe material. You will randomly get 1 of 7 items: Magic pots - White / Red / Orange / Green / Blue / Purple, or a Pumpkin. These items will help you get spooky and swaggy Halloween decorations from the Foundry!
 
 So let’s get to it, Ottopians! Head on over to the Ottopia Foundry and deck your NFTs out in your best "Halloween" + "Orange" + "Spooky" gear!
 
