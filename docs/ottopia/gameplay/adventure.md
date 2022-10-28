@@ -325,7 +325,8 @@ Ottos can get a rest bonus once they level up; or get titles and benefits if the
 
 | Otto level | Chest rewards   | Success rate boost per Otto (24 hours only) | Adventurer title       |
 | ---------- | --------------- | ------------------------------------------- | ---------------------- |
-| Reach LV5  | Silver Chest x1 | +5%                                         | -                      |
+| < LV5      | -               | -                                           | Training Explorer      |
+| Reach LV5  | Silver Chest x1 | +5%                                         | Newbie Explorer        |
 | Reach LV10 | Silver Chest x2 | +10%                                        | Amateur Explorer       |
 | Reach LV15 | Gold Chest x1   | +15%                                        | Knowledgeable Explorer |
 | Reach LV20 | Gold Chest x1   | +20%                                        | Experienced Explorer   |
