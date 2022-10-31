@@ -20,7 +20,7 @@ The $FISH token can only be used within the Ottopia website. This token will be 
 
 ## Seasonal recipe  <a href="#seasonal-recipe" id="seasonal-recipe"></a>
 
-### Trick or Treat!
+### Trick or Treat! (Ended)
 
 ![Trick or Treat](img/halloween_forge.jpg)
 
@@ -33,7 +33,7 @@ This chart shows the probability of halloween items categorized in different rar
 ![Halloween recipe](img/halloween_item_recipe_rarity.jpg)
 
 
-### Green Up Your Thumb!
+### Green Up Your Thumb! (Ended)
 
 ![Green Up Your Thumb](img/green_thumb_recipe.jpg)
 
