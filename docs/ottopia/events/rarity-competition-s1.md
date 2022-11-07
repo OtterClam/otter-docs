@@ -1,5 +1,11 @@
 # Rarity Competition - Season 1
 
+<header>
+<meta property="og:title" content="Ottopia Whitepaper | Rarity Competition - Season 1" />
+<meta property="og:image" content="https://docs.ottopia.app/assets/images/s1-ror-579f9545cda522c8f6646e0efd0836e8.jpg" />
+<meta property="og:description" content="Gather ‘round the stream, Otters! Season 1 of the Rarity Competition is here. It strives to reward the users who are the most thoughtfully and enthusiastically engaged with the ecosystem. As its name suggests, this is a process where you attempt to raise the rarest Otto, Lottie or Cleo, and get rewarded for doing so." />
+</header>
+
 ![Rarity Competition - Season 1](img/s1-ror.jpg)
 
 ## Introduction

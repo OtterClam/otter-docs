@@ -1,5 +1,11 @@
 # Otto NFT
 
+<header>
+<meta property="og:title" content="Ottopia Whitepaper | Otto NFT" />
+<meta property="og:image" content="https://docs.ottopia.app/assets/images/otto_collection-8ad510682831bc9fc02e0850f6c9fab2.jpg" />
+<meta property="og:description" content="Otto NFT has unique features and will be valued accordingly. This feature of ERC-721 tokens is what differentiates them from ERC-20 tokens, which are equal in terms of value, and therefore identical and interchangeable." />
+</header>
+
 ## Meet Otto!
 > The First Citizens of the Otter Kingdom
 

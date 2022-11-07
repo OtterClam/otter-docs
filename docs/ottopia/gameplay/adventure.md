@@ -1,5 +1,11 @@
 # Adventure
 
+<header>
+<meta property="og:title" content="Ottopia Whitepaper | Adventure" />
+<meta property="og:image" content="https://docs.ottopia.app/assets/images/hero-5be89801c9873fd27a1c718340251ed2.jpeg" />
+<meta property="og:description" content="There are different difficulty levels and failure/success rates in each area. The varied terrain, environments, and unknown dangers make it imperative that your Ottos have enough trait advantages to survive." />
+</header>
+
 ![Adventure](img/adventure/hero.jpeg)
 
 ## Introduction

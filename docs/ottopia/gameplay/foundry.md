@@ -1,5 +1,11 @@
 # Foundry
 
+<header>
+<meta property="og:title" content="Ottopia Whitepaper | Foundry" />
+<meta property="og:image" content="https://docs.ottopia.app/assets/images/foundry_hero-dd565246776227bfab18e87db8b3945a.jpg" />
+<meta property="og:description" content="The Otter Kingdom has its own Ottopia Foundry. Here, you can melt several items to create a new item with the possibility of getting a higher rarity score or better attributes!" />
+</header>
+
 ## Ottopia Foundry <a href="#ottopia-foundry" id="ottopia-foundry"></a>
 The Otter Kingdom has its own Ottopia Foundry. Here, you can melt several items to create a new item with the possibility of getting a higher rarity score or better attributes!
 
@@ -19,6 +25,20 @@ The $FISH token can only be used within the Ottopia website. This token will be 
 
 
 ## Seasonal recipe  <a href="#seasonal-recipe" id="seasonal-recipe"></a>
+
+### Let's get some Fast Food!
+
+![Fast Food](img/fast-food_forge_EN.jpg)
+
+As part of our latest theme of Rarity Ranking Competition, and for a limited time only, we're introducing Fast Food Themed Recipes. These recipes contain a bunch of tasty fast food like pizza, french fries and hamburgers. 
+
+As an Ottopian, you will randomly get 1 items that will help you get tasty and swaggy Fast Food props from the Foundry! You can also open Fast Food Themed Chests to collect recipe items to forge a rare item at the Foundry.
+
+So let’s get to it, Ottopians! Head on over to the Ottopia Foundry and deck your NFTs out in your best "Fast Food" + "Food" + "Yellow/Golden" gear!
+
+This chart shows the probability of halloween items categorized in different rarities by recipe:
+
+![Fast Food recipe](img/fast_food_item_recipe_rarity.jpeg)
 
 ### Trick or Treat! (Ended)
 
