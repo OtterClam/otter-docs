@@ -1,5 +1,11 @@
 # Rarity Competition - Season 2
 
+<header>
+<meta property="og:title" content="Ottopia Whitepaper | Rarity Competition - Season 2" />
+<meta property="og:image" content="https://docs.ottopia.app/assets/images/s2-ror-c98d306bc5f6ab73e4fb746844fd06d6.jpg" />
+<meta property="og:description" content="Gather ‘round the stream, Otters! Season 2 of the Rarity Competition is here, and will add another layer of depth to the contest - theme systems and a new bonus mechanism." />
+</header>
+
 ![Rarity Competition - Season 2](img/s2-ror.jpg)
 
 ## Introduction

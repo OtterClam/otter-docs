@@ -1,5 +1,11 @@
 # Traits & Wearable Items
 
+<header>
+<meta property="og:title" content="Ottopia Whitepaper | Traits & Wearable Items" />
+<meta property="og:image" content="https://docs.ottopia.app/assets/images/hero-5be89801c9873fd27a1c718340251ed2.jpeg" />
+<meta property="og:description" content="Your otter’s traits, including looks, personality, and voice, will determine its attributes and basic rarity scores." />
+</header>
+
 ## What are traits and wearable items?
 
 Your otter’s traits, including looks, personality, and voice, will determine its [attributes](./attributes) and [basic rarity scores](./rarity-farming). There are 2 types of traits:

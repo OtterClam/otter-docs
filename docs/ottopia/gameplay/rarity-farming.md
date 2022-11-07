@@ -1,5 +1,11 @@
 # Rarity Scores
 
+<header>
+<meta property="og:title" content="Ottopia Whitepaper | Rarity Scores" />
+<meta property="og:image" content="https://docs.ottopia.app/assets/images/hero-5be89801c9873fd27a1c718340251ed2.jpeg" />
+<meta property="og:description" content="we are introducing an Otto rarity score. The rarity score is calculated according to the traits and wearable items each Otto possesses. Each trait and item has its own Base Rarity Score (BRS) and Relative Rarity Score (RRS)." />
+</header>
+
 Inspired by Aavegotchi, we are introducing an Otto rarity score. The rarity score is calculated according to the traits and wearable items each Otto possesses. Each trait and item has its own **[Base Rarity Score (BRS)](#brs)** and **[Relative Rarity Score (RRS)](#rrs)**.
 
 ## Base Rarity Score <a href="#brs" id="brs"></a>

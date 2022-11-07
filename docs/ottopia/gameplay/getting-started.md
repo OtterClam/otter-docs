@@ -1,5 +1,11 @@
 # Getting Started
 
+<header>
+<meta property="og:title" content="Ottopia Whitepaper | Getting Started" />
+<meta property="og:image" content="https://docs.ottopia.app/assets/images/hero-5be89801c9873fd27a1c718340251ed2.jpeg" />
+<meta property="og:description" content="There are only 5,000 Portals generated in Otter Kingdom, which means only 5,000 otters can join this world. To enter the Otterverse and find the floating island, you must generate a portal. When you mint, you’re effectively buying a portal NFT. In the game, buying the portal represents your entry into the Otterverse, where your mission begins." />
+</header>
+
 Now that you have decided to explore Ottopia, here are some quick steps you can follow:
 
 ![Getting Started](img/ottopia-getting-started.png)

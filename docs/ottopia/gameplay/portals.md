@@ -1,5 +1,11 @@
 # Portals
 
+<header>
+<meta property="og:title" content="Ottopia Whitepaper | Portals" />
+<meta property="og:image" content="https://docs.ottopia.app/assets/images/hero-5be89801c9873fd27a1c718340251ed2.jpeg" />
+<meta property="og:description" content="To enter the Otterverse and find the floating island, you must generate a portal. Portals can be thought of as intergalactic wormholes that transform humans into otters while sending them to the Otterverse. On the backend, portals represent the minting transaction associated with your Otto NFT." />
+</header>
+
 To enter the Otterverse and find the floating island, you must generate a portal. Portals can be thought of as intergalactic wormholes that transform humans into otters while sending them to the Otterverse. On the backend, portals represent the minting transaction associated with your Otto NFT. When you mint, you’re effectively buying a portal. In the game, buying the portal represents your entry into the Otterverse, where your mission begins.
 After getting a portal, you need to open it. 
 
