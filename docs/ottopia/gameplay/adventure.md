@@ -103,9 +103,9 @@ The range of the rarity of the items you found in your adventure has the followi
 
 **Probability of item-drop**
 
-- 70% [Mission Items](#mission-items)
+- 78% [Mission Items](#mission-items)
 - 20% [Collectibles](#collectibles)
-- 10% [Wearable Items](../gameplay/traits.md)
+- 2% [Wearable Items](../gameplay/traits.md)
 
 The table below shows the rarity rate of dropped items. This probability is applied to mission items, collectibles, and wearable items.
 
