@@ -30,7 +30,7 @@ Here is the formula used to show the probability of finding different rarity equ
 ## Special Chest <a href="#shell-chest" id="special-chest"></a>
 Ottopia occasionally has themed chest sales with gorgeous exclusive items.
 
-### Fast Food Chest
+### Fast Food Chest (Ended)
 
 ![Fast Food Chest Sale](img/fast_food.jpeg)
 
@@ -43,7 +43,7 @@ Here is the formula used to show the probability of finding different rarity equ
 ![Fast Food](img/fast_food_chest.jpg)
 
 
-### Halloween Chest (End)
+### Halloween Chest (Ended)
 
 ![Halloween Chest Sale](img/halloween.jpg)
 

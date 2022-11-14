@@ -1,89 +1,30 @@
-# Rarity Competition - Season 2
+# Rarity Competition - Season 3
 
 <header>
-<meta property="og:title" content="Ottopia Whitepaper | Rarity Competition - Season 2" />
+<meta property="og:title" content="Ottopia Whitepaper | Rarity Competition - Season 3" />
 <meta property="og:image" content="https://docs.ottopia.app/assets/images/s2-ror-c98d306bc5f6ab73e4fb746844fd06d6.jpg" />
-<meta property="og:description" content="Gather ‘round the stream, Otters! Season 2 of the Rarity Competition is here, and will add another layer of depth to the contest - theme systems and a new bonus mechanism." />
+<meta property="og:description" content="Gather ‘round the stream, Otters! Season 3 of the Rarity Competition is here, and will add another layer of depth to the contest - theme systems and a new bonus mechanism." />
 </header>
 
-![Rarity Competition - Season 2](img/s2-ror.jpg)
+![Rarity Competition - Season 3](img/s3-ror.jpg)
 
 ## Introduction
 
 Gather ‘round the stream, Otters!
 
-Season 1 of the Raking for Rarity competition is in the books - what an exciting way to kick off the Ottopian games, and the first of many to come! 
+Season 2 of the Raking for Rarity competition is in the books - another milestone that kicked off the Ottopian games!
 
 Top spots changed hands at the 11th hour. CLAM prizes were distributed to hundreds of Ottos vying for the grand prize. The top ranked Ottos received prizes worth hundreds of dollars at current CLAM prices. It was quite a fight! 
 
-If you missed out, don’t worry. Season 2 of the Rarity Competition is here, and will add another layer of depth to the contest - theme systems and a new bonus mechanism.
+If you missed out, don’t worry. Season 3 of the Rarity Competition is here, and will add another layer of depth to the contest - theme systems and a new bonus mechanism.
 
 
 Shortcuts to each Rarity Competition epoch:
 
-* [4th Epoch - Let's have some Fast Food!](#4th-epoch)
-* [3rd Epoch - Trick or Treat](#3rd-epoch)
-* [2nd Epoch - Green Thumb](#2nd-epoch)
-* [1st Epoch - Party Animal](#1st-epoch)
-
-[How to play >](#howtoplay)
-
-## 4th Epoch - Let's have some Fast Food! <a href="#4th-epoch" id="4th-epoch"></a>
-
-![S2 4th Epoch](img/s2_epoch4.jpg)
-
-* Event Duration: Oct 31, 2022 0:00 ~ Nov 14, 2022 0:00 (UTC)
-
-Earn extra rarity score values as well as rarity multipliers by styling your Otto NFTs following the theme requirements set **Yellow**, **Golden**, **Food** & **Fast Food** for this epoch!
-
-The epoch has ended and the top 3 winners are as follows:
-
-![S2 4th Epoch Winner](img/s2_winner4.jpg) 
-
-Click [here](https://ottopia.app/leaderboard?epoch=9) to view the final rarity ranking of all Otto NFTs for this epoch.
-
-## 3rd Epoch - Trick or Treat <a href="#3rd-epoch" id="3rd-epoch"></a>
-
-![S2 3rd Epoch](img/s2_epoch3.jpg)
-
-* Event Duration: Oct 17, 2022 0:00 ~ Oct 31, 2022 0:00 (UTC)
-
-Earn extra rarity score values as well as rarity multipliers by styling your Otto NFTs following the theme requirements set **Orange**, **Spooky** & **Halloween** for this epoch!
-
-The epoch has ended and the top 3 winners are as follows:
-
-![S2 3rd Epoch Winner](img/s2_winner3.jpg) 
-
-Click [here](https://ottopia.app/leaderboard?epoch=8) to view the final rarity ranking of all Otto NFTs for this epoch.
-
-## 2nd Epoch - Green Thumb (Ended) <a href="#2nd-epoch" id="2nd-epoch"></a>
-
-![S2 2nd Epoch](img/s2_epoch2.jpg)
-
-* Event Duration: Oct 3, 2022 0:00 ~ Oct 17, 2022 0:00 (UTC)
-
-Earn extra rarity score values as well as rarity multipliers by styling your Otto NFTs following the theme requirements set **Green**, **Plant** & **Green thumb** for this epoch!
-
-The epoch has ended and the top 3 winners are as follows:
-
-![S2 2nd Epoch Winner](img/s2_winner2.jpg) 
-
-Click [here](https://ottopia.app/leaderboard?epoch=7) to view the final rarity ranking of all Otto NFTs for this epoch.
-
-
-## 1st Epoch - Party Animal (Ended) <a href="#1st-epoch" id="1st-epoch"></a>
-
-![S2 1st Epoch](img/s2_epoch1.jpg)
-
-* Event Duration: Sep 19, 2022 0:00 ~ Oct 3, 2022 0:00 (UTC)
-
-Earn extra rarity score values as well as rarity multipliers by styling your Otto NFTs following the theme requirements set **Red** & **Animal** for this epoch!
-
-The epoch has ended and the top 3 winners are as follows:
-
-![S2 1st Epoch Winner](img/s2_winner1.jpg)
-
-Click [here](https://ottopia.app/leaderboard?epoch=6) to view the final rarity ranking of all Otto NFTs for this epoch.
+* 4th Epoch (Coming soon)
+* 3rd Epoch (Coming soon)
+* 2nd Epoch (Coming soon)
+* 1st Epoch (Coming soon)
 
 
 ## How to Play <a href="#howtoplay" id="howtoplay"></a>

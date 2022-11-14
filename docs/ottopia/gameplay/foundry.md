@@ -26,7 +26,7 @@ The $FISH token can only be used within the Ottopia website. This token will be 
 
 ## Seasonal recipe  <a href="#seasonal-recipe" id="seasonal-recipe"></a>
 
-### Let's get some Fast Food!
+### Let's get some Fast Food! (Ended)
 
 ![Fast Food](img/fast-food_forge_EN.jpg)
 

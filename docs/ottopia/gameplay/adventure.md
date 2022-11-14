@@ -87,11 +87,12 @@ During the preview stage, it is important to check Otto's expected success rate 
 
 The following chart shows the difficulty and estimated rewards from every area available so far in the adventure map:
 
-| Area             | Difficulty | Gained EXP | Success Rate | % to find 1 item | % to find 2 items | % to find 3 items |
-| ---------------- | ---------- | ---------- | ------------ | ---------------- | ----------------- | ----------------- |
-| Misty Forest     | 💀         | 50         | 50%          | 75%              | 20%               | 5%                |
-| Dreamy Riverside | 💀💀       | 80         | 30%          | 65%              | 27%               | 8%                |
-| Ancient Ruins    | 💀💀💀     | 150        | 20%          | 60%              | 32%               | 8%                |
+| Area             | Difficulty | LV restricted | Gained EXP | Success Rate | % to find 1 item | % to find 2 items | % to find 3 items |
+| ---------------- | ---------- | ---------- | ---------- | ------------ | ---------------- | ----------------- | ----------------- |
+| Misty Forest     | 💀         | LV1         | 50         | 50%          | 75%              | 20%               | 5%                |
+| Dreamy Riverside | 💀💀       | LV1         | 80         | 30%          | 65%              | 27%               | 8%                |
+| Ancient Ruins    | 💀💀💀     | LV1        | 150        | 20%          | 60%              | 32%               | 8%                |
+| Lojave Desert    | 💀💀💀     | LV3        | 150        | 20%          | 60%              | 32%               | 8%                |
 
 ### Rewards
 
@@ -170,6 +171,19 @@ The different attribute advantages your Otto possesses will significantly affect
 | LUK ≥ 75            | +20%               |
 | LUK ≥ 85            | +25%               |
 
+**Lojave Desert**
+
+| Attribute condition | Success rate boost |
+| ------------------- | ------------------ |
+| INT ≥ 50            | +10%               |
+| INT ≥ 60            | +15%               |
+| INT ≥ 70            | +20%               |
+| INT ≥ 80            | +25%               |
+| DEX ≥ 50            | +10%               |
+| DEX ≥ 60            | +15%               |
+| DEX ≥ 70            | +20%               |
+| DEX ≥ 80            | +25%               |
+
 #### Zodiac bonus
 
 Adventure success rate +10%; get 1 extra item
@@ -178,7 +192,7 @@ Adventure success rate +10%; get 1 extra item
 
 Adventure success rate +20%; get 2 extra items
 
-#### Lengendary bonus
+#### Legendary bonus
 
 Adventure success rate +30%; get 1 extra item
 
@@ -282,6 +296,7 @@ The following chart shows the resting time based on each adventure area:
 | Misty Forest     | 💀        | 4 hrs          | 4 hrs        |
 | Dreamy Riverside | 💀💀      | 8 hrs          | 8 hrs        |
 | Ancient Ruins    | 💀💀💀    | 12 hrs         | 12 hrs       |
+| Lojave Desert    | 💀💀💀    | 12 hrs         | 12 hrs       |
 
 If your Otto levels up during the current adventure, your Otto will be rewarded with a “Cool down time bonus”, which means your Otto’s energy will be fully restored, so you can send your Otto on another adventure immediately without having to rest.
 
