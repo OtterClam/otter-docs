@@ -50,23 +50,36 @@ Although your Otto will be minted with a specific set of equipment (some will ha
 
 Unlike native traits, wearable items can be categorized by collection. In the Otter Kingdom, two collections of wearable items have been released so far: **Gen1** and **Gen2**.
 
-One of the most notable features of Item Collections is that after a period of time, the collection will be sealed. This means that after the sealing, you will not be able to acquire the items of this collection through Portals, Treasure Chests, or Adventures. The Otter DAO will determine the release and seal time for each item collection.
+One of the most notable features of Item Collections is that after a period of time, the collection will be enshrined. Once the enshrining takes place, these items will not be able to be found or freshly minted from Shell Chests any longer. (The items coming along with the Otto minted from Portal are not be affected, though) The Otter DAO will determine the release and enhrining time for each item collection.
 
 ![Collection](img/collection.jpg)
 
 ### Gen1
 
 Gen1 was released on 23rd April 2021 along with the first generation Otto Portals. There are currently 596 items in Gen1 with the following breakdown:
+
 - Background: 76
 - Headwear: 222
 - Object Holding: 110
 - Special Accessories: 62
 - Clothes: 126
 
+If you've been following OtterClam for a while now you know that we're constantly releasing new items for our Otto NFTs. Now that we've reached a large number of items available it's time to bid adieu to the 1st Generation items.
+
+After **28th November, 2022 8:00 AM UTC**, all Gen1 items will be enshrined.
+
 ### Gen2
 
-Since 23rd April 2021, we have added many items which will be part of Gen2, and will continue to add additional items over time. Once the number of items in this collection reaches about 600, we will stop adding items to Gen2 and start Gen3. Gen2 will be sealed once Gen3 is underway. 
+All added items during 23rd April 2021 8:00 AM UTC ~ 28th November, 2022 8:00 AM UTC belong to Gen2.
 
-Sealed collections may be given rarity and/or attribute boosts after a certain period of time.
+### Gen3
+
+The moment the Gen1 items get enshrined from **28th November, 2022 8:00 AM UTC**, all new items added afterwards will be part of Gen3. 
+Once the number of items in this collection reaches about 600, we will stop adding items to Gen3 and start Gen4.
+
+
+Make sure to join our weekly games/events for Shell Chest prizes, but you can always crack open some chests from the Ottopia store too!
+
+Enshrined collections may be given rarity and/or attribute boosts after a certain period of time.
 
 ![Collection Timeline](img/collection_timeline.jpg)
