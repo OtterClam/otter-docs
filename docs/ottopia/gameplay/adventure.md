@@ -162,14 +162,14 @@ The different attribute advantages your Otto possesses will significantly affect
 
 | Attribute condition | Success rate boost |
 | ------------------- | ------------------ |
-| STR ≥ 55            | +10%               |
-| STR ≥ 65            | +15%               |
-| STR ≥ 75            | +20%               |
-| STR ≥ 85            | +25%               |
-| LUK ≥ 55            | +10%               |
-| LUK ≥ 65            | +15%               |
-| LUK ≥ 75            | +20%               |
-| LUK ≥ 85            | +25%               |
+| STR ≥ 50            | +10%               |
+| STR ≥ 60            | +15%               |
+| STR ≥ 70            | +20%               |
+| STR ≥ 80            | +25%               |
+| LUK ≥ 50            | +10%               |
+| LUK ≥ 60            | +15%               |
+| LUK ≥ 70            | +20%               |
+| LUK ≥ 80            | +25%               |
 
 **Lojave Desert**
 
