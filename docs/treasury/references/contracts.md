@@ -15,6 +15,7 @@
 
 - USDC/MAI QiDAO Strategy: [0x31e79E57fE7287dCa5285354338caB63A3C2b830](https://polygonscan.com/address/0x31e79E57fE7287dCa5285354338caB63A3C2b830)
 - Penrose Strategy: [0x6c108d25299BC275cbB18855289327Ed9F290112](https://polygonscan.com/address/0x6c108d25299BC275cbB18855289327Ed9F290112)
+- Qi Strategy: [0x69f6c4Fa150F9F0b3037612CF8FadDAeDbd46Bb8](https://polygonscan.com/address/0x69f6c4Fa150F9F0b3037612CF8FadDAeDbd46Bb8)
 - USD+ Holding Strategy: [0x32470D6b534e7343ECB05069d1D3336A8424beA0](https://polygonscan.com/address/0x32470D6b534e7343ECB05069d1D3336A8424beA0)
 - Gains DAI Vault Strategy: [0x397b681bd7d9e8e10a577574586e2ceeb475793c](https://polygonscan.com/address/0x397b681bd7d9e8e10a577574586e2ceeb475793c)
 - KyberSwap WMATIC/stMATIC ETS: [0xb00029d883E5EEA2f71dFBCE8941B15F4ec36120](https://polygonscan.com/address/0xb00029d883E5EEA2f71dFBCE8941B15F4ec36120)
