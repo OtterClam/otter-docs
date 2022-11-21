@@ -30,6 +30,20 @@ Here is the formula used to show the probability of finding different rarity equ
 ## Special Chest <a href="#shell-chest" id="special-chest"></a>
 Ottopia occasionally has themed chest sales with gorgeous exclusive items.
 
+### Autumn Themed Chest
+
+![Autumn Chest Sale](img/autumn_sale.jpeg)
+
+As part of Clamsgiving celebrations, we are offering our Autumn Themed Chest, which contains hundreds of wearable items, with a huge possibility of finding the Autumn themed items and all ingredients from the Clamsgiving recipes!
+
+In addition to that, the mythical items from one of the beloved deities, Demeter - goddess of the harvest, are available to be found in this chest!
+
+Themed sale duration: November 21st, 0:00:00 ~ November 24th, 0:00:00 (UTC+0)
+
+Here is the formula used to show the probability of finding different rarity equipment in a Autumn Themed Chest.
+
+![Autumn](img/autumn_chest.jpg)
+
 ### Fast Food Chest (Ended)
 
 ![Fast Food Chest Sale](img/fast_food.jpeg)

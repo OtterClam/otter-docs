@@ -26,6 +26,26 @@ The $FISH token can only be used within the Ottopia website. This token will be 
 
 ## Seasonal recipe  <a href="#seasonal-recipe" id="seasonal-recipe"></a>
 
+### Happy Clamsgiving!
+
+![Clamsgiving](img/clamsgiving_forge.jpg)
+
+**Clamsgiving Cornucopia**
+
+Similar to Demeter, the goddess of harvest, Ottopians have a cornucopia of their own. At Clamsgiving, Ottopians decorate their cornucopia with fruits and autumn-themed elements; and of course, a big bowl of clams!
+
+It has been said that having this on hand will give you a major advantage in the upcoming competition. Get one for yourself!
+
+**Clamsgiving Turkey Dish**
+
+This dish is one of Ottopia's most notable dishes. At Clamsgiving, Ottopians prepare this turkey dish and share this meal with the family. The specialty is clams. During the roasting process with turkey at high heat, the arona spreads out, doubling the flavor of the clam. 
+
+It has been said that having this on hand will give you a major advantage in the upcoming competition. Make this tasty dish now!
+
+![Clamsgiving recipe](img/clamsgiving_recipes.jpg)
+
+Share the joy and blessing in this big and warm Ottopia family!
+
 ### Let's get some Fast Food! (Ended)
 
 ![Fast Food](img/fast-food_forge_EN.jpg)
