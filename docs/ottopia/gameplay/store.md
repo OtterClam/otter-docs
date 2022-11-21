@@ -32,7 +32,7 @@ Ottopia occasionally has themed chest sales with gorgeous exclusive items.
 
 ### Autumn Themed Chest
 
-![Autumn Chest Sale](img/autumn_sale.jpeg)
+![Autumn Chest Sale](img/autumn_sale.jpg)
 
 As part of Clamsgiving celebrations, we are offering our Autumn Themed Chest, which contains hundreds of wearable items, with a huge possibility of finding the Autumn themed items and all ingredients from the Clamsgiving recipes!
 
