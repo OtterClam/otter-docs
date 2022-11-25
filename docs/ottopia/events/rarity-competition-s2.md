@@ -28,7 +28,7 @@ Shortcuts to each Rarity Competition epoch:
 
 [How to play >](#howtoplay)
 
-## 4th Epoch - Let's have some Fast Food! <a href="#4th-epoch" id="4th-epoch"></a>
+## 4th Epoch - Let's have some Fast Food! (Ended) <a href="#4th-epoch" id="4th-epoch"></a>
 
 ![S2 4th Epoch](img/s2_epoch4.jpg)
 
@@ -42,7 +42,7 @@ The epoch has ended and the top 3 winners are as follows:
 
 Click [here](https://ottopia.app/leaderboard?epoch=9) to view the final rarity ranking of all Otto NFTs for this epoch.
 
-## 3rd Epoch - Trick or Treat <a href="#3rd-epoch" id="3rd-epoch"></a>
+## 3rd Epoch - Trick or Treat (Ended) <a href="#3rd-epoch" id="3rd-epoch"></a>
 
 ![S2 3rd Epoch](img/s2_epoch3.jpg)
 
@@ -169,6 +169,15 @@ The following list shows the percentage of the result types you will get in ever
 - Options*:	**23.0%**
 
 *Depending on how you answer the question, you might get good or bad results. 
+
+## Reward
+
+The reward of the Rarity Competition is in $CLAM. We are preparing a total of 10,000 $CLAM for this season! Each epoch’s reward will be 2,500 $CLAM.
+
+Start gear up your Otto NFT gang and earn these tasty $CLAM!
+
+![CLAM reward](./img/ror_s2_rewards.jpg)
+
 
 If you haven’t already minted an Otto NFT from our Genesis Collection, you can do so at the [Ottopia App](http://ottopia.app). For more information about the competition and the OtterClam protocol in general, please swim down to our [Discord](https://discord.gg/jdCk93R2) and say hello!
 
