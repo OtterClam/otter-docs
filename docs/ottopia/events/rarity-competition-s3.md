@@ -111,6 +111,14 @@ The following list shows the percentage of the result types you will get in ever
 
 *Depending on how you answer the question, you might get good or bad results. 
 
+## Reward
+
+The reward of the Rarity Competition is in $CLAM. We are preparing a total of 10,000 $CLAM for this season! Each epoch’s reward will be 2,500 $CLAM.
+
+Start gear up your Otto NFT gang and earn these tasty $CLAM!
+
+![CLAM reward](./img/ror_s3_rewards.jpg)
+
 If you haven’t already minted an Otto NFT from our Genesis Collection, you can do so at the [Ottopia App](http://ottopia.app). For more information about the competition and the OtterClam protocol in general, please swim down to our [Discord](https://discord.gg/jdCk93R2) and say hello!
 
 Until then, OGMI

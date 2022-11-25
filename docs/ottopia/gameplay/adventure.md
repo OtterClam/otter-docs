@@ -492,7 +492,7 @@ Each area can get different Adventure Points (AP) as shown below.
 
 Adventure Points (AP) can be the score in the adventure ranking competition. The higher your Otto rank, the more rewards you'll receive, so assess your risk tolerance and embark on your adventure! Adventure Points will be erased and reset after the end of each epoch of adventure ranking competition.
 
-The adventure ranking competition will be announced on Discord. Please join us on Discord to keep posted.
+To learn more about the adventure leaderboard, please go to [Adventure Leaderboard](../events/adventure-competition-s1).
 
 ---
 
