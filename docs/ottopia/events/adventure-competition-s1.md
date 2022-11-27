@@ -2,7 +2,7 @@
 
 <header>
 <meta property="og:title" content="Ottopia Whitepaper | Adventure Leaderboard - Season 1" />
-<meta property="og:image" content="https://docs.ottopia.app/assets/images/ap_s1-83532c477bb00c1cc2a9cf3793569b8a.jpg" />
+<meta property="og:image" content="https://docs.ottopia.app/assets/images/1st-al-ogimage-7cff5b06bacecc1bd368a93cf650dd00.jpg" />
 <meta property="og:description" content="Gather ‘round the stream, Otters! Season 1 of the Adventure Leaderboard is here, pack your bags and get ready to become the king of the adventure!" />
 </header>
 

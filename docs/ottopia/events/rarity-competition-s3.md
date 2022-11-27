@@ -2,7 +2,7 @@
 
 <header>
 <meta property="og:title" content="Ottopia Whitepaper | Rarity Competition - Season 3" />
-<meta property="og:image" content="https://docs.ottopia.app/assets/images/s2-ror-c98d306bc5f6ab73e4fb746844fd06d6.jpg" />
+<meta property="og:image" content="https://docs.ottopia.app/assets/images/3rd-ror-ogimage-42f502d6aa430f9efaa22e3e62e8a2a5.jpg" />
 <meta property="og:description" content="Gather ‘round the stream, Otters! Season 3 of the Rarity Competition is here, and will add another layer of depth to the contest - theme systems and a new bonus mechanism." />
 </header>
 
