@@ -6,7 +6,7 @@
 <meta property="og:description" content="Gather ‘round the stream, Otters! Season 3 of the Rarity Competition is here, and will add another layer of depth to the contest - theme systems and a new bonus mechanism." />
 </header>
 
-![Rarity Competition - Season 3](img/s3-ror.jpg)
+![Rarity Competition - Season 3](img/3rd-ror-ogimage.jpg)
 
 ## Introduction
 
