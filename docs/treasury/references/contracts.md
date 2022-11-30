@@ -11,6 +11,8 @@
 - Reward manager: [0x306a7c1347F38CAD360a3A31FE0308c33e92c087](https://polygonscan.com/address/0x306a7c1347F38CAD360a3A31FE0308c33e92c087)
 - Portfolio manager: [0xE8c7574f7355920B254a91658D04074e1C0FdeF4](https://polygonscan.com/address/0xE8c7574f7355920B254a91658D04074e1C0FdeF4)
 
+- Ethereum Treasury: [0xBfA7001f8Ada466Af54ddDa6447dAE188eFa8Ae5](https://app.safe.global/eth:0xBfA7001f8Ada466Af54ddDa6447dAE188eFa8Ae5)
+
 ## Strategies
 
 - USDC/MAI QiDAO Strategy: [0x31e79E57fE7287dCa5285354338caB63A3C2b830](https://polygonscan.com/address/0x31e79E57fE7287dCa5285354338caB63A3C2b830)
