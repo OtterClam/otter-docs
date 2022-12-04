@@ -14,13 +14,13 @@ Another farming game is coming! After Raking for Rarity, Ottopia has once again 
 
 The more adventures your Otto NFT completes, the higher its ranking will be on the leaderboard. The higher your Otto NFT’s rank is, the more rewards you'll receive – so assess your risk tolerance and embark on your adventure!
 
-## How to play 
+## How to play
 
 Send your Ottos to the adventure and get the **Adventure Points (AP)**. 
 Your accumulated AP for each round determines your ranking on the leaderboard.
 Collect your fish rewards!
 
-## What are the Adventure Points? How can I get them? 
+## What are the Adventure Points? How can I get them?
 
 Unlike in Raking for Rarity where the metric for climbing the leaderboard is the total Rarity Score, the Adventure Leaderboard uses **Adventure Points** as the metric. The amount of AP you have earned during each epoch determines your ranking on the leaderboard. 
 

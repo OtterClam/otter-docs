@@ -26,7 +26,21 @@ The $FISH token can only be used within the Ottopia website. This token will be 
 
 ## Seasonal recipe  <a href="#seasonal-recipe" id="seasonal-recipe"></a>
 
-### Happy Clamsgiving!
+### Pharaoh's Secret
+
+![Pharaoh's Secret](img/pharaoh_forge.jpg)
+
+As part of our latest theme of Rarity Ranking Competition and Adventure Leaderboard, we're introducing new themed recipes. There are a bunch of special stuffs included in these recipes, from the most basic exploring equipment to the most luxurious items found from the ancient Egyptian empire.
+
+As an Ottopian, you will randomly get 1 item that will help you get those twinkling props from the Foundry! You can also open Fast Pharaoh's Secret Chests to collect recipe items to forge a rare item at the Foundry.
+
+So let’s get to it, Ottopians! Head on over to the Ottopia Foundry and deck your NFTs out in your best "Earth Tone" + "Adventure" + "Egyptian" gear!
+
+This chart shows the probability of themed items categorized in different rarities by recipe:
+
+![Pharaoh's recipe](img/pharaoh_item_recipe_rarity.jpg)
+
+### Happy Clamsgiving! (Ended)
 
 ![Clamsgiving](img/clamsgiving_forge.jpg)
 
@@ -52,11 +66,11 @@ Share the joy and blessing in this big and warm Ottopia family!
 
 As part of our latest theme of Rarity Ranking Competition, and for a limited time only, we're introducing Fast Food Themed Recipes. These recipes contain a bunch of tasty fast food like pizza, french fries and hamburgers. 
 
-As an Ottopian, you will randomly get 1 items that will help you get tasty and swaggy Fast Food props from the Foundry! You can also open Fast Food Themed Chests to collect recipe items to forge a rare item at the Foundry.
+As an Ottopian, you will randomly get 1 item that will help you get tasty and swaggy Fast Food props from the Foundry! You can also open Fast Food Themed Chests to collect recipe items to forge a rare item at the Foundry.
 
 So let’s get to it, Ottopians! Head on over to the Ottopia Foundry and deck your NFTs out in your best "Fast Food" + "Food" + "Yellow/Golden" gear!
 
-This chart shows the probability of halloween items categorized in different rarities by recipe:
+This chart shows the probability of fast food items categorized in different rarities by recipe:
 
 ![Fast Food recipe](img/fast_food_item_recipe_rarity.jpeg)
 
