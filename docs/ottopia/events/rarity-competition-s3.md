@@ -24,7 +24,16 @@ Shortcuts to each Rarity Competition epoch:
 * 4th Epoch (Coming soon)
 * 3rd Epoch (Coming soon)
 * 2nd Epoch (Coming soon)
-* 1st Epoch (Coming soon)
+* [1st Epoch - Pharaoh's Secret](#1st-epoch)
+
+
+## 1st Epoch - Pharaoh's Secret <a href="#1st-epoch" id="1st-epoch"></a>
+
+![S3 1st Epoch](img/s3_epoch1.jpg)
+
+* Event Duration: Nov 28, 2022 0:00 ~ Dec 19, 2022 0:00 (UTC)
+
+Earn extra rarity score values as well as rarity multipliers by styling your Otto NFTs following the theme requirements set **Earth Tone** , **Adventure** & **Egyptian** for this epoch!
 
 
 ## How to Play <a href="#howtoplay" id="howtoplay"></a>

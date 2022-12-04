@@ -30,7 +30,21 @@ Here is the formula used to show the probability of finding different rarity equ
 ## Special Chest <a href="#shell-chest" id="special-chest"></a>
 Ottopia occasionally has themed chest sales with gorgeous exclusive items.
 
-### Autumn Themed Chest
+
+### Pharaoh's Secret Chest
+
+![Pharaoh's Secret Sale](img/pharaohs_secret.jpg)
+
+As part of our latest theme of Rarity Ranking Competition and Adventure Leaderboard, we're introducing Pharaoh's Secret Chest. These chests contain hundreds of brand new adventurer equipment and ancient Egyptian artifacts. More than that, there is approximately a 31% chance of finding a "Adventure", "Earth Tone" and "Egyptian" item that boosts Otto's BRS!
+
+Themed sale duration: December 5th, 0:00:00 ~ December 19th, 0:00:00 (UTC+0)
+
+Here is the formula used to show the probability of finding different rarity equipment in a Pharaoh's Secret Chest.
+
+![Pharaoh's Secret](img/pharaoh_secret_chest.jpg)
+
+
+### Autumn Themed Chest (Ended)
 
 ![Autumn Chest Sale](img/autumn_sale.jpg)
 
@@ -43,6 +57,7 @@ Themed sale duration: November 21st, 0:00:00 ~ November 24th, 0:00:00 (UTC+0)
 Here is the formula used to show the probability of finding different rarity equipment in a Autumn Themed Chest.
 
 ![Autumn](img/autumn_chest.jpg)
+
 
 ### Fast Food Chest (Ended)
 
