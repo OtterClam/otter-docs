@@ -11,6 +11,7 @@
 - Reward manager: [0x306a7c1347F38CAD360a3A31FE0308c33e92c087](https://polygonscan.com/address/0x306a7c1347F38CAD360a3A31FE0308c33e92c087)
 - Portfolio manager: [0xE8c7574f7355920B254a91658D04074e1C0FdeF4](https://polygonscan.com/address/0xE8c7574f7355920B254a91658D04074e1C0FdeF4)
 - Ethereum Treasury: [0xBfA7001f8Ada466Af54ddDa6447dAE188eFa8Ae5](https://app.safe.global/eth:0xBfA7001f8Ada466Af54ddDa6447dAE188eFa8Ae5)
+- Avalanche Treasury: [0x3bc7DBDFfBf52f2de4fF9A86EA4C3f15FCca7b47](https://app.safe.global/avax:0x3bc7DBDFfBf52f2de4fF9A86EA4C3f15FCca7b47)
 
 ## Strategies
 
