@@ -26,7 +26,7 @@ The $FISH token can only be used within the Ottopia website. This token will be 
 
 ## Seasonal recipe  <a href="#seasonal-recipe" id="seasonal-recipe"></a>
 
-### Pharaoh's Secret
+### Pharaoh's Secret (Ended)
 
 ![Pharaoh's Secret](img/pharaoh_forge.jpg)
 

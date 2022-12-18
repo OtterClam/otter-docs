@@ -23,8 +23,17 @@ Shortcuts to each Rarity Competition epoch:
 
 * 4th Epoch (Coming soon)
 * 3rd Epoch (Coming soon)
-* 2nd Epoch (Coming soon)
+* [2nd Epoch - White Ottermas](#2nd-epoch)
 * [1st Epoch - Pharaoh's Secret](#1st-epoch)
+
+
+## 2nd Epoch - White Ottermas <a href="#2nd-epoch" id="2nd-epoch"></a>
+
+![S3 2nd Epoch](img/s3_epoch2.jpg)
+
+* Event Duration: Dec 19, 2022 0:00 ~ Jan 9, 2023 0:00 (UTC)
+
+A Christmas and 2023 New Year feast warm-up has just commenced! During these 3 weeks, you can earn extra rarity score values as well as rarity multipliers by styling your Otto NFTs following the theme requirements set **White** , **Winter** & **Christmas** for this epoch!
 
 
 ## 1st Epoch - Pharaoh's Secret <a href="#1st-epoch" id="1st-epoch"></a>
@@ -35,10 +44,16 @@ Shortcuts to each Rarity Competition epoch:
 
 Earn extra rarity score values as well as rarity multipliers by styling your Otto NFTs following the theme requirements set **Earth Tone** , **Adventure** & **Egyptian** for this epoch!
 
+The epoch has ended and the top 3 winners are as follows:
+
+~Coming soon~
+
+Click [here](https://ottopia.app/leaderboard?epoch=10) to view the final rarity ranking of all Otto NFTs for this epoch.
+
 
 ## How to Play <a href="#howtoplay" id="howtoplay"></a>
 
-Each 2-week epoch will have a different theme, and each theme will have two to three specific item labels that will entitle an item with one or more themed labels to a rarity boost. Item labels can be found when viewing the item in the “My Items” section of the Ottopia app. As long as the player wears an item with a theme-specific label, the player will receive a rarity boost to their Otto NFT.
+Each 3-week epoch will have a different theme, and each theme will have two to three specific item labels that will entitle an item with one or more themed labels to a rarity boost. Item labels can be found when viewing the item in the “My Items” section of the Ottopia app. As long as the player wears an item with a theme-specific label, the player will receive a rarity boost to their Otto NFT.
 
 Here is how the theme rarity boosts are calculated:
 

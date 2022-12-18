@@ -31,7 +31,7 @@ Here is the formula used to show the probability of finding different rarity equ
 Ottopia occasionally has themed chest sales with gorgeous exclusive items.
 
 
-### Pharaoh's Secret Chest
+### Pharaoh's Secret Chest (Ended)
 
 ![Pharaoh's Secret Sale](img/pharaohs_secret.jpg)
 
