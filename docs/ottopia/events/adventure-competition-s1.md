@@ -32,9 +32,9 @@ Click [here](https://ottopia.app/leaderboard?adventure=1) to view the final AP r
 
 The epoch has ended and the top 3 winners are as follows:
 
-~Coming soon~
+![S1 1st Epoch Winners](img/ap_s1_winner1.jpg)
 
-Click [here](https://ottopia.app/leaderboard?adventure=1) to view the final AP ranking of all Otto NFTs for this epoch.
+Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=11) to view the final AP ranking of all Otto NFTs for this epoch.
 
 ## How to play
 

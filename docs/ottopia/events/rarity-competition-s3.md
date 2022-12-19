@@ -46,9 +46,9 @@ Earn extra rarity score values as well as rarity multipliers by styling your Ott
 
 The epoch has ended and the top 3 winners are as follows:
 
-~Coming soon~
+![S3 1st Epoch Winner](img/ror_s1_winner1.jpg)
 
-Click [here](https://ottopia.app/leaderboard?epoch=10) to view the final rarity ranking of all Otto NFTs for this epoch.
+Click [here](https://ottopia.app/leaderboard?epoch=11) to view the final rarity ranking of all Otto NFTs for this epoch.
 
 
 ## How to Play <a href="#howtoplay" id="howtoplay"></a>
