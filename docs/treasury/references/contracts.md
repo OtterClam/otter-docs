@@ -19,8 +19,8 @@
 - Penrose Strategy: [0x6c108d25299BC275cbB18855289327Ed9F290112](https://polygonscan.com/address/0x6c108d25299BC275cbB18855289327Ed9F290112)
 - Qi Strategy: [0x69f6c4Fa150F9F0b3037612CF8FadDAeDbd46Bb8](https://polygonscan.com/address/0x69f6c4Fa150F9F0b3037612CF8FadDAeDbd46Bb8)
 - USD+ Holding Strategy: [0x32470D6b534e7343ECB05069d1D3336A8424beA0](https://polygonscan.com/address/0x32470D6b534e7343ECB05069d1D3336A8424beA0)
-- Gains DAI Vault Strategy: [0x397b681bd7d9e8e10a577574586e2ceeb475793c](https://polygonscan.com/address/0x397b681bd7d9e8e10a577574586e2ceeb475793c)
 - QuickSwapV3 USDT/MAI Strategy: [0xca2dffb466b6565763510b573aa1b4debec64928](https://polygonscan.com/address/0xca2dffb466b6565763510b573aa1b4debec64928)
+- QiDAO USDC/MAI Arrakis Strategy: [0xda539d44bb40C20a1D22a884163eB9DAA54b243C](https://polygonscan.com/address/0xda539d44bb40C20a1D22a884163eB9DAA54b243C)
 
 ## LP
 
@@ -51,6 +51,7 @@
 - KyberSwap WMATIC/stMATIC ETS: [0xb00029d883E5EEA2f71dFBCE8941B15F4ec36120](https://polygonscan.com/address/0xb00029d883E5EEA2f71dFBCE8941B15F4ec36120)
 - UniswapV3 USDC/MAI Strategy: [0x12De7aF6442A0A419B9bDe95f3780765E969F2B7](https://polygonscan.com/address/0x12De7aF6442A0A419B9bDe95f3780765E969F2B7)
 - UniswapV3 USDC/MATIC ETS: [0x1D8Ecd41997D43CfA8667d44288b1c433aBa6fCA](https://polygonscan.com/address/0x1D8Ecd41997D43CfA8667d44288b1c433aBa6fCA)
+- Gains DAI Vault Strategy: [0x397b681bd7d9e8e10a577574586e2ceeb475793c](https://polygonscan.com/address/0x397b681bd7d9e8e10a577574586e2ceeb475793c)
 
 ### Staking v1
 
