@@ -26,13 +26,27 @@ The $FISH token can only be used within the Ottopia website. This token will be 
 
 ## Seasonal recipe  <a href="#seasonal-recipe" id="seasonal-recipe"></a>
 
+### White Ottermas
+
+![White Ottermas](img/ottermas_forge.jpg)
+
+As part of our latest theme of Rarity Ranking Competition and for the celebration of Ottermas, we're introducing new themed recipes. There are a bunch of special stuffs included in these recipes, from the most basic costumes to the most festive and epic items.
+
+As an Ottopian, you will randomly get 1 item that will help you get those twinkling props from the Foundry! You can also open White Ottermas Secret Chests or advneture to collect recipe items to forge a rare item at the Foundry.
+
+So let’s get to it, Ottopians! Head on over to the Ottopia Foundry and deck your NFTs out in your best "Christmase" + "Winter" + "White" gear!
+
+This chart shows the probability of themed items categorized in different rarities by recipe:
+
+![White Ottermas recipe](img/ottermas_item_recipe_rarity.jpg)
+
 ### Pharaoh's Secret (Ended)
 
 ![Pharaoh's Secret](img/pharaoh_forge.jpg)
 
 As part of our latest theme of Rarity Ranking Competition and Adventure Leaderboard, we're introducing new themed recipes. There are a bunch of special stuffs included in these recipes, from the most basic exploring equipment to the most luxurious items found from the ancient Egyptian empire.
 
-As an Ottopian, you will randomly get 1 item that will help you get those twinkling props from the Foundry! You can also open Fast Pharaoh's Secret Chests to collect recipe items to forge a rare item at the Foundry.
+As an Ottopian, you will randomly get 1 item that will help you get those twinkling props from the Foundry! You can also open Pharaoh's Secret Chests to collect recipe items to forge a rare item at the Foundry.
 
 So let’s get to it, Ottopians! Head on over to the Ottopia Foundry and deck your NFTs out in your best "Earth Tone" + "Adventure" + "Egyptian" gear!
 
