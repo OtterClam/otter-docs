@@ -36,7 +36,7 @@ Ottopia occasionally has themed chest sales with gorgeous exclusive items.
 
 As part of Ottermas celebrations, and for a limited time only, we're introducing our White Ottermas Chest, which contains hundreds of wearable items, with a huge possibility of finding the Ottermas themed items and all ingredients from the Ottermas exclusive recipes! More than that, there is approximately a 40% chance of finding a "Christmas", "White" or "Winter" item that boosts Otto's BRS!
 
-Themed sale duration: December 24th 2022, 0:00:00 ~ January 3rd 2023, 0:00:00 (UTC+0)
+Themed sale duration: December 24th 2022, 0:00:00 ~ January 9th 2023, 0:00:00 (UTC+0)
 
 Here is the formula used to show the probability of finding different rarity equipment in a White Ottermas Chest.
 
