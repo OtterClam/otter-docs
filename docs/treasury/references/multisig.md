@@ -1,8 +1,10 @@
 # Multisig Wallet
 
 The OtterClam DAO contract is guarded by a gnosis safe multisig implementation. The OtterClam DAO gnosis safe address will hold all the treasury funds accumulated. As an example, the OtterClam DAO receives profit from every bond and LP transaction by contract design.
+
 Below is the OtterClam gnosis safe, where the latest version represents the currently active address.
-​
+
+- [0x929A27c46041196e1a49C7B459d63eC9A20cd879](https://app.safe.global/matic:0x929A27c46041196e1a49C7B459d63eC9A20cd879/home)
 
 ## Safe Signers
 
