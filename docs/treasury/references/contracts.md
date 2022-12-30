@@ -25,7 +25,7 @@
 
 ## LP
 
-- Dystopia - USD+/CLAM [0x291e289c39cbaf5ee158028d086d76ffa141cfda](https://polygonscan.com/address/0x291e289c39cbaf5ee158028d086d76ffa141cfda)
+- Dystopia - USDC/CLAM [0xc34beedb17c9d40fbd619acaa46c84398b32acfd](https://polygonscan.com/address/0xc34beedb17c9d40fbd619acaa46c84398b32acfd)
 - QuickSwap - MAI/CLAM: [0x1581802317f32A2665005109444233ca6E3e2D68](https://polygonscan.com/address/0x1581802317f32a2665005109444233ca6e3e2d68)
 
 ## Investment
