@@ -1,5 +1,7 @@
 # pCLAM
 
+Building & growing an ecosystem is costly. To manage these necessary expenses, we will create pCLAM as a team and DAO incentive to ensure the protocol can continue to grow and innovate.
+
 ## How pCLAM works
 
 pCLAM is a precursor derivative of $CLAM; it gives the holder the option to mint $CLAM by burning pCLAM and providing the intrinsic value of $CLAM. For example, the DAO would provide 1 MAI and 1 pCLAM to mint 1 $CLAM.
