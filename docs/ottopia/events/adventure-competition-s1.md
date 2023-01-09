@@ -14,15 +14,27 @@ Another farming game is coming! After Raking for Rarity, Ottopia has once again 
 
 The more adventures your Otto NFT completes, the higher its ranking will be on the leaderboard. The higher your Otto NFT’s rank is, the more rewards you'll receive – so assess your risk tolerance and embark on your adventure!
 
+## 3rd Epoch <a href="#3rd-epoch" id="3rd-epoch"></a>
+
+![S1 3rd Epoch](img/ap_s1_epoch3.jpg)
+
+* Event Duration: Jan 9, 2023 0:00 ~ Jan 30, 2023 0:00 (UTC)
+
+The 3rd epoch is live now. Get ready to the adventure and collect AP and find treasure rewards!
+
+Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=13) to view the final AP ranking of all Otto NFTs for this epoch.
+
 ## 2nd Epoch <a href="#2nd-epoch" id="2nd-epoch"></a>
 
 ![S1 2nd Epoch](img/ap_s1_epoch2.jpg)
 
 * Event Duration: Dec 19, 2022 0:00 ~ Jan 9, 2023 0:00 (UTC)
 
-The 2nd epoch is live now! Get ready to the adventure and collect AP and find treasure rewards!
+The epoch has ended and the top 3 winners are as follows:
 
-Click [here](https://ottopia.app/leaderboard?adventure=1) to view the final AP ranking of all Otto NFTs for this epoch.
+![S1 2nd Epoch Winners](img/ap_s1_winner2.jpg)
+
+Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=12) to view the final AP ranking of all Otto NFTs for this epoch.
 
 ## 1st Epoch <a href="#1st-epoch" id="1st-epoch"></a>
 
