@@ -22,12 +22,21 @@ If you missed out, don’t worry. Season 3 of the Rarity Competition is here, an
 Shortcuts to each Rarity Competition epoch:
 
 * 4th Epoch (Coming soon)
-* 3rd Epoch (Coming soon)
+* [3rd Epoch - Year of the Rabbit](#3rd-epoch)
 * [2nd Epoch - White Ottermas](#2nd-epoch)
 * [1st Epoch - Pharaoh's Secret](#1st-epoch)
 
+## 3rd Epoch - Year of the Rabbit <a href="#3rd-epoch" id="3rd-epoch"></a>
 
-## 2nd Epoch - White Ottermas <a href="#2nd-epoch" id="2nd-epoch"></a>
+![S3 3rd Epoch](img/s3_epoch3.jpg)
+
+* Event Duration: Jan 9, 2023 0:00 ~ Jan 30, 2023 0:00 (UTC)
+
+Here comes a bigger Lunar New Year celebration following right behind the 2023 New Year feast! During these 3 weeks, you can earn extra rarity score values as well as rarity multipliers by styling your Otto NFTs following the theme requirements set **Red** , **Lunar New Year** & **Rabbit** for this epoch.
+
+This holiday season, may you successfully scare away bad luck and be blessed with good luck. Happy Lunar New Year of the Rabbit!
+
+## 2nd Epoch - White Ottermas (Ended) <a href="#2nd-epoch" id="2nd-epoch"></a>
 
 ![S3 2nd Epoch](img/s3_epoch2.jpg)
 
@@ -36,7 +45,7 @@ Shortcuts to each Rarity Competition epoch:
 A Christmas and 2023 New Year feast warm-up has just commenced! During these 3 weeks, you can earn extra rarity score values as well as rarity multipliers by styling your Otto NFTs following the theme requirements set **White** , **Winter** & **Christmas** for this epoch!
 
 
-## 1st Epoch - Pharaoh's Secret <a href="#1st-epoch" id="1st-epoch"></a>
+## 1st Epoch - Pharaoh's Secret (Ended) <a href="#1st-epoch" id="1st-epoch"></a>
 
 ![S3 1st Epoch](img/s3_epoch1.jpg)
 

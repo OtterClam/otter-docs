@@ -26,7 +26,7 @@ The $FISH token can only be used within the Ottopia website. This token will be 
 
 ## Seasonal recipe  <a href="#seasonal-recipe" id="seasonal-recipe"></a>
 
-### White Ottermas
+### White Ottermas (Ended)
 
 ![White Ottermas](img/ottermas_forge.jpg)
 
