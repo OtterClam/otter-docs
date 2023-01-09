@@ -6,6 +6,7 @@
 - Foundry: [0xcab63328332C1EfC0a54A79649D7aE86f3F428Ca](https://polygonscan.com/address/0xcab63328332C1EfC0a54A79649D7aE86f3F428Ca)
 - Adventure: [0xa8e568F642Ee858Ff4b84e5C6e2Bb9caDfF0F815](https://polygonscan.com/address/0xa8e568F642Ee858Ff4b84e5C6e2Bb9caDfF0F815)
 - Adventure Pass: [0x8deF59F57D863E5C0E2dEe6f00f33A4F3168c223](https://polygonscan.com/address/0x8deF59F57D863E5C0E2dEe6f00f33A4F3168c223)
+- FISH: [0xC938838646DF2004f7Fd58b2f3642ef2C0824DCE](https://polygonscan.com/token/0xC938838646DF2004f7Fd58b2f3642ef2C0824DCE)
 
 ## Multisig
 
