@@ -44,6 +44,10 @@ This holiday season, may you successfully scare away bad luck and be blessed wit
 
 A Christmas and 2023 New Year feast warm-up has just commenced! During these 3 weeks, you can earn extra rarity score values as well as rarity multipliers by styling your Otto NFTs following the theme requirements set **White** , **Winter** & **Christmas** for this epoch!
 
+![S3 2nd Epoch Winner](img/ror_s1_winner2.jpg)
+
+Click [here](https://ottopia.app/leaderboard?epoch=12) to view the final rarity ranking of all Otto NFTs for this epoch.
+
 
 ## 1st Epoch - Pharaoh's Secret (Ended) <a href="#1st-epoch" id="1st-epoch"></a>
 
