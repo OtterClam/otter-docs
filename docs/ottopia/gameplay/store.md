@@ -12,12 +12,12 @@ The Otter Kingdom has its own Ottopia Store. Here, you can find shell chests to 
 ![Store](img/Store.jpg)
 
 ## Shell Chest <a href="#shell-chest" id="shell-chest"></a>
+
 Shell Chests can be purchased by visiting the Ottopia Store. There are 3 types of Shell Chests available, each containing wearable item. Your chances of finding higher rarity item or more powerful wearable items increases with higher level Shell Chests!
 
 ### Why should I buy Shell Chests?
 
 By puchasing the Shell Chest, you will get the wearable item that you can equip on your Otto NFT to increase the attribute values or boost up its rarity score.
-
 
 ### What does a Shell Chest contain?
 
@@ -25,10 +25,38 @@ Every Shell Chest contains **1 wearable item**. Please visit [Items page](./trai
 
 Here is the formula used to show the probability of finding different rarity equipment in each chest.
 
-![Chest](img/Chest.jpg)
+## Gardening Kit Chest <a href="#gardening-chest" id="gardening-chest"></a>
+
+Wanna become a gardening master? The Otter Kingdom will periodically release potted planting recipes in the foundry, and the gardening materials needed for the recipes can be obtained directly from this chest. Make your otter life green!
+
+![Gardening Kit Chest](img/gardening_kit_chest_square.jpg)
+
+### Why should I buy Gardening Kit Chests?
+
+By puchasing the Shell Chest, you will get the materials to forge a new plant in Foundry. Must of them are very useful for gardening recipes, and the rest are very epic Backgrounds that you can eqip on your Ottos!
+
+### What does a Gardening Kit Chest contain?
+
+Every Shell Chest contains **1 wearable item**.
+
+Here is the formula used to show the probability of finding different rarity equipment in each chest.
+
+![Gardening Kit Chest Sheet](img/gardening_kit_chest_sheet.jpeg)
 
 ## Special Chest <a href="#shell-chest" id="special-chest"></a>
 Ottopia occasionally has themed chest sales with gorgeous exclusive items.
+
+### Rabbit New Year Chest
+
+![Rbbit New Year Chest Sale](img/rabbit_chest.jpg)
+
+The Year of the Rabbit is just around the corner! In celebration of the Lunar New Year, and for a limited time only, we're introducing our Rabbit New Year Chest, which contains hundreds of wearable items, with a huge possibility of finding the themed items and all ingredients from exclusive recipes! More than that, there is approximately a 40% chance of finding a "Lunar New Year", "Red" or "Rabbit" item that boosts Otto's BRS!
+
+Themed sale duration: January 16th 2023, 0:00:00 ~ January 30th 2023, 0:00:00 (UTC+0)
+
+Here is the formula used to show the probability of finding different rarity equipment in a Rabbit New Year Chest.
+
+![Rabbit New Year](img/rabbit_new_year_chest.jpg)
 
 ### White Ottermas Chest (Ended)
 
