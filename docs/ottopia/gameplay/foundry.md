@@ -26,13 +26,27 @@ The $FISH token can only be used within the Ottopia website. This token will be 
 
 ## Seasonal recipe  <a href="#seasonal-recipe" id="seasonal-recipe"></a>
 
+### Rabbit New Year
+
+![Year of the Rabbit](img/rabbit_forge_en.jpg)
+
+Let's dress up your Ottos with brand-new red props!
+
+As an Ottopian, you will randomly get 1 item that will help you get those twinkling props from the Foundry! You can also open Rabbit New Year Chests or Gardening Kit Chest to collect recipe items to forge a rare item at the Foundry.
+
+So let’s get to it, Ottopians! Head on over to the Ottopia Foundry and deck your NFTs out in your best "Lunar New Year" + "Rabbit" + "Red" gear. May the magic of the lunar new year be with you always!
+
+This chart shows the probability of themed items categorized in different rarities by recipe:
+
+![Year of the Rabbit recipe](img/rabbit_item_recipe_rarity.jpg)
+
 ### White Ottermas (Ended)
 
 ![White Ottermas](img/ottermas_forge.jpg)
 
 As part of our latest theme of Rarity Ranking Competition and for the celebration of Ottermas, we're introducing new themed recipes. There are a bunch of special stuffs included in these recipes, from the most basic costumes to the most festive and epic items.
 
-As an Ottopian, you will randomly get 1 item that will help you get those twinkling props from the Foundry! You can also open White Ottermas Secret Chests or advneture to collect recipe items to forge a rare item at the Foundry.
+As an Ottopian, you will randomly get 1 item that will help you get those twinkling props from the Foundry! You can also open White Ottermas Chests or go on the adventures to collect recipe items to forge a rare item at the Foundry.
 
 So let’s get to it, Ottopians! Head on over to the Ottopia Foundry and deck your NFTs out in your best "Christmase" + "Winter" + "White" gear!
 
