@@ -26,7 +26,7 @@ The $FISH token can only be used within the Ottopia website. This token will be 
 
 ## Seasonal recipe  <a href="#seasonal-recipe" id="seasonal-recipe"></a>
 
-### Rabbit New Year
+### Rabbit New Year (Ended)
 
 ![Year of the Rabbit](img/rabbit_forge_en.jpg)
 

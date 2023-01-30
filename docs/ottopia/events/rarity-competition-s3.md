@@ -21,12 +21,22 @@ If you missed out, don’t worry. Season 3 of the Rarity Competition is here, an
 
 Shortcuts to each Rarity Competition epoch:
 
-* 4th Epoch (Coming soon)
+* [4th Epoch - Sakura Love Story](#4th-epoch)
 * [3rd Epoch - Year of the Rabbit](#3rd-epoch)
 * [2nd Epoch - White Ottermas](#2nd-epoch)
 * [1st Epoch - Pharaoh's Secret](#1st-epoch)
 
-## 3rd Epoch - Year of the Rabbit <a href="#3rd-epoch" id="3rd-epoch"></a>
+
+## 4th Epoch - Sakura Love Story <a href="#4th-epoch" id="4th-epoch"></a>
+
+![S3 4th Epoch](img/s3_epoch4.jpeg)
+
+* Event Duration: Jan 30, 2023 0:00 ~ Feb 20, 2023 0:00 (UTC)
+
+The Sakura season is upon us, and Valentine's Day will be celebrated. It's a joyous season full of pink blossoms and love!  During these 3 weeks, you can earn extra rarity score values as well as rarity multipliers by styling your Otto NFTs following the theme requirements set **Pink** , **Sakura** & **Valentine** for this epoch.
+
+
+## 3rd Epoch - Year of the Rabbit (Ended) <a href="#3rd-epoch" id="3rd-epoch"></a>
 
 ![S3 3rd Epoch](img/s3_epoch3.jpg)
 
@@ -36,6 +46,13 @@ Here comes a bigger Lunar New Year celebration following right behind the 2023 N
 
 This holiday season, may you successfully scare away bad luck and be blessed with good luck. Happy Lunar New Year of the Rabbit!
 
+The epoch has ended and the top 3 winners are as follows:
+
+![S3 3rd Epoch Winner](img/ror_s3_winner3.jpeg)
+
+Click [here](https://ottopia.app/leaderboard?epoch=13) to view the final rarity ranking of all Otto NFTs for this epoch.
+
+
 ## 2nd Epoch - White Ottermas (Ended) <a href="#2nd-epoch" id="2nd-epoch"></a>
 
 ![S3 2nd Epoch](img/s3_epoch2.jpg)
@@ -43,6 +60,8 @@ This holiday season, may you successfully scare away bad luck and be blessed wit
 * Event Duration: Dec 19, 2022 0:00 ~ Jan 9, 2023 0:00 (UTC)
 
 A Christmas and 2023 New Year feast warm-up has just commenced! During these 3 weeks, you can earn extra rarity score values as well as rarity multipliers by styling your Otto NFTs following the theme requirements set **White** , **Winter** & **Christmas** for this epoch!
+
+The epoch has ended and the top 3 winners are as follows:
 
 ![S3 2nd Epoch Winner](img/ror_s1_winner2.jpg)
 
