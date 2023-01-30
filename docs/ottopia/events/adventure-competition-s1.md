@@ -14,7 +14,7 @@ Another farming game is coming! After Raking for Rarity, Ottopia has once again 
 
 The more adventures your Otto NFT completes, the higher its ranking will be on the leaderboard. The higher your Otto NFT’s rank is, the more rewards you'll receive – so assess your risk tolerance and embark on your adventure!
 
-## 4th Epoch (Ended) <a href="#4th-epoch" id="4th-epoch"></a>
+## 4th Epoch <a href="#4th-epoch" id="4th-epoch"></a>
 
 ![S1 4th Epoch](img/ap_s1_epoch4.jpg)
 
