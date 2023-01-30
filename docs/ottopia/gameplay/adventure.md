@@ -93,6 +93,7 @@ The following chart shows the difficulty and estimated rewards from every area a
 | Dreamy Riverside | 💀💀       | LV1         | 80         | 30%          | 65%              | 27%               | 8%                |
 | Ancient Ruins    | 💀💀💀     | LV1        | 150        | 20%          | 60%              | 32%               | 8%                |
 | Lojave Desert    | 💀💀💀     | LV3        | 150        | 20%          | 60%              | 32%               | 8%                |
+| Frozen Mountain    | 💀💀💀💀     | LV6        | 250        | 20%          | 60%              | 32%               | 8%                |
 
 ### Rewards
 
@@ -183,6 +184,19 @@ The different attribute advantages your Otto possesses will significantly affect
 | DEX ≥ 60            | +15%               |
 | DEX ≥ 70            | +20%               |
 | DEX ≥ 80            | +25%               |
+
+**Frozen Mountain**
+
+| Attribute condition | Success rate boost |
+| ------------------- | ------------------ |
+| STR ≥ 50            | +10%               |
+| STR ≥ 60            | +15%               |
+| STR ≥ 70            | +20%               |
+| STR ≥ 80            | +25%               |
+| DEF ≥ 50            | +10%               |
+| DEF ≥ 60            | +15%               |
+| DEF ≥ 70            | +20%               |
+| DEF ≥ 80            | +25%               |
 
 #### Zodiac bonus
 
@@ -297,6 +311,7 @@ The following chart shows the resting time based on each adventure area:
 | Dreamy Riverside | 💀💀      | 8 hrs          | 8 hrs        |
 | Ancient Ruins    | 💀💀💀    | 12 hrs         | 12 hrs       |
 | Lojave Desert    | 💀💀💀    | 12 hrs         | 12 hrs       |
+| Frozen Mountain  | 💀💀💀💀   | 12 hrs         | 12 hrs       |
 
 If your Otto levels up during the current adventure, your Otto will be rewarded with a “Cool down time bonus”, which means your Otto’s energy will be fully restored, so you can send your Otto on another adventure immediately without having to rest.
 
