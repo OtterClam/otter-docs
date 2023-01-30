@@ -46,7 +46,7 @@ Here is the formula used to show the probability of finding different rarity equ
 ## Special Chest <a href="#shell-chest" id="special-chest"></a>
 Ottopia occasionally has themed chest sales with gorgeous exclusive items.
 
-### Rabbit New Year Chest
+### Rabbit New Year Chest (Ended)
 
 ![Rbbit New Year Chest Sale](img/rabbit_chest.jpg)
 
