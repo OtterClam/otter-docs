@@ -46,9 +46,21 @@ Here is the formula used to show the probability of finding different rarity equ
 ## Special Chest <a href="#shell-chest" id="special-chest"></a>
 Ottopia occasionally has themed chest sales with gorgeous exclusive items.
 
+### Sakura Love Chest
+
+![Sakura Love Chest Sale](img/sakura_chest.jpeg)
+
+Cherry blossom season and Valentine's Day are just around the corner! In celebration of the season of love, we're introducing the Sakura Love Chest, which contains hundreds of wearable items, including themed items and ingredients from exclusive recipes! More than that, there is approximately a 40% chance of finding a "Valentine's Day", "Pink" or "Sakura" item that boosts Otto's BRS!
+
+Themed sale duration: February 6th 2023, 0:00:00 ~ February 20th 2023, 0:00:00 (UTC+0)
+
+Here is the formula used to show the probability of finding different rarity equipment in a Sakura Love Chest.
+
+![Sakura Love Chest](img/sakura_love_chest.jpeg)
+
 ### Rabbit New Year Chest (Ended)
 
-![Rbbit New Year Chest Sale](img/rabbit_chest.jpg)
+![Rabbit New Year Chest Sale](img/rabbit_chest.jpg)
 
 The Year of the Rabbit is just around the corner! In celebration of the Lunar New Year, and for a limited time only, we're introducing our Rabbit New Year Chest, which contains hundreds of wearable items, with a huge possibility of finding the themed items and all ingredients from exclusive recipes! More than that, there is approximately a 40% chance of finding a "Lunar New Year", "Red" or "Rabbit" item that boosts Otto's BRS!
 
