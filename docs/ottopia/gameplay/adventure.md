@@ -111,7 +111,7 @@ The range of the rarity of the items you found in your adventure has the followi
 
 The table below shows the rarity rate of dropped items. This probability is applied to mission items, collectibles, and wearable items.
 
-| Area        | Difficulty | Gained EXP |
+| Rarity        | Abbre. | Rarity range % |
 | ----------- | ---------- | ---------- |
 | Very Common | C3         | 30%        |
 | Common      | C2         | 25%        |
