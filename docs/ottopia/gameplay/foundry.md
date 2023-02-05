@@ -28,6 +28,8 @@ The $FISH token can only be used within the Ottopia website. This token will be 
 
 ### Sakura Love Story
 
+![Sakura Love Story](img/sakura_forge_en.jpg)
+
 Happy Valentine's Day to all the otters! Wishing all couples a bright future together. With Sakura in full bloom, we have prepared many romantic items to help you celebrate this season of love. It's okay even if you're single. Your Ottopian family will always be there for you. We are your Valentine!
 
 As an Ottopian, you will randomly get 1 item that will help you get those pinky cute props from the Foundry! You can also open Sakura Love Chests or Gardening Kit Chest to collect recipe items to forge a rare item at the Foundry.
@@ -36,6 +38,7 @@ Are you ready to embrace the magical Sakura season? Head on over to the Ottopia 
 
 This chart shows the probability of themed items categorized in different rarities by recipe:
 
+![Sakura Love Story Recipe](img/sakura_item_recipe_rarity.jpg)
 
 ### Rabbit New Year (Ended)
 
