@@ -176,10 +176,10 @@ The different attribute advantages your Otto possesses will significantly affect
 
 | Attribute condition | Success rate boost |
 | ------------------- | ------------------ |
-| INT ≥ 50            | +10%               |
-| INT ≥ 60            | +15%               |
-| INT ≥ 70            | +20%               |
-| INT ≥ 80            | +25%               |
+| INT ≥ 45            | +10%               |
+| INT ≥ 55            | +15%               |
+| INT ≥ 65            | +20%               |
+| INT ≥ 75            | +25%               |
 | DEX ≥ 50            | +10%               |
 | DEX ≥ 60            | +15%               |
 | DEX ≥ 70            | +20%               |
