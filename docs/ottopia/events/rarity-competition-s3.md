@@ -21,6 +21,8 @@ If you missed out, don’t worry. Season 3 of the Rarity Competition is here, an
 
 Shortcuts to each Rarity Competition epoch:
 
+* 6th Epoch (Coming soon)
+* 5th Epoch (Coming soon)
 * [4th Epoch - Sakura Love Story](#4th-epoch)
 * [3rd Epoch - Year of the Rabbit](#3rd-epoch)
 * [2nd Epoch - White Ottermas](#2nd-epoch)
