@@ -171,7 +171,7 @@ The following list shows the percentage of the result types you will get in ever
 
 ## Reward
 
-The reward of the Rarity Competition is in $CLAM. We are preparing a total of 10,000 $CLAM for this season! Each epoch’s reward will be 2,500 $CLAM.
+The reward of the Rarity Competition is in $CLAM. We are preparing a total of more than 15,000 $CLAM for this season! Each epoch’s reward will be started from 2,500 $CLAM.
 
 Start gear up your Otto NFT gang and earn these tasty $CLAM!
 
