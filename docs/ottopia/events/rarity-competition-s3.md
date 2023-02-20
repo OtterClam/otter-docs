@@ -22,12 +22,25 @@ If you missed out, don’t worry. Season 3 of the Rarity Competition is here, an
 Shortcuts to each Rarity Competition epoch:
 
 * 6th Epoch (Coming soon)
-* 5th Epoch (Coming soon)
+* [5th Epoch - Blue Island Holiday](#5th-epoch)
 * [4th Epoch - Sakura Love Story](#4th-epoch)
 * [3rd Epoch - Year of the Rabbit](#3rd-epoch)
 * [2nd Epoch - White Ottermas](#2nd-epoch)
 * [1st Epoch - Pharaoh's Secret](#1st-epoch)
 
+---
+
+## 5th Epoch - Blue Island Holiday <a href="#5th-epoch" id="5th-epoch"></a>
+
+![S3 5th Epoch](img/s3_epoch5.jpeg)
+
+* Event Duration: Feb 20, 2023 0:00 ~ Mar 13, 2023 0:00 (UTC)
+
+Pack your bags and get ready to relax at a luxurious resort with breathtaking views of the oceanic coastline. Enjoy the blue waters and white sandy beaches, and soak up the sun. Whether you want to read a book in a hammock or explore the vibrant coral reefs, this island has something for everyone. It's time to unwind and let the soothing sound of the waves take you away on an unforgettable holiday.
+
+During these 3 weeks, you can earn extra rarity score values as well as rarity multipliers by styling your Otto NFTs following the theme requirements set **Blue** , **Oceanic** & **Resort** for this epoch.
+
+---
 
 ## 4th Epoch - Sakura Love Story <a href="#4th-epoch" id="4th-epoch"></a>
 
@@ -37,6 +50,13 @@ Shortcuts to each Rarity Competition epoch:
 
 The Sakura season is upon us, and Valentine's Day will be celebrated. It's a joyous season full of pink blossoms and love!  During these 3 weeks, you can earn extra rarity score values as well as rarity multipliers by styling your Otto NFTs following the theme requirements set **Pink** , **Sakura** & **Valentine** for this epoch.
 
+The epoch has ended and the top 3 winners are as follows:
+
+(Coming soon)
+
+Click [here](https://ottopia.app/leaderboard?epoch=14) to view the final rarity ranking of all Otto NFTs for this epoch.
+
+---
 
 ## 3rd Epoch - Year of the Rabbit (Ended) <a href="#3rd-epoch" id="3rd-epoch"></a>
 
@@ -54,6 +74,7 @@ The epoch has ended and the top 3 winners are as follows:
 
 Click [here](https://ottopia.app/leaderboard?epoch=13) to view the final rarity ranking of all Otto NFTs for this epoch.
 
+---
 
 ## 2nd Epoch - White Ottermas (Ended) <a href="#2nd-epoch" id="2nd-epoch"></a>
 
@@ -69,6 +90,7 @@ The epoch has ended and the top 3 winners are as follows:
 
 Click [here](https://ottopia.app/leaderboard?epoch=12) to view the final rarity ranking of all Otto NFTs for this epoch.
 
+---
 
 ## 1st Epoch - Pharaoh's Secret (Ended) <a href="#1st-epoch" id="1st-epoch"></a>
 
@@ -84,6 +106,7 @@ The epoch has ended and the top 3 winners are as follows:
 
 Click [here](https://ottopia.app/leaderboard?epoch=11) to view the final rarity ranking of all Otto NFTs for this epoch.
 
+---
 
 ## How to Play <a href="#howtoplay" id="howtoplay"></a>
 
