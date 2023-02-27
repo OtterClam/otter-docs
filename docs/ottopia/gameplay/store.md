@@ -46,7 +46,19 @@ Here is the formula used to show the probability of finding different rarity equ
 ## Special Chest <a href="#shell-chest" id="special-chest"></a>
 Ottopia occasionally has themed chest sales with gorgeous exclusive items.
 
-### Sakura Love Chest
+### Blue Island Holiday Chest
+
+![Blue Island Holiday Chest Sale](img/blue_island_holiday_chest.jpeg)
+
+Get ready for a blue island holiday! In honor of our hardworking otters, we're launching the Blue Island Holiday Chest, which contains hundreds of wearable items, including themed items and ingredients from exclusive recipes! More than that, there is approximately a 40% chance of finding an "Oceanic", "Blue" or "Resort" item that boosts Otto's BRS!
+
+Themed sale duration: February 27th 2023, 0:00:00 ~ March 13th 2023, 0:00:00 (UTC+0)
+
+Here is the formula used to show the probability of finding different rarity equipment in a Blue Island Holiday Chest.
+
+![Blue Island Holiday Chest](img/blue_island_holiday_chest_chart.jpeg)
+
+### Sakura Love Chest (Ended)
 
 ![Sakura Love Chest Sale](img/sakura_chest.jpg)
 

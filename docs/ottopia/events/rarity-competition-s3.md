@@ -52,7 +52,7 @@ The Sakura season is upon us, and Valentine's Day will be celebrated. It's a joy
 
 The epoch has ended and the top 3 winners are as follows:
 
-(Coming soon)
+![S3 4th Epoch Winner](img/ror_s3_winner4.jpeg)
 
 Click [here](https://ottopia.app/leaderboard?epoch=14) to view the final rarity ranking of all Otto NFTs for this epoch.
 
@@ -70,7 +70,7 @@ This holiday season, may you successfully scare away bad luck and be blessed wit
 
 The epoch has ended and the top 3 winners are as follows:
 
-![S3 3rd Epoch Winner](img/ror_s3_winner3.jpeg)
+c
 
 Click [here](https://ottopia.app/leaderboard?epoch=13) to view the final rarity ranking of all Otto NFTs for this epoch.
 

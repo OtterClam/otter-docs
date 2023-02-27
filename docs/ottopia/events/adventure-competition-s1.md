@@ -36,7 +36,7 @@ Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=15) to view the f
 
 The epoch has ended and the top 3 winners are as follows:
 
-(Coming soon)
+![S1 4th Epoch Winners](img/ap_s1_winner4.jpg)
 
 Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=14) to view the final AP ranking of all Otto NFTs for this epoch.
 

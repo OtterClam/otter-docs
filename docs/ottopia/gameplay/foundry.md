@@ -26,7 +26,23 @@ The $FISH token can only be used within the Ottopia website. This token will be 
 
 ## Seasonal recipe  <a href="#seasonal-recipe" id="seasonal-recipe"></a>
 
-### Sakura Love Story
+### Blue Island Holiday
+
+![Blue Island Holiday](img/island_forge.jpeg)
+
+Our blue island vacation is just around the corner, so get your swimsuit and luggage ready! 
+
+The Otter Kingdom Foundry is offering some super popular blue holiday items for a limited time. Prepare all the materials and FISH, and you'll get these cool things!
+
+As an Ottopian, you will randomly get 1 item that will help you get those pinky cute props from the Foundry! You can also open Sakura Love Chests or Gardening Kit Chest to collect recipe items to forge a rare item at the Foundry.
+
+Are you ready to embrace blue island holiday? Head on over to the Ottopia Foundry and deck your NFTs out in your best "Blue" + "Oceanic" + "Resort" items. Let's make this incredible holiday the most joyful and unforgettable ever!
+
+This chart shows the probability of themed items categorized in different rarities by recipe:
+
+![Blue Island Holiday Recipe](img/island_item_recipe_rarity.jpeg)
+
+### Sakura Love Story (Ended)
 
 ![Sakura Love Story](img/sakura_forge_en.jpg)
 
