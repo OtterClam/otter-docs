@@ -36,7 +36,7 @@ Shortcuts to each Rarity Competition epoch:
 
 * Event Duration: Mar 13, 2023 0:00 ~ Apr 3, 2023 0:00 (UTC)
 
-Welcome everyone to the Clambow Carnival party in Otter Kingdom! Get ready to experience a world of color and joy as we celebrate together under the rainbow. Don't forget to bring your appetite for adventure and your love for fun, as we'll have a variety of activities and games for all ages. And if you're lucky, you might even find a shining clam at the party! So come one, come all, and let's make this carnival a day to remember!
+Welcome everyone to the Clambow Carnival party in Otter Kingdom! Get ready to experience a world of color and joy as we celebrate together under the rainbow. Don't forget to bring your appetite for adventure and your love for fun, as we'll have a variety of activities and games for all ages. And if you're lucky, you might even find a shining clam at the party! So come one, come all, and let's make this carnival a day to remember <3
 
 During these 3 weeks, you can earn extra rarity score values as well as rarity multipliers by styling your Otto NFTs following the theme requirements set **Rainbow** , **Clam** & **Carnival** for this epoch.
 
