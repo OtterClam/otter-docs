@@ -54,7 +54,7 @@ During these 3 weeks, you can earn extra rarity score values as well as rarity m
 
 The epoch has ended and the top 3 winners are as follows:
 
-![S3 4th Epoch Winner](img/ror_s3_winner5.jpeg)
+![S3 4th Epoch Winner](img/ror_s3_winner5.jpg)
 
 Click [here](https://ottopia.app/leaderboard?epoch=15) to view the final rarity ranking of all Otto NFTs for this epoch.
 
