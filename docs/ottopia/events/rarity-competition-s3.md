@@ -21,7 +21,7 @@ If you missed out, don’t worry. Season 3 of the Rarity Competition is here, an
 
 Shortcuts to each Rarity Competition epoch:
 
-* 6th Epoch (Coming soon)
+* [6th Epoch - Clambow Carnival](#6th-epoch)
 * [5th Epoch - Blue Island Holiday](#5th-epoch)
 * [4th Epoch - Sakura Love Story](#4th-epoch)
 * [3rd Epoch - Year of the Rabbit](#3rd-epoch)
@@ -30,7 +30,19 @@ Shortcuts to each Rarity Competition epoch:
 
 ---
 
-## 5th Epoch - Blue Island Holiday <a href="#5th-epoch" id="5th-epoch"></a>
+## 6th Epoch - Clambow Carnival <a href="#6th-epoch" id="6th-epoch"></a>
+
+![S3 6th Epoch](img/s3_epoch6.jpg)
+
+* Event Duration: Mar 13, 2023 0:00 ~ Apr 3, 2023 0:00 (UTC)
+
+Welcome everyone to the Clambow Carnival party in Otter Kingdom! Get ready to experience a world of color and joy as we celebrate together under the rainbow. Don't forget to bring your appetite for adventure and your love for fun, as we'll have a variety of activities and games for all ages. And if you're lucky, you might even find a shining clam at the party! So come one, come all, and let's make this carnival a day to remember!
+
+During these 3 weeks, you can earn extra rarity score values as well as rarity multipliers by styling your Otto NFTs following the theme requirements set **Rainbow** , **Clam** & **Carnival** for this epoch.
+
+---
+
+## 5th Epoch - Blue Island Holiday (Ended) <a href="#5th-epoch" id="5th-epoch"></a>
 
 ![S3 5th Epoch](img/s3_epoch5.jpeg)
 
@@ -40,9 +52,15 @@ Pack your bags and get ready to relax at a luxurious resort with breathtaking vi
 
 During these 3 weeks, you can earn extra rarity score values as well as rarity multipliers by styling your Otto NFTs following the theme requirements set **Blue** , **Oceanic** & **Resort** for this epoch.
 
+The epoch has ended and the top 3 winners are as follows:
+
+![S3 4th Epoch Winner](img/ror_s3_winner5.jpeg)
+
+Click [here](https://ottopia.app/leaderboard?epoch=15) to view the final rarity ranking of all Otto NFTs for this epoch.
+
 ---
 
-## 4th Epoch - Sakura Love Story <a href="#4th-epoch" id="4th-epoch"></a>
+## 4th Epoch - Sakura Love Story (Ended) <a href="#4th-epoch" id="4th-epoch"></a>
 
 ![S3 4th Epoch](img/s3_epoch4.jpeg)
 

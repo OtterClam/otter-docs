@@ -16,19 +16,33 @@ The more adventures your Otto NFT completes, the higher its ranking will be on t
 
 ---
 
-## 5th Epoch <a href="#5th-epoch" id="5th-epoch"></a>
+## 6th Epoch <a href="#6th-epoch" id="6th-epoch"></a>
+
+![S1 6th Epoch](img/ap_s1_epoch6.jpg)
+
+* Event Duration: Mar 13, 2023 0:00 ~ Apr 3, 2023 0:00 (UTC)
+
+The 6th epoch is live now. Get ready to the adventure and collect AP and find treasure rewards!
+
+Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=16) to view the final AP ranking of all Otto NFTs for this epoch.
+
+---
+
+## 5th Epoch (Ended) <a href="#5th-epoch" id="5th-epoch"></a>
 
 ![S1 5th Epoch](img/ap_s1_epoch5.jpg)
 
 * Event Duration: Feb 20, 2023 0:00 ~ Mar 13, 2023 0:00 (UTC)
 
-The 5th epoch is live now. Get ready to the adventure and collect AP and find treasure rewards!
+The epoch has ended and the top 3 winners are as follows:
+
+![S1 5th Epoch Winners](img/ap_s1_winner5.jpg)
 
 Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=15) to view the final AP ranking of all Otto NFTs for this epoch.
 
 ---
 
-## 4th Epoch <a href="#4th-epoch" id="4th-epoch"></a>
+## 4th Epoch (Ended) <a href="#4th-epoch" id="4th-epoch"></a>
 
 ![S1 4th Epoch](img/ap_s1_epoch4.jpg)
 

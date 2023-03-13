@@ -26,7 +26,7 @@ The $FISH token can only be used within the Ottopia website. This token will be 
 
 ## Seasonal recipe  <a href="#seasonal-recipe" id="seasonal-recipe"></a>
 
-### Blue Island Holiday
+### Blue Island Holiday (Ended)
 
 ![Blue Island Holiday](img/island_forge.jpeg)
 

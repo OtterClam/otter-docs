@@ -46,7 +46,7 @@ Here is the formula used to show the probability of finding different rarity equ
 ## Special Chest <a href="#shell-chest" id="special-chest"></a>
 Ottopia occasionally has themed chest sales with gorgeous exclusive items.
 
-### Blue Island Holiday Chest
+### Blue Island Holiday Chest (Ended)
 
 ![Blue Island Holiday Chest Sale](img/blue_island_holiday_chest.jpeg)
 
