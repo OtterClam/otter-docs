@@ -26,6 +26,18 @@ The $FISH token can only be used within the Ottopia website. This token will be 
 
 ## Seasonal recipe  <a href="#seasonal-recipe" id="seasonal-recipe"></a>
 
+### Clambow Carnival
+
+![Clambow Carnival](img/clambow_forge.jpeg)
+
+Welcome everyone to the Clambow Carnival party in Otter Kingdom! Get ready to experience a world of color and joy as we celebrate together under the rainbow. Don't forget to bring your appetite for adventure and your love for fun, as we'll have a variety of activities and games for all ages. And if you're lucky, you might even find a shining clam at the party! So come one, come all, and let's make this carnival a day to remember!
+
+Are you ready to embrace the joyful Clambow Carnival? Head on over to the Ottopia Foundry and deck your NFTs out in your best "Rainbow" + "Clam" + "Carnival" items. Let's make this incredible holiday the most joyful and unforgettable ever!
+
+This chart shows the probability of themed items categorized in different rarities by recipe:
+
+![Clambow Carnival Recipe](img/clambow_item_recipe_rarity.jpeg)
+
 ### Blue Island Holiday (Ended)
 
 ![Blue Island Holiday](img/island_forge.jpeg)
