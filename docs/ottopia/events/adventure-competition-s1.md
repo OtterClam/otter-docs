@@ -12,7 +12,7 @@
 
 Another farming game is coming! After Raking for Rarity, Ottopia has once again launched a new farming system — Adventure Leaderboard! 
 
-The more adventures your Otto NFT completes, the higher its ranking will be on the leaderboard. The higher your Otto NFT’s rank is, the more rewards you'll receive – so assess your risk tolerance and embark on your adventure!
+The more adventures your Otto completes, the higher its ranking will be on the leaderboard. The higher your Otto's rank is, the more rewards you'll receive – so assess your risk tolerance and embark on your adventure!
 
 ---
 
@@ -24,7 +24,7 @@ The more adventures your Otto NFT completes, the higher its ranking will be on t
 
 The 6th epoch is live now. Get ready to the adventure and collect AP and find treasure rewards!
 
-Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=16) to view the final AP ranking of all Otto NFTs for this epoch.
+Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=16) to view the final AP ranking of all Ottos for this epoch.
 
 ---
 
@@ -38,7 +38,7 @@ The epoch has ended and the top 3 winners are as follows:
 
 ![S1 5th Epoch Winners](img/ap_s1_winner5.jpg)
 
-Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=15) to view the final AP ranking of all Otto NFTs for this epoch.
+Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=15) to view the final AP ranking of all Ottos for this epoch.
 
 ---
 
@@ -52,7 +52,7 @@ The epoch has ended and the top 3 winners are as follows:
 
 ![S1 4th Epoch Winners](img/ap_s1_winner4.jpg)
 
-Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=14) to view the final AP ranking of all Otto NFTs for this epoch.
+Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=14) to view the final AP ranking of all Ottos for this epoch.
 
 ---
 
@@ -66,7 +66,7 @@ The epoch has ended and the top 3 winners are as follows:
 
 ![S1 3rd Epoch Winners](img/ap_s1_winner3.jpg)
 
-Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=13) to view the final AP ranking of all Otto NFTs for this epoch.
+Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=13) to view the final AP ranking of all Ottos for this epoch.
 
 ---
 
@@ -80,7 +80,7 @@ The epoch has ended and the top 3 winners are as follows:
 
 ![S1 2nd Epoch Winners](img/ap_s1_winner2.jpg)
 
-Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=12) to view the final AP ranking of all Otto NFTs for this epoch.
+Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=12) to view the final AP ranking of all Ottos for this epoch.
 
 ---
 
@@ -94,7 +94,7 @@ The epoch has ended and the top 3 winners are as follows:
 
 ![S1 1st Epoch Winners](img/ap_s1_winner1.jpg)
 
-Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=11) to view the final AP ranking of all Otto NFTs for this epoch.
+Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=11) to view the final AP ranking of all Ottos for this epoch.
 
 ---
 
@@ -108,7 +108,7 @@ Collect your fish rewards!
 
 Unlike in Raking for Rarity where the metric for climbing the leaderboard is the total Rarity Score, the Adventure Leaderboard uses **Adventure Points** as the metric. The amount of AP you have earned during each epoch determines your ranking on the leaderboard. 
 
-As long as your Otto NFT successfully completes an Adventure, your Otto NFT would receive Adventure Points from the area. The amount of Adventure Points you get correspond to the difficulty as shown in the chart below. 
+As long as your Otto successfully completes an Adventure, your Otto would receive Adventure Points from the area. The amount of Adventure Points you get correspond to the difficulty as shown in the chart below. 
 
 | Area Difficulty | Adventure Points (AP) |
 | --------------- | --------------------- |
@@ -118,13 +118,13 @@ As long as your Otto NFT successfully completes an Adventure, your Otto NFT woul
 | 💀💀💀💀        | 60                    |
 | 💀💀💀💀💀      | 80                    |
 
-Take note that Adventure Points will be erased and reset at the end of each epoch of the Adventure Competition. Everyone starts each epoch on equal footing. This way, the most adventurous Otto NFTs during the epoch will be rewarded the most.
+Take note that Adventure Points will be erased and reset at the end of each epoch of the Adventure Competition. Everyone starts each epoch on equal footing. This way, the most adventurous Ottos during the epoch will be rewarded the most.
 
 ## Reward
 
-The reward of the Adventure Competition is in $FISH. We are preparing a total of 10 million $FISH for this season! Each epoch’s reward will be 2.5 million $FISH.
+The reward of the Adventure Competition is in $FISH. We are preparing a total of 15 million $FISH for this season! Each epoch’s reward will be 2.5 million $FISH.
 
-Start going on adventures with your Otto NFT gang and earn these juicy $FISH!
+Start going on adventures with your Otto gang and earn these juicy $FISH!
 
 ![Fish reward](./img/adventure_s1_rewards.jpg)
 
