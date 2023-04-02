@@ -2,7 +2,7 @@
 
 <header>
 <meta property="og:title" content="Ottopia Whitepaper | Rarity Competition - Season 4" />
-<meta property="og:image" content="https://docs.ottopia.app/assets/images/3rd-ror-ogimage-42f502d6aa430f9efaa22e3e62e8a2a5.jpg" />
+<meta property="og:image" content="https://docs.ottopia.app/assets/images/4th-ror-ogimage-ba02f52bc0b4c5e28d0d37e56ed14c11.jpg" />
 <meta property="og:description" content="Gather ‘round the stream, Otters! Season 4 of the Rarity Competition is here, and will add another layer of depth to the contest - theme systems and a new bonus mechanism." />
 </header>
 
@@ -30,7 +30,7 @@ Shortcuts to each Rarity Competition epoch:
 * 4th Epoch (Coming soon)
 * 3rd Epoch (Coming soon)
 * 2nd Epoch (Coming soon)
-* [1st Epoch - Catberpunk Invasion](#1st-epoch)
+* [1st Epoch - Cybercat City](#1st-epoch)
 
 ---
 
