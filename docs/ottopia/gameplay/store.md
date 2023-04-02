@@ -225,4 +225,4 @@ To learn more about the probability of finding themed items in a Groovy chest, p
 
 ## Ottopia Market (WIP) <a href="#ottopia-market" id="ottopia-market"></a>
 
-In the short future, the OtterClam DAO is also planning to develop a marketplace for the user to buy and sell various items, even without playing Ottopia. Perhaps you were lucky enough to score a super rare trait on your first mint. You could sell your item at a premium in the market, or you could greatly improve your odds of winning a mission by equipping powerful items. We expect this market to develop a life of its own as the ecosystem begins to flourish.
+In the short future, the Ottopia DAO is also planning to develop a marketplace for the user to buy and sell various items, even without playing Ottopia. Perhaps you were lucky enough to score a super rare trait on your first mint. You could sell your item at a premium in the market, or you could greatly improve your odds of winning a mission by equipping powerful items. We expect this market to develop a life of its own as the ecosystem begins to flourish.

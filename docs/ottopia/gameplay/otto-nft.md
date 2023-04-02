@@ -49,7 +49,7 @@ There are total 5,000 Otto citizens in the 1st generation migrated through the p
 A general Otto that shares the peace all over the Otter Kingdom.
 
 ### Legendary Otto NFT
-Legendary Ottos means all of the traits and wearable items of the Otto NFT are pre-selected by the artist of Otterclam - Appppo, which represents that the legendary Otto NFTs are comparatively beautiful and unique, and possibly rarer than the others!. There are only around 250 legendary Otto NFTs, but the exact number is not verified yet. If you have one legendary Otto, then you are blessed by the otterland!
+Legendary Ottos means all of the traits and wearable items of the Otto NFT are pre-selected by the artist of Ottopia - Appppo, which represents that the legendary Otto NFTs are comparatively beautiful and unique, and possibly rarer than the others!. There are only around 250 legendary Otto NFTs, but the exact number is not verified yet. If you have one legendary Otto, then you are blessed by the otterland!
 
 ## Otto Traits and Wearable Items
 
@@ -76,11 +76,11 @@ To learn more about the rarity counting works, please visit: [Rarity Scores page
 #### Pass down your Ottos’ good genes to strengthen the Otter Kingdom
 
 The rarer your male and female Ottos’ traits, the higher the likelihood they’ll breed a super rare otter pup!
-The breeding system is planned in OtterClam's roadmap, and it will be developed soon in this year.
+The breeding system is planned in Ottopia's roadmap, and it will be developed soon in this year.
 
 ## What can you do with the Otto NFT?
 
-#### Full Commercial Rights on all OtterClam assets
+#### Full Commercial Rights on all Ottopia assets
 You own all commercial rights to the images of all your Ottos as well as the 3D model of your Otter VX.
 
 #### Kingdom-wide Benefits

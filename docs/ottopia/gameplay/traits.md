@@ -60,17 +60,27 @@ Gen1 was released on 23rd April 2021 along with the first generation Otto Portal
 
 - Background: 76
 - Headwear: 222
-- Object Holding: 110
-- Special Accessories: 62
+- Holding: 110
+- Facial Accessories: 62
 - Clothes: 126
 
-If you've been following OtterClam for a while now you know that we're constantly releasing new items for our Otto NFTs. Now that we've reached a large number of items available it's time to bid adieu to the 1st Generation items.
+If you've been following Ottopia for a while now you know that we're constantly releasing new items for our Otto NFTs. Now that we've reached a large number of items available it's time to bid adieu to the 1st Generation items.
 
-After **28th November, 2022 8:00 AM UTC**, all Gen1 items will be enshrined.
+All Gen1 items have been enshrined on **28th November, 2022 8:00 AM UTC**.
 
 ### Gen2
 
 All added items during 23rd April 2021 8:00 AM UTC ~ 28th November, 2022 8:00 AM UTC belong to Gen2.
+
+There are currently 596 items in Gen2 with the following breakdown:
+
+- Background: 90
+- Headwear: 139
+- Holding: 296
+- Facial Accessories: 118
+- Clothes: 127
+
+All Gen 2 items will be enshrined when Gen4 is getting started.
 
 ### Gen3
 

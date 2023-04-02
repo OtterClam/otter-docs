@@ -10,11 +10,9 @@ Now that you have decided to explore Ottopia, here are some quick steps you can 
 
 ![Getting Started](img/ottopia-getting-started.png)
 
-## 1. Buy CLAM
+## 1. Buy MATIC
 
-In Otter Kindgom, we use CLAM as the formal currency, so you must have some CLAM tokens in your wallet!
-
-How to buy CLAM? check this page: [How to Buy and Stake CLAM](../../treasury/tutorials/how-to-buy-and-stake-clam)
+In Otter Kindgom, we use MATIC as the formal currency, so you must have some MATIC tokens in your wallet!
 
 ## 2. Mint Portal
 
@@ -39,4 +37,4 @@ After choosing your favorite one, summon the Otto NFT! The portal NFT will be re
 
 There are several ongoing and upcoming campaigns that you can participate to enhance your Otto NFT and even win the rewards! Please continue to read through in the following pages and you'll be more clear how to go on in this wonderful world.
 
-Join [OtterClam Discord](https://discord.gg/otterclam) to get updated on events and news!
+Join [Ottopia Discord](https://discord.gg/otterclam) to get updated on events and news!
