@@ -54,7 +54,7 @@ Here is the formula used to show the probability of finding different rarity equ
 ## Special Chest <a href="#shell-chest" id="special-chest"></a>
 Ottopia occasionally has themed chest sales with gorgeous exclusive items.
 
-### Clambow Carnival Chest
+### Clambow Carnival Chest (Ended)
 
 ![Clambow Carnival Chest Sale](img/clambow_chest.jpg)
 

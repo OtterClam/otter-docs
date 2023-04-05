@@ -26,7 +26,7 @@ The $FISH token can only be used within the Ottopia website. This token will be 
 
 ## Seasonal recipe  <a href="#seasonal-recipe" id="seasonal-recipe"></a>
 
-### Clambow Carnival
+### Clambow Carnival (Ended)
 
 ![Clambow Carnival](img/clambow_forge.jpeg)
 
