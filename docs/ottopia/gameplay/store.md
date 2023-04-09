@@ -54,6 +54,18 @@ Here is the formula used to show the probability of finding different rarity equ
 ## Special Chest <a href="#shell-chest" id="special-chest"></a>
 Ottopia occasionally has themed chest sales with gorgeous exclusive items.
 
+### Cybercat Chest
+
+![Cybercat Chest Sale](img/cybercat_chest.jpg)
+
+Introducing the all-new and ever-evolving Cybercat theme! For a limited time, Ottopia will transform into a neon-lit city filled with high-tech, post-apocalyptic vibes and tons of adorable cats. To fully immerse all otters into this punk world, we're launching the Cybercat chest, which contains hundreds of wearable items, including themed items and ingredients from exclusive recipes! More than that, there is approximately a 40% chance of finding an "Cyberpunk", "Cat" or "Black" item that boosts Otto's BRS!
+
+Themed sale duration: April 10th 2023, 0:00:00 ~ April 24th 2023, 0:00:00 (UTC+0)
+
+Here is the formula used to show the probability of finding different rarity equipment in a Cybercat Chest.
+
+![Cybercat Chest](img/cybercat_chest_chart.jpg)
+
 ### Clambow Carnival Chest (Ended)
 
 ![Clambow Carnival Chest Sale](img/clambow_chest.jpg)

@@ -26,6 +26,18 @@ The $FISH token can only be used within the Ottopia website. This token will be 
 
 ## Seasonal recipe  <a href="#seasonal-recipe" id="seasonal-recipe"></a>
 
+### Cybercat City
+
+![Cybercat City](img/cybercat_forge.jpg)
+
+Welcome to the neon-lit streets of Cybercat City, Otters! It's time to immerse yourself in the dark and thrilling world of black cats and cyberpunk. Prepare your Cat teaser and Glow stick, and let's get some awesome cat-themed items!
+
+Surviving in this Cybercat city requires blending in, staying aware, investing in enhancements, and learning self-defense. Here we have some high-tech equipment to increase your chances of thriving in this challenging environment. Just bring on the required materials, and we will give what you need.
+
+This chart shows the probability of themed items categorized in different rarities by recipe:
+
+![Cybercat City Recipe](img/cybeercat_item_recipe_rarity.jpg)
+
 ### Clambow Carnival (Ended)
 
 ![Clambow Carnival](img/clambow_forge.jpeg)
