@@ -36,7 +36,7 @@ Surviving in this Cybercat city requires blending in, staying aware, investing i
 
 This chart shows the probability of themed items categorized in different rarities by recipe:
 
-![Cybercat City Recipe](img/cybeercat_item_recipe_rarity.jpg)
+![Cybercat City Recipe](img/cybercat_item_recipe_rarity.jpg)
 
 ### Clambow Carnival (Ended)
 
