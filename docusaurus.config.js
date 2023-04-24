@@ -39,16 +39,6 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'treasury',
-        path: 'docs/treasury',
-        routeBasePath: 'treasury',
-        sidebarPath: require.resolve('./sidebarsTreasury.js'),
-        editUrl: 'https://github.com/otterclam/otter-docs/tree/main',
-      },
-    ],
-    [
-      '@docusaurus/plugin-content-docs',
-      {
         id: 'ottopia',
         path: 'docs/ottopia',
         routeBasePath: 'ottopia',
@@ -76,13 +66,6 @@ const config = {
           },
           {
             type: 'doc',
-            docsPluginId: 'treasury',
-            docId: 'staking',
-            position: 'left',
-            label: 'Treasury',
-          },
-          {
-            type: 'doc',
             docsPluginId: 'ottopia',
             docId: 'README',
             position: 'left',
@@ -104,10 +87,6 @@ const config = {
               {
                 label: 'About',
                 to: '/',
-              },
-              {
-                label: 'Treasury',
-                to: '/treasury',
               },
               {
                 label: 'Ottopia',
