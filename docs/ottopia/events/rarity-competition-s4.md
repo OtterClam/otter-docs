@@ -29,12 +29,28 @@ Shortcuts to each Rarity Competition epoch:
 * 5th Epoch (Coming soon)
 * 4th Epoch (Coming soon)
 * 3rd Epoch (Coming soon)
-* 2nd Epoch (Coming soon)
+* [2nd Epoch - Purple Butterfly Garden Party](#2nd-epoch)
 * [1st Epoch - Cybercat City](#1st-epoch)
 
 ---
 
-## 1st Epoch - Cybercat City <a href="#1st-epoch" id="1st-epoch"></a>
+## 2ns Epoch - Purple Butterfly Garden Party <a href="#2nd-epoch" id="2nd-epoch"></a>
+
+![S4 2ns Epoch](img/s4_epoch2.jpg)
+
+* Event Duration: Apr 24, 2023 0:00 ~ May 15, 2023 0:00 (UTC)
+
+Hello cherished otters, we are delighted to welcome you to our enchanting Purple Butterfly Flower Garden Party! Immerse yourselves in the breathtaking beauty of blossoming flowers and delightful fluttering butterflies as we celebrate together amidst a sea of purple hues.
+
+During this campaign, you'll have the chance to earn extra Rarity Score and multipliers by styling your Ottos according to the theme requirements of **Purple**, **Flower**, and **Butterfly**. Let the sweet fragrance of blooms and the graceful dance of butterflies sweep you off your feet for an unforgettable visit!
+
+### Rewards
+
+The reward pool for this epoch is **2,000 $MATIC**. Rarity Competition rewards will be shared with only the top 10% of Ottos, so don't miss out!
+
+---
+
+## 1st Epoch - Cybercat City (Ended) <a href="#1st-epoch" id="1st-epoch"></a>
 
 ![S4 1st Epoch](img/s4_epoch1.jpg)
 
@@ -49,6 +65,13 @@ But beware - this is a world of shadows and danger, and only the bravest and mos
 ### Rewards
 
 The reward pool for this epoch is **2,000 $MATIC**. Rarity Competition rewards will be shared with only the top 10% of Ottos, so don't miss out!
+
+The epoch has ended and the top 3 winners are as follows:
+
+(Coming soon)
+
+Click [here](https://ottopia.app/leaderboard?epoch=17) to view the final rarity ranking of all Otto NFTs for this epoch.
+
 
 ---
 
