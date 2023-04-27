@@ -68,7 +68,7 @@ The reward pool for this epoch is **2,000 $MATIC**. Rarity Competition rewards w
 
 The epoch has ended and the top 3 winners are as follows:
 
-(Coming soon)
+![S4 1st Epoch Winner](img/ror_s4_winner1.jpg)
 
 Click [here](https://ottopia.app/leaderboard?epoch=17) to view the final rarity ranking of all Otto NFTs for this epoch.
 

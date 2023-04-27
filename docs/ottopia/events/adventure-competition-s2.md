@@ -40,7 +40,7 @@ Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=18) to view the c
 
 The epoch has ended and the top 3 winners are as follows:
 
-(Coming soon)
+![S2 1st Epoch Winners](img/ap_s2_winner1.jpg)
 
 Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=17) to view the final AP ranking of all Ottos for this epoch.
 
