@@ -26,6 +26,27 @@ The $FISH token can only be used within the Ottopia website. This token will be 
 
 ## Seasonal recipe  <a href="#seasonal-recipe" id="seasonal-recipe"></a>
 
+### Butterfly Garden Party
+
+![Butterfly Garden Party](img/butterfly_forge_en.jpg)
+
+We are delighted to welcome you to our enchanting Purple Butterfly Flower Garden Party! Immerse yourself in the breathtaking beauty of blossoming flowers and delightful fluttering butterflies.
+
+This chart shows the probability of themed items categorized in different rarities by recipe:
+
+![Butterfly Garden Party Recipe](img/butterfly_item_recipe_rarity.jpg)
+
+In addition to that, we've added 9 brand new Butterfly Collectibles that you can find in the adventure! These Butterfly collectibles are extremely useful for the Foundry recipes, so don't let this opportunity pass you by!
+
+The finding probability of Butterfly Collectibles have been boosted during the 2nd epoch of RoR Season 4:
+
+May 1st 2023, 0:00:00 ~ May 15th 2023, 0:00:00 (UTC+0)
+
+After the end time. the collectibles in each adventure area will be back to normal.
+
+![Butterfly Garden Party Collectibles](img/butterfly_collectibles_rarity.jpg)
+
+
 ### Cybercat City (Ended)
 
 ![Cybercat City](img/cybercat_forge.jpg)

@@ -54,6 +54,18 @@ Here is the formula used to show the probability of finding different rarity equ
 ## Special Chest <a href="#shell-chest" id="special-chest"></a>
 Ottopia occasionally has themed chest sales with gorgeous exclusive items.
 
+### Butterfly Garden Party Chest
+
+![Butterfly Garden Party Chest Sale](img/butterfly_chest.jpg)
+
+We are delighted to welcome you to our enchanting Purple Butterfly Flower Garden Party! Immerse yourself in the breathtaking beauty of blossoming flowers and delightful fluttering butterflies. Amidst a sea of purple hues, we're launching the Butterfly Garden Party Chest. This guarantees a 100% chance of finding a "Purple", "Flower" or "Butterfly" item, and a 40% chance of finding completely fresh items!
+
+Themed sale duration: May 1st 2023, 0:00:00 ~ May 15th 2023, 0:00:00 (UTC+0)
+
+Here is the formula used to show the probability of finding different rarity equipment in a Butterfly Garden Party Chest.
+
+![Butterfly Garden Party Chest](img/butterfly_chest_chart.jpg)
+
 ### Cybercat Chest (Ended)
 
 ![Cybercat Chest Sale](img/cybercat_chest.jpg)
