@@ -54,7 +54,19 @@ Here is the formula used to show the probability of finding different rarity equ
 ## Special Chest <a href="#shell-chest" id="special-chest"></a>
 Ottopia occasionally has themed chest sales with gorgeous exclusive items.
 
-### Butterfly Garden Party Chest
+### Dance Among the Flames Chest (Ended)
+
+![Dance Among the Flames Chest Sale](img/dance_flames_chest.jpg)
+
+We are thrilled to usher you into our bewitching world of the fire festivity! Surrender to the mesmerizing charm of leaping flames and vibrant embers, enveloping you in a dance of warmth and vitality. Amidst a blaze of red fire, we're unveiling the "Dance among the Flames" Chest. This ensures a 100% chance of securing a "Red", "Fire"", or "Magical" item. Plus, a tantalizing 40% chance of discovering entirely new items!
+
+Themed sale duration: May 22nd 2023, 0:00:00 ~ Jun 5th 2023, 0:00:00 (UTC+0)
+
+Here is the formula used to show the probability of finding different rarity equipment in a Dancing Among the Flame Chest.
+
+![Dance Among the Flames Chest](img/dance_flames_chest_chart.jpg)
+
+### Butterfly Garden Party Chest (Ended)
 
 ![Butterfly Garden Party Chest Sale](img/butterfly_chest.jpg)
 
