@@ -26,7 +26,27 @@ The $FISH token can only be used within the Ottopia website. This token will be 
 
 ## Seasonal recipe  <a href="#seasonal-recipe" id="seasonal-recipe"></a>
 
-### Butterfly Garden Party
+### Dance Among the Flames (Ended)
+
+![Dance Among the Flames](img/dancing_flames_forge_en.jpg)
+
+Prepare to ignite the field with fervor! We present to you a new flame / magical collection. Accumulate all the necessary materials, and you'll have one of them!
+
+This chart shows the probability of themed items categorized in different rarities by recipe:
+
+![Dance Among the Flames Recipe](img/dancing_flames_item_recipe_rarity.jpg)
+
+In addition to that, we've added 6 beautiful Healing Crystal Collectibles that you can find in the adventure! These Healing Crystal collectibles are extremely useful for the Foundry recipes, so don't let this opportunity pass you by!
+
+The finding probability of Healing Crystal Collectibles have been boosted during the 3rd epoch of RoR Season 4:
+
+May 22nd 2023, 0:00:00 ~ Jun 5th 2023, 0:00:00 (UTC+0)
+
+After the end time. the collectibles in each adventure area will be back to normal.
+
+![Dance Among the Flames Collectibles](img/dance_flames_collectibles_rarity.jpg)
+
+### Butterfly Garden Party (Ended)
 
 ![Butterfly Garden Party](img/butterfly_forge_en.jpg)
 

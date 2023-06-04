@@ -27,16 +27,52 @@ Shortcuts to each Rarity Competition epoch:
 
 * 6th Epoch (Coming soon)
 * 5th Epoch (Coming soon)
-* 4th Epoch (Coming soon)
-* 3rd Epoch (Coming soon)
+* [4th Epoch - 2023: A Space Ottyssey](#4th-epoch)
+* [3rd Epoch - Dance Among the Flames](#3rd-epoch)
 * [2nd Epoch - Purple Butterfly Garden Party](#2nd-epoch)
 * [1st Epoch - Cybercat City](#1st-epoch)
 
 ---
 
-## 2ns Epoch - Purple Butterfly Garden Party <a href="#2nd-epoch" id="2nd-epoch"></a>
+## 4th Epoch - 2023: A Space Ottyssey <a href="#4th-epoch" id="4th-epoch"></a>
 
-![S4 2ns Epoch](img/s4_epoch2.jpg)
+![S4 4th Epoch](img/s4_epoch4.jpg)
+
+* Event Duration: Jun 5, 2023 0:00 ~ Jun 26, 2023 0:00 (UTC)
+
+Greetings cherished otters, we are overjoyed to invite you to our mesmerizing "2023: A Space Ottyssey"! Immerse yourselves in the awe-inspiring beauty of shimmering "Sparkle", mysterious "Cosmos" and the playful charm of the "Otter" as we revel together amidst a galaxy of twinkling stars.
+
+Throughout this campaign, you'll have the opportunity to garner extra Rarity Score and multipliers by adorning your Ottos in sync with the theme requirements of **Sparkle**, **Cosmos**, and **Otter**. Allow the radiant gleam of distant celestial bodies and the enchanting allure of otters to carry you away on a unique journey through space! Let us pay tribute to the renowned movie "2001: A Space Odyssey" as we embark on our own extraordinary Ottyssey in 2023!
+
+### Rewards
+
+The reward pool for this epoch is **2,000 $MATIC**. Rarity Competition rewards will be shared with only the top 10% of Ottos, so don't miss out!
+
+---
+
+## 3rd Epoch - Dance Among the flames (Ended) <a href="#3rd-epoch" id="3rd-epoch"></a>
+
+![S4 3rd Epoch](img/s4_epoch3.jpg)
+
+* Event Duration: May 15, 2023 0:00 ~ Jun 5, 2023 0:00 (UTC)
+
+We are thrilled to usher you into our bewitching world of the fire festivity! Surrender to the mesmerizing charm of leaping flames and vibrant embers, enveloping you in a dance of warmth and vitality.
+
+### Rewards
+
+The reward pool for this epoch is **2,000 $MATIC**. Rarity Competition rewards will be shared with only the top 10% of Ottos, so don't miss out!
+
+The epoch has ended and the top 3 winners are as follows:
+
+Coming soon
+
+Click [here](https://ottopia.app/leaderboard?epoch=19) to view the final rarity ranking of all Otto NFTs for this epoch.
+
+---
+
+## 2nd Epoch - Purple Butterfly Garden Party (Ended) <a href="#2nd-epoch" id="2nd-epoch"></a>
+
+![S4 2nd Epoch](img/s4_epoch2.jpg)
 
 * Event Duration: Apr 24, 2023 0:00 ~ May 15, 2023 0:00 (UTC)
 
@@ -47,6 +83,12 @@ During this campaign, you'll have the chance to earn extra Rarity Score and mult
 ### Rewards
 
 The reward pool for this epoch is **2,000 $MATIC**. Rarity Competition rewards will be shared with only the top 10% of Ottos, so don't miss out!
+
+The epoch has ended and the top 3 winners are as follows:
+
+![S4 2nd Epoch Winner](img/ror_s4_winner2.jpg)
+
+Click [here](https://ottopia.app/leaderboard?epoch=18) to view the final rarity ranking of all Otto NFTs for this epoch.
 
 ---
 
