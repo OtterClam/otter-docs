@@ -26,6 +26,26 @@ The $FISH token can only be used within the Ottopia website. This token will be 
 
 ## Seasonal recipe  <a href="#seasonal-recipe" id="seasonal-recipe"></a>
 
+### 2023: A Space Ottyssey
+
+![Space Ottyssey](img/space_ottyssey_forge_en.jpg)
+
+Buckle up, fellow Ottronauts, and get ready for an unforgettable expedition into the cosmos. Welcome to the "Space Ottyssey" party - your adventure among the stars begins now!
+
+This chart shows the probability of themed items categorized in different rarities by recipe:
+
+![Space Ottyssey Recipe](img/space_ottyssey_item_recipe_rarity.jpg)
+
+In addition to that, we've added 6 fancy Nanoplanet Collectibles that you can find in the adventure! These Nanoplanet collectibles are extremely useful for the Foundry recipes, so don't let this opportunity pass you by!
+
+The finding probability of Nanoplanet Collectibles have been boosted during the 4th epoch of RoR Season 4:
+
+Jun 12th 2023, 0:00:00 ~ Jun 26th 2023, 0:00:00 (UTC+0)
+
+After the end time. the collectibles in each adventure area will be back to normal.
+
+![Space Ottyssey Collectibles](img/space_ottyssey_collectibles_rarity.jpg)
+
 ### Dance Among the Flames (Ended)
 
 ![Dance Among the Flames](img/dancing_flames_forge_en.jpg)

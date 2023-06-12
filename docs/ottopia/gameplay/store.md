@@ -54,6 +54,22 @@ Here is the formula used to show the probability of finding different rarity equ
 ## Special Chest <a href="#shell-chest" id="special-chest"></a>
 Ottopia occasionally has themed chest sales with gorgeous exclusive items.
 
+### Space Ottyssey Chest
+
+![Space Ottyssey Chest Sale](img/space_ottyssey_chest.jpg)
+
+Greetings cosmic travelers! We're over the moon to invite you to explore the captivating universe of our newly launched Space Ottyssey Chest! Immerse yourself in the hypnotic magic of the "Cosmos", the twinkling "Sparkle" of distant celestial bodies, and the endearing charm of our spacefaring "Otter".
+
+With each Space Ottyssey Chest, you're guaranteed a 100% chance of discovering an "Otter", "Cosmos", or "Sparkle" item. Plus, hold onto your spacesuits, there's a thrilling 40% chance of unearthing completely brand new items!
+
+Embark on your cosmic journey and let the Space Ottyssey Chest propel you to new dimensions of enchantment. To infinity… and beyond!
+
+Themed sale duration: Jun 12th 2023, 0:00:00 ~ Jun 26th 2023, 0:00:00 (UTC+0)
+
+Here is the formula used to show the probability of finding different rarity equipment in a Space Ottyssey Chest.
+
+![Space Ottyssey Chest](img/space_ottyssey_chest_chart.jpg)
+
 ### Dance Among the Flames Chest (Ended)
 
 ![Dance Among the Flames Chest Sale](img/dance_flames_chest.jpg)
