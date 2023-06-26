@@ -26,11 +26,27 @@ Don't miss out on the chance to showcase your skills and prove your Rarity prowe
 Shortcuts to each Rarity Competition epoch:
 
 * 6th Epoch (Coming soon)
-* 5th Epoch (Coming soon)
+* [5th Epoch - Summer Festival](#5th-epoch)
 * [4th Epoch - 2023: A Space Ottyssey](#4th-epoch)
 * [3rd Epoch - Dance Among the Flames](#3rd-epoch)
 * [2nd Epoch - Purple Butterfly Garden Party](#2nd-epoch)
 * [1st Epoch - Cybercat City](#1st-epoch)
+
+---
+
+## 5th Epoch - Summer Festival <a href="#5th-epoch" id="5th-epoch"></a>
+
+![S4 5th Epoch](img/s4_epoch5.jpg)
+
+* Event Duration: Jun 26, 2023 0:00 ~ Jul 17, 2023 0:00 (UTC)
+
+Kon'nichiwa, friends! We're excited to invite you to our "Summer Festival" celebration, a vibrant blend of **Firework**, **Matsuri**, and **Summer**. Embrace the joys of Japanese culture in traditional kimonos or yukatas, enjoy the lively plaza with its festival vendors, and bask in the brilliant display of fireworks in the warm summer night.
+
+Throughout this campaign, you'll have the opportunity to garner extra Rarity Score and multipliers by adorning your Ottos in sync with the theme requirements of **Sparkle**, **Cosmos**, and **Otter**. Come, join us for a memorable matsuri experience under the shimmering night sky. Your summer adventure awaits at the **Summer Festival**!
+
+### Rewards
+
+The reward pool for this epoch is **2,000 $MATIC**. Rarity Competition rewards will be shared with only the top 10% of Ottos, so don't miss out!
 
 ---
 

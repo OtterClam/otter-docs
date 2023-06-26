@@ -26,7 +26,7 @@ The $FISH token can only be used within the Ottopia website. This token will be 
 
 ## Seasonal recipe  <a href="#seasonal-recipe" id="seasonal-recipe"></a>
 
-### 2023: A Space Ottyssey
+### 2023: A Space Ottyssey (Ended)
 
 ![Space Ottyssey](img/space_ottyssey_forge_en.jpg)
 
