@@ -42,7 +42,7 @@ Shortcuts to each Rarity Competition epoch:
 
 Kon'nichiwa, friends! We're excited to invite you to our "Summer Festival" celebration, a vibrant blend of **Firework**, **Matsuri**, and **Summer**. Embrace the joys of Japanese culture in traditional kimonos or yukatas, enjoy the lively plaza with its festival vendors, and bask in the brilliant display of fireworks in the warm summer night.
 
-Throughout this campaign, you'll have the opportunity to garner extra Rarity Score and multipliers by adorning your Ottos in sync with the theme requirements of **Sparkle**, **Cosmos**, and **Otter**. Come, join us for a memorable matsuri experience under the shimmering night sky. Your summer adventure awaits at the **Summer Festival**!
+Throughout this campaign, you'll have the opportunity to garner extra Rarity Score and multipliers by adorning your Ottos in sync with the theme requirements of **Firework**, **Matsuri**, and **Summer**. Come, join us for a memorable matsuri experience under the shimmering night sky. Your summer adventure awaits at the **Summer Festival**!
 
 ### Rewards
 
