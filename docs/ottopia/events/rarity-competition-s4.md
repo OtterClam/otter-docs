@@ -25,12 +25,30 @@ Don't miss out on the chance to showcase your skills and prove your Rarity prowe
 
 Shortcuts to each Rarity Competition epoch:
 
-* 6th Epoch (Coming soon)
+* [6th Epoch - Ottovengers](#6th-epoch)
 * [5th Epoch - Summer Festival](#5th-epoch)
 * [4th Epoch - 2023: A Space Ottyssey](#4th-epoch)
 * [3rd Epoch - Dance Among the Flames](#3rd-epoch)
 * [2nd Epoch - Purple Butterfly Garden Party](#2nd-epoch)
 * [1st Epoch - Cybercat City](#1st-epoch)
+
+---
+
+## 6th Epoch - Ottovengers <a href="#6th-epoch" id="6th-epoch"></a>
+
+![S4 6th Epoch](img/s4_epoch6.jpg)
+
+* Event Duration: Jul 17, 2023 0:00 ~ Aug 7, 2023 0:00 (UTC)
+
+Come on fellow heroes! We're thrilled to invite you to join our **Ottovengers**, where the heroic world of otters meets the thrilling realms of famous heros and heroines we are famaliar with. Prepare to be electrified by the power of **Lightning**, and delve into the empowering symbolism of the **Fish** – a symbol of perseverance, fortitude, and the spirit of heroism shared by our beloved Ottovengers.
+
+So don your capes, embrace your inner hero, and join us for a party unlike any other. Welcome to the "Ottovengers" - where every otter channels the spirit of a true hero!
+
+### Rewards
+
+The reward pool for this epoch is **TBD**. Rarity Competition rewards will be shared with only the top 10% of Ottos, so don't miss out!
+
+Click [here](https://ottopia.app/leaderboard?epoch=22) to view the current rarity ranking of all Ottos for this epoch.
 
 ---
 
@@ -48,6 +66,12 @@ Throughout this campaign, you'll have the opportunity to garner extra Rarity Sco
 
 The reward pool for this epoch is **2,000 $MATIC**. Rarity Competition rewards will be shared with only the top 10% of Ottos, so don't miss out!
 
+The epoch has ended and the top 3 winners are as follows:
+
+Comming soon
+
+Click [here](https://ottopia.app/leaderboard?epoch=21) to view the final rarity ranking of all Otto NFTs for this epoch.
+
 ---
 
 ## 4th Epoch - 2023: A Space Ottyssey <a href="#4th-epoch" id="4th-epoch"></a>
@@ -63,6 +87,12 @@ Throughout this campaign, you'll have the opportunity to garner extra Rarity Sco
 ### Rewards
 
 The reward pool for this epoch is **2,000 $MATIC**. Rarity Competition rewards will be shared with only the top 10% of Ottos, so don't miss out!
+
+The epoch has ended and the top 3 winners are as follows:
+
+![S4 4th Epoch Winner](img/ror_s4_winner4.jpg)
+
+Click [here](https://ottopia.app/leaderboard?epoch=20) to view the final rarity ranking of all Otto NFTs for this epoch.
 
 ---
 

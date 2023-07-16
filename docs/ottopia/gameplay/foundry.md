@@ -26,6 +26,26 @@ The $FISH token can only be used within the Ottopia website. This token will be 
 
 ## Seasonal recipe  <a href="#seasonal-recipe" id="seasonal-recipe"></a>
 
+### Summer Festival (Ended)
+
+![Summer Festival](img/summer_festival_forge_en.jpg)
+
+Don your yukatas, enjoy the traditional fare, and revel under the stunning fireworks display. Join us for a memorable celebration of Japanese culture and summer warmth.
+
+This chart shows the probability of themed items categorized in different rarities by recipe:
+
+![Summer Festival Recipe](img/summer_festival_forge_rarity.jpg)
+
+In addition to that, we've added 6 beautiful Matsuri lanterns that you can find in the adventure! These Matsuri lantern collectibles are extremely useful for the Foundry recipes, so don't let this opportunity pass you by!
+
+The finding probability of Matsuri lantern Collectibles have been boosted during the 5th epoch of RoR Season 4:
+
+Jul 3rd 2023, 0:00:00 ~ Jul 17th 2023, 0:00:00 (UTC+0)
+
+After the end time. the collectibles in each adventure area will be back to normal.
+
+![Summer Festival Collectibles](img/summer_festival_collectibles_rarity.jpg)
+
 ### 2023: A Space Ottyssey (Ended)
 
 ![Space Ottyssey](img/space_ottyssey_forge_en.jpg)
