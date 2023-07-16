@@ -54,6 +54,22 @@ Here is the formula used to show the probability of finding different rarity equ
 ## Special Chest <a href="#shell-chest" id="special-chest"></a>
 Ottopia occasionally has themed chest sales with gorgeous exclusive items.
 
+### Summer Festival Chest (Ended)
+
+![Summer Festival Chest Sale](img/matsuri_chest.jpg)
+
+Konnichiwa, festival-goers! We're absolutely delighted to unveil the vibrant world of our freshly launched "Summer Festival Chest"! Submerge yourself in the dazzling spectacle of "Firework", the lively atmosphere of "Matsuri", and the radiant joy of "Summer".
+
+With each "Summer Festival Chest", you're assured a 100% chance of finding a "Firework", "Matsuri", or "Summer" item. And keep your festival fan ready, as there's an exciting 40% chance of discovering entirely new items!
+
+Dive into your festival adventure and let the "Summer Festival Chest" transport you into a world filled with Japanese charm and summer excitement. Let the celebration begin!
+
+Themed sale duration: Jul 3rd 2023, 0:00:00 ~ Jul 17th 2023, 0:00:00 (UTC+0)
+
+Here is the formula used to show the probability of finding different rarity equipment in a Summer Festival Chest.
+
+![Summer Festival Chest](img/summer_festival_chest_chart.jpg)
+
 ### Space Ottyssey Chest (Ended)
 
 ![Space Ottyssey Chest Sale](img/space_ottyssey_chest.jpg)
