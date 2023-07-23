@@ -54,6 +54,22 @@ Here is the formula used to show the probability of finding different rarity equ
 ## Special Chest <a href="#shell-chest" id="special-chest"></a>
 Ottopia occasionally has themed chest sales with gorgeous exclusive items.
 
+### Ottovengers Chest
+
+![Ottovengers Chest Sale](img/ottovengers_chest.jpg)
+
+Hello, brave heroes! We're thrilled to unveil the treasure trove of our freshly launched "Ottovengers Chest"! Dive into the heroic world of "Ottovengers", feel the electrifying thrill of "Lightning", and embrace the empowering symbolism of the "Fish".
+
+With every "Ottovengers Chest", you're guaranteed a 100% chance of unearthing an "Ottovengers", "Lightning", or "Fish" item. Plus, keep your capes ready, there's an exciting 40% chance of discovering completely new heroic items!
+
+Embark on your heroic adventure and let the "Ottovengers Chest" propel you into the exciting world of otter superheroes. Suit up, the Ottovengers need you!
+
+Themed sale duration: Jul 24th 2023, 0:00:00 ~ Aug 7th 2023, 0:00:00 (UTC+0)
+
+Here is the formula used to show the probability of finding different rarity equipment in a Ottovengers Chest.
+
+![Ottovengers Chest](img/ottovengers_chest_chart.jpg)
+
 ### Summer Festival Chest (Ended)
 
 ![Summer Festival Chest Sale](img/matsuri_chest.jpg)

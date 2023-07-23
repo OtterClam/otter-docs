@@ -26,6 +26,26 @@ The $FISH token can only be used within the Ottopia website. This token will be 
 
 ## Seasonal recipe  <a href="#seasonal-recipe" id="seasonal-recipe"></a>
 
+### Ottovengers
+
+![Ottovengers](img/ottovengers_forge_en.jpg)
+
+Embark on your heroic adventure and let the Ottovengers propel you into the exciting world of otter superheroes. Suit up by forging to create heroic gears, the Ottovengers need you!
+
+This chart shows the probability of themed items categorized in different rarities by recipe:
+
+![Ottovengers Recipe](img/ottovengers_item_recipe_rarity.jpg)
+
+In addition to that, we've added 6 mysterious Arcane Potions that you can find in the adventure! These Arcane Potion collectibles are extremely useful for the Foundry recipes, so don't let this opportunity pass you by!
+
+The finding probability of Arcane Potion Collectibles have been boosted during the 6th epoch of RoR Season 4:
+
+Jul 24th 2023, 0:00:00 ~ Aug 7th 2023, 0:00:00 (UTC+0)
+
+After the end time. the collectibles in each adventure area will be back to normal.
+
+![Ottovengers Collectibles](img/ottovengers_collectibles_rarity.jpg)
+
 ### Summer Festival (Ended)
 
 ![Summer Festival](img/summer_festival_forge_en.jpg)
