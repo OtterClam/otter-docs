@@ -54,8 +54,10 @@ const sidebars = {
         image: '/static/img/favicon-96x96.png',
       },
       items: [
+        'events/adventure-competition-new',
         'events/adventure-competition-s2',
         'events/adventure-competition-s1',
+        'events/rarity-competition-new',
         'events/rarity-competition-s4',
         'events/rarity-competition-s3',
         'events/rarity-competition-s2',
