@@ -55,7 +55,7 @@ Take note that Adventure Points will be erased and reset at the end of each epoc
 
 ## Reward
 
-The reward of the Adventure Competition is in $FISH. We are preparing a total of 15 million $FISH for this season! Each epoch’s reward will be 2.5 million $FISH.
+The reward of the Adventure Competition is in $FISH. We are preparing a total of 2.5 million $FISH for each epoch!
 
 Start going on adventures with your Otto gang and earn these juicy $FISH!
 

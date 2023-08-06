@@ -29,7 +29,7 @@ Shortcuts to each Rarity Competition epoch:
 
 ---
 
-## 1st Epoch - Cybercat City (Ended) <a href="#1st-epoch" id="1st-epoch"></a>
+## 1st Epoch - Back to School <a href="#1st-epoch" id="1st-epoch"></a>
 
 ![New 1st Epoch](img/ror_epoch1.jpg)
 
