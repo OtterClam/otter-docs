@@ -34,7 +34,7 @@ Shortcuts to each Rarity Competition epoch:
 
 ---
 
-## 6th Epoch - Ottovengers <a href="#6th-epoch" id="6th-epoch"></a>
+## 6th Epoch - Ottovengers (Ended) <a href="#6th-epoch" id="6th-epoch"></a>
 
 ![S4 6th Epoch](img/s4_epoch6.jpg)
 
@@ -46,13 +46,17 @@ So don your capes, embrace your inner hero, and join us for a party unlike any o
 
 ### Rewards
 
-The reward pool for this epoch is **TBD**. Rarity Competition rewards will be shared with only the top 10% of Ottos, so don't miss out!
+The reward pool for this epoch is **2,000 WMATIC**. Rarity Competition rewards will be shared with only the top 10% of Ottos, so don't miss out!
 
-Click [here](https://ottopia.app/leaderboard?epoch=22) to view the current rarity ranking of all Ottos for this epoch.
+The epoch has ended and the top 3 winners are as follows:
+
+![S4 6th Epoch Winner](img/ror_s4_winner6.jpg)
+
+Click [here](https://ottopia.app/leaderboard?epoch=22) to view the final rarity ranking of all Otto NFTs for this epoch.
 
 ---
 
-## 5th Epoch - Summer Festival <a href="#5th-epoch" id="5th-epoch"></a>
+## 5th Epoch - Summer Festival (Ended) <a href="#5th-epoch" id="5th-epoch"></a>
 
 ![S4 5th Epoch](img/s4_epoch5.jpg)
 
@@ -74,7 +78,7 @@ Click [here](https://ottopia.app/leaderboard?epoch=21) to view the final rarity 
 
 ---
 
-## 4th Epoch - 2023: A Space Ottyssey <a href="#4th-epoch" id="4th-epoch"></a>
+## 4th Epoch - 2023: A Space Ottyssey (Ended) <a href="#4th-epoch" id="4th-epoch"></a>
 
 ![S4 4th Epoch](img/s4_epoch4.jpg)
 
