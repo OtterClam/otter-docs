@@ -26,9 +26,11 @@ So dust off your trusty gear, hone your skills, and join us for the 2nd season o
 
 * Event Duration: Jul 17, 2023 0:00 ~ Aug 7, 2023 0:00 (UTC)
 
-The 6th epoch is live now. Get ready to the adventure and collect AP and find treasure rewards!
+The epoch has ended and the top 3 winners are as follows:
 
-Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=22) to view the current AP ranking of all Ottos for this epoch.
+![S2 6th Epoch Winners](img/ap_s2_winner6.jpg)
+
+Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=22) to view the final AP ranking of all Ottos for this epoch.
 
 ---
 
@@ -42,7 +44,7 @@ The epoch has ended and the top 3 winners are as follows:
 
 ![S2 5th Epoch Winners](img/ap_s2_winner5.jpg)
 
-Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=21) to view the current AP ranking of all Ottos for this epoch.
+Click [here](https://ottopia.app/leaderboard?adventure=1&epoch=21) to view the final AP ranking of all Ottos for this epoch.
 
 ---
 
