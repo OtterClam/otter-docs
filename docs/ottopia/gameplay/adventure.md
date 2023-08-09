@@ -94,6 +94,9 @@ The following chart shows the difficulty and estimated rewards from every area a
 | Ancient Ruins    | 💀💀💀     | LV1        | 150        | 20%          | 60%              | 32%               | 8%                |
 | Lojave Desert    | 💀💀💀     | LV3        | 150        | 20%          | 60%              | 32%               | 8%                |
 | Frozen Mountain    | 💀💀💀💀     | LV6        | 250        | 20%          | 60%              | 32%               | 8%                |
+| Golden Beach*     | 💀         | LV1         | 80         | 50%          | 90%              | 10%               | 0%                |
+
+* `*` indicates a newly introduced *staking* area with slightly different mechanics, see the [Staking](#staking) section below.
 
 ### Rewards
 
@@ -198,6 +201,20 @@ The different attribute advantages your Otto possesses will significantly affect
 | DEF ≥ 70            | +20%               |
 | DEF ≥ 80            | +25%               |
 
+**Golden Beach**
+
+| Attribute condition | Success rate boost |
+| ------------------- | ------------------ |
+| CUTE ≥ 45            | +10%               |
+| CUTE ≥ 55            | +15%               |
+| CUTE ≥ 65            | +20%               |
+| CUTE ≥ 75            | +25%               |
+| CON ≥ 50            | +10%               |
+| CON ≥ 60            | +15%               |
+| CON ≥ 70            | +20%               |
+| CON ≥ 80            | +25%               |
+
+
 #### Zodiac bonus
 
 Adventure success rate +10%; get 1 extra item
@@ -218,12 +235,12 @@ Ottos can use Experience Potion to get double EXP or use Strength Potion to doub
 
 ![Potion boost](img/adventure/potion_boosted.jpg)
 
-You can check the effect and price of potions in the chart below.
+You can check the effect in the chart below.
 
-| Image                                    | Name              | Effect                                                                                                              | Price in the Ottopia Store |
-| ---------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| ![](img/adventure/Experience_Potion.png) | Experience Potion | This item can be used to double the amount of experience earned for an adventure. It is a one-time consumable item. | 1 $CLAM                    |
-| ![](img/adventure/Strength_Potion.png)   | Strength Potion   | This item can be used to double the amount of items you collect in an adventure. It is a one-time consumable item.  | 2 $CLAM                    |
+| Image                                    | Name              | Effect                                                                                                              | 
+| ---------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------- | 
+| ![](img/adventure/Experience_Potion.png) | Experience Potion | This item can be used to double the amount of experience earned for an adventure. It is a one-time consumable item. | 
+| ![](img/adventure/Strength_Potion.png)   | Strength Potion   | This item can be used to double the amount of items you collect in an adventure. It is a one-time consumable item.  | 
 
 ## During the Adventure
 
@@ -235,7 +252,7 @@ But, if you'd like to cast a magic spell to speed up the time, wait no longer!
 There are two methods to speed up an Otto's adventure time:
 
 1. Use [Speedy Potions](#speedy-potion) to accelerate.
-2. Use $CLAM to finish immediately.
+2. Use $MATIC to finish immediately.
 
 ![Speed up](img/adventure/adventure_exploring.jpg)
 
@@ -245,15 +262,15 @@ There are three kinds of speedy potions. You can get them at the store or at com
 
 | Image                                       | Name                 | Effect                                                                                                                               | Price in the Ottopia Store |
 | ------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
-| ![](img/adventure/Speedy_Potion_Blonze.png) | 1-hour Speedy Potion | After using the potion, you can accelerate the remaining time of the current adventure by 1 hour. It is a one-time consumable item.  | 1 $CLAM                    |
-| ![](img/adventure/Strength_Potion.png)      | 3-hour Speedy Potion | After using the potion, you can accelerate the remaining time of the current adventure by 3 hours. It is a one-time consumable item. | 2.5 $CLAM                  |
-| ![](img/adventure/Speedy_Potion_Golden.png) | 6-hour speedy potion | After using the potion, you can accelerate the remaining time of the current adventure by 6 hours. It is a one-time consumable item. | 4 $CLAM                    |
+| ![](img/adventure/Speedy_Potion_Blonze.png) | 1-hour Speedy Potion | After using the potion, you can accelerate the remaining time of the current adventure by 1 hour. It is a one-time consumable item.  | 6000 $FISH                    |
+| ![](img/adventure/Strength_Potion.png)      | 3-hour Speedy Potion | After using the potion, you can accelerate the remaining time of the current adventure by 3 hours. It is a one-time consumable item. | 15000 $FISH                  |
+| ![](img/adventure/Speedy_Potion_Golden.png) | 6-hour speedy potion | After using the potion, you can accelerate the remaining time of the current adventure by 6 hours. It is a one-time consumable item. | 24000 $FISH                    |
 
-### Spending CLAM by Hour
+### Spending MATIC by Hour
 
-For example, Otto still has three and a half hours remaining in the adventure, so according to the chart below, it will take Otto 4 $CLAM to finish it immediately.
+For example, Otto still has three and a half hours remaining in the adventure, so according to the chart below, it will take Otto 4 $MATIC to finish it immediately.
 
-| Time Remaining (hrs.) | $CLAM |
+| Time Remaining (hrs.) | $MATIC |
 | --------------------- | ----- |
 | >11                   | 15    |
 | ≤11                   | 13    |
@@ -292,7 +309,7 @@ There’s still a specific probability that your Otto fails to complete the adve
 
 Kodamas are Ottopian tree spirits that reside in special trees in ancient forests. Kodama has white skin with black and gray, glowing eyes. Each Kodama has three black dots on their faces to symbolize their eyes and mouth.
 
-You can spend 1 $CLAM to summon a “Kodama" to help you bring back all found items during a failed adventure. Kodamas have a very strong connection to everything in Ottopia, and those cute and adorable spirits will return your items completely and safely. It is a one-time use summon, so if your Otto fails another adventure, you must summon Kodama to help you again.
+You can spend 1 $MATIC to summon a “Kodama" to help you bring back all found items during a failed adventure. Kodamas have a very strong connection to everything in Ottopia, and those cute and adorable spirits will return your items completely and safely. You will also recover 50% of the AP and 30% of the EXP. It is a one-time use summon, so if your Otto fails another adventure, you must summon Kodama to help you again.
 
 ## Rest
 
@@ -320,13 +337,23 @@ If your Otto levels up during the current adventure, your Otto will be rewarded 
 There are two methods to speed up Otto's resting time:
 
 1. Use Speedy Potion to accelerate.
-2. Use $CLAM to finish immediately.
+2. Use $MATIC to finish immediately.
 
 Note: A Speedy Potion that is used to accelerate the adventure time will not also accelerate the resting time.
 
 For example, if you use a 6-hour Speedy Potion on an Otto whose adventure has 3 hrs left (Total adventure time is 12 hrs), the Otto’s adventure time will be finished immediately, but the resting time will not be affected. You still need to wait 12hrs. for the resting period to complete (You can use another potion to speed up, of course).
 
 After resting, your Otto can go on to another adventure!
+
+---
+
+## Staking
+
+Some adventure areas are designated as a 'staking' area, which behaves slightly differently. These areas have no resting time, and accumulate rewards the longer the Otto is adventuring (or relaxing in the case of the beach). The Golden Beach adventuring time of 8 hours dictates how often the rewards can accumulate. For every 8 hours, which we will call a 'staking round,' that an Otto is staked at Golden Beach, the Otto has a chance of generating rewards, based on the success rate.  If you return the Otto right after 8 hours, you get one round of rewards, and if you return the Otto right after 16 hours, you get two rounds of rewards, and so on. This will continue up to a maximum of 21 rounds, or 7 days. Thus, to minimize the impact of gas fees, send out your Otto and collect the Otto after 7 days, and repeat as desired. Of course you can recall them earlier if you would like to fetch the rewards earlier. At this time there is no option to receive rewards and continue staking, though that can be added in the future.
+
+You can see the information about how many staking rounds an Otto has passed as well when you check on them, e.g. 
+
+![Staking Info](img/adventure/staking_rounds_info.jpg)
 
 ---
 
@@ -508,13 +535,3 @@ Each area can get different Adventure Points (AP) as shown below.
 Adventure Points (AP) can be the score in the adventure ranking competition. The higher your Otto rank, the more rewards you'll receive, so assess your risk tolerance and embark on your adventure! Adventure Points will be erased and reset after the end of each epoch of adventure ranking competition.
 
 To learn more about the adventure leaderboard, please go to [Adventure Leaderboard](../events/adventure-competition-s1).
-
----
-
-## My Gallery <a href="#my-gallery" id="my-gallery"></a>
-
-Collectibles you get from the adventure will be displayed in "My Gallery." The more collectibles you have, the higher your [Civilization Points (CP)](#civilization-points) will be.
-
-### Civilization Points <a href="#civilization-points" id="civilization-points"></a>
-
-Civilization Points (CP) can be used in various competitions in the future to give your Otto some advantages. Stay tuned!
