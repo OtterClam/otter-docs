@@ -353,7 +353,7 @@ Some adventure areas are designated as a 'staking' area, which behaves slightly 
 
 You can see the information about how many staking rounds an Otto has passed as well when you check on them, e.g. 
 
-![Staking Info](img/adventure/staking_rounds_info.jpg)
+![Staking Info](img/adventure/staking_rounds_info.png)
 
 ---
 
